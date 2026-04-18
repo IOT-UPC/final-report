@@ -40,6 +40,26 @@ No obstante, Valeria también advierte sobre posibles riesgos técnicos y psicol
 
 Entrevista 2:
 
+![entrevista2.jpeg](chapter-2/entrevista2.jpeg)
+
+| Nombre               | Ángeles            |
+|----------------------|--------------------|
+| Apellido             | Mondoñedo          |
+| Edad                 | 26                 |
+| Distrito             | Pueblo Libre, Lima | 
+| URL                  |                    |
+| Profesión            | Psicóloga          |
+| Inicio de entrevista |                    |
+| Fin de entrevista    |                    |
+
+**Resumen de entrevista:**
+
+Esta entrevista presenta a Ángeles Mondoñedo López, una estudiante de psicología residente en el distrito de Pueblo Libre, Lima, quien comparte su perspectiva profesional sobre el desarrollo de un nuevo dispositivo tecnológico diseñado para el monitoreo de la salud emocional y física de los pacientes. Ángeles menciona que, aunque existen herramientas similares como el Apple Watch para medir indicadores como el ritmo cardíaco y la temperatura, una aplicación específica que permita registrar estados de ánimo, niveles de estrés y emociones sería de gran utilidad para pacientes de todas las edades, facilitando el reconocimiento de sus propios procesos internos.
+
+En cuanto al seguimiento clínico, la entrevistada sugiere que una frecuencia de dos veces por semana es ideal para mantener la continuidad, superando la barrera de las agendas ocupadas mediante el uso de plataformas digitales que permiten reuniones virtuales. Respecto a la implementación de alertas en tiempo real ante crisis de ansiedad, Ángeles valora positivamente la notificación simultánea al psicólogo y al paciente, permitiendo que ambos estén al tanto de la situación. Sin embargo, advierte que la intervención debe ser cuidadosa; propone el envío de un mensaje previo antes de realizar una llamada directa para evitar ser invasivos y no incrementar la ansiedad del paciente en un momento vulnerable.
+
+Finalmente, la profesional reflexiona sobre los riesgos de un monitoreo constante, señalando que el exceso de alertas podría resultar contraproducente para personas con rasgos ansiosos, por lo que sugiere una gestión moderada de las notificaciones. Como valor agregado para la plataforma, propone la inclusión de una lista de contactos de emergencia de acceso rápido, que incluya no solo a familiares, sino también a servicios de serenazgo, policía y clínicas, optimizando el tiempo de respuesta ante situaciones críticas que el paciente o el terapeuta no puedan manejar por sí solos.
+
 Entrevista 3:
 
 - Segmento: Pacientes.
