@@ -20,7 +20,11 @@
 
 #### 4.1.3.2. Software Architecture Context Level Diagrams.
 
+<img src="chapter-4/System_Context_Diagram%20(1).png" alt="Software Architecture Context Level Diagram" />
+
 #### 4.1.3.2. Software Architecture Container Level Diagrams.
+
+<img src="chapter-4/DiagramaContenedores.jpeg" alt="Software Architecture Container Level Diagram" />
 
 #### 4.1.3.3. Software Architecture Deployment Diagrams.
 
