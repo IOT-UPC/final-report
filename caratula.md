@@ -32,6 +32,18 @@
           <td>Maita Falckenheiner, Romina Guadalupe</td>
           <td>U202213765</td>
         </tr>
+        <tr>
+          <td>Sulca Silva, Melisa Geraldine</td>
+          <td>U202224602</td>
+        </tr>
+        <tr>
+          <td>Rivera Ticllacuri, Omar Harold</td>
+          <td>U202214214</td>
+        </tr>
+        <tr>
+          <td>Montañez Moreno, Luis Angel</td>
+          <td>U202223811</td>
+        </tr>
       </tbody>
     </table> 
 </div>
