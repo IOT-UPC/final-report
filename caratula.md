@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Fundamentos-de-Arquitectura/final-project-report/blob/master/assets/logoupc.png?raw=true"  style="width:200px; height:auto;">
+  <img src="https://github.com/user-attachments/assets/7294fb97-b8fe-44f9-9a76-28a3b52a4716" style="width:200px; height:auto;">
 </p>
 
 # <div style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas
