@@ -11,7 +11,7 @@
 ## <div style="text-align: center;"> NRC: 6785 </div>
 ## <div style="text-align: center;"> Profesor: Marco Antonio Leon Baca </div>
 ## <div style="text-align: center;"> Informe del Trabajo Final</div>
-## <div style="text-align: center;"> Nombre del Startup: '' </div>
+## <div style="text-align: center;"> Nombre del Startup: Go8u </div>
 ## <div style="text-align: center;"> Nombre del Producto: PsyMed </div>
 
 ### <div style="text-align: center;"> Integrantes:</div>
@@ -25,12 +25,24 @@
       </thead>
       <tbody>
         <tr>
-          <td>Torres Flores, Paolo Alessandro</td>
-          <td>U20221F613</td>
-        </tr>
-        <tr>
           <td>Maita Falckenheiner, Romina Guadalupe</td>
           <td>U202213765</td>
+        </tr>
+        <tr>
+          <td>Montañez Moreno, Luis Angel</td>
+          <td>U202223811</td>
+        </tr>
+        <tr>
+          <td>Rivera Ticllacuri, Omar Harold</td>
+          <td>U202214214</td>
+        </tr>
+        <tr>
+          <td>Sulca Silva, Melisa Sulca</td>
+          <td>U20224602</td>
+        </tr>
+        <tr>
+          <td>Torres Flores, Paolo Alessandro</td>
+          <td>U20221F613</td>
         </tr>
       </tbody>
     </table> 
