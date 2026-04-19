@@ -297,7 +297,7 @@ Entrevista 2:
 |----------------------|--------------------|
 | Apellido             | Barrientos         |
 | Edad                 | 21                 |
-| Distrito             | Rimac              | 
+| Distrito             | Lima               | 
 | URL                  |                    |
 | Profesión            | Estudiante         |
 | Inicio de entrevista |                    |
@@ -305,7 +305,7 @@ Entrevista 2:
 
 **Resumen de entrevista:**
 
-En esta entrevista, una estudiante de Ingeniera de Software de 20 años que vive con sus familia en Lima comparte su experiencia y percepción sobre el uso de tecnología en el monitoreo de la salud mental. En su vida cotidiana utiliza principalmente su celular y laptop, y cuenta con un smartwatch básico enfocado en actividad física y monitoreo del sueño.
+En esta entrevista, una estudiante de Ingeniera de Software de 21 años que vive con su familia en Lima comparte su experiencia y percepción sobre el uso de tecnología en el monitoreo de la salud mental. En su vida cotidiana utiliza principalmente su celular y laptop, y cuenta con un smartwatch básico enfocado en actividad física y monitoreo del sueño.
 
 Respecto al uso de dispositivos wearables orientados a la salud emocional, inicialmente muestra cierta preocupación por la sensación de ser vigilado. Sin embargo, señala que, con una adecuada explicación sobre su propósito, podría percibirlo como una herramienta útil para aumentar la conciencia sobre sus emociones. Valora especialmente la posibilidad de recibir alertas, siempre que estas sean sutiles y no invasivas, como recordatorios suaves para relajarse o respirar.
 
