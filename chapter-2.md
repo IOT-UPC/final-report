@@ -24,10 +24,10 @@ competencia y asegurar el éxito del producto.</p></td>
 </tr>
 <tr class="c12">
 <td class="c20" colspan="2" rowspan="1"><p>Logo</p></td>
-<td class="c7" colspan="1" rowspan="1"><p><img src="images/A-logo.png" alt="ArquiTech Logo" width="94" height="94"></p></td>
-<td class="c1" colspan="1" rowspan="1"><p><img src="images/ProcoreLogo.png" alt="Procore Logo" width="91" height="31"></p></td>
-<td class="c1" colspan="1" rowspan="1"><p><img src="images/BuildertrendLogo.png" alt="BuilderTrend Logo" width="88" height="31"></p></td>
-<td class="c9" colspan="1" rowspan="1"><p><img src="images/BuildwiseLogo.png" alt="BuildWise Logo" width="85" height="20"></p></td>
+<td class="c7" colspan="1" rowspan="1"><p><img src="chapter-2/pysmed.jpg" alt="PsyMed Logo" width="90" height="80"></p></td>
+<td class="c1" colspan="1" rowspan="1"><p><img src="chapter-2/apolloNeurojpg.jpg" alt="Apollo Neuro Logo" width="90" height="80"></p></td>
+<td class="c1" colspan="1" rowspan="1"><p><img src="chapter-2/fibitlogo.jpg" alt="Fitbit Logo" width="90" height="80"></p></td>
+<td class="c9" colspan="1" rowspan="1"><p><img src="chapter-2/empatica.jpg" alt="BuildWise Logo" width="90" height="80"></p></td>
 </tr>
 <tr class="c18">
 <td class="c11" colspan="1" rowspan="2"><p>Perfil</p></td>
@@ -116,9 +116,72 @@ competencia y asegurar el éxito del producto.</p></td>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
+Para fortalecer su posición en el mercado, PsyMed se enfocará en potenciar sus principales ventajas competitivas, como la integración de una plataforma de gestión clínica con monitoreo continuo mediante sensores fisiológicos y la incorporación de un actuador de vibración háptica para intervención en tiempo real. Esta combinación permite no solo registrar información, sino también actuar de manera preventiva ante episodios de ansiedad o estrés, diferenciándose claramente de competidores que se enfocan únicamente en monitoreo o bienestar general. Asimismo, la centralización de la información clínica y la mejora en la colaboración entre profesionales refuerzan su propuesta como una solución integral para instituciones de salud mental.
+<br>
+
+Como estrategia de crecimiento, PsyMed buscará establecer alianzas con instituciones de salud, universidades y centros de investigación, lo que permitirá validar clínicamente la efectividad del sistema, mejorar sus capacidades tecnológicas y posicionarse como una solución innovadora dentro del sector. Además, se promoverán programas piloto en clínicas y centros especializados, con el fin de demostrar el impacto real en la reducción de la carga administrativa y la mejora en la atención al paciente.
+<br>
+
+En relación con sus debilidades, como la dependencia de la integración entre hardware y software y la necesidad de adopción por parte de instituciones tradicionales, se implementarán estrategias de capacitación, soporte técnico continuo y diseño centrado en el usuario para facilitar la adopción. Asimismo, se priorizará el desarrollo progresivo del sistema IoT, asegurando su fiabilidad antes de una expansión a gran escala.
+<br>
+
+
 ## 2.2. Entrevistas.
 
 ### 2.2.1. Diseño de entrevistas.
+
+**Preguntas para el segmento de profesionales de la salud mental:**
+
+***Preguntas Objetivas***
+
+- ¿Actualmente utilizas algún dispositivo o tecnología para monitorear a tus pacientes fuera de consulta?
+
+- ¿Qué tipo de datos considera más útiles para el seguimiento clínico (por ejemplo, frecuencia cardíaca, sueño, actividad)?
+
+- ¿Con qué frecuencia realizas seguimiento a tus pacientes entre sesiones?
+<br>
+
+***Preguntas Subjetivas***
+
+- ¿Cuál es la mayor dificultad que enfrenta al hacer seguimiento continuo de sus pacientes?
+
+- ¿Qué tan útil considera el uso de dispositivos IoT para monitorear el estado emocional o fisiológico de los pacientes?
+
+- ¿Qué opinas sobre recibir alertas automáticas cuando un paciente presenta signos de estrés o ansiedad?
+
+- ¿En qué casos considerarías necesario intervenir en tiempo real basándote en datos monitoreados?
+
+- ¿Qué riesgos o limitaciones ve en el uso de dispositivos IoT en salud mental?
+
+- ¿Qué funciones debería tener una plataforma basada en IoT para que realmente la uses en tu práctica?
+<br>
+
+**Preguntas para el segmento de pacientes:**
+
+***Preguntas Objetivas***
+
+ - ¿Utilizas actualmente algún dispositivo wearable (como smartwatch o pulsera inteligente)?
+
+- ¿Qué tipo de dispositivos tecnológicos usas con mayor frecuencia (celular, smartwatch, otros)?
+
+- ¿Con qué frecuencia interactúas con tu profesional de salud mental?
+<br>
+
+***Preguntas Subjetivas***
+
+- ¿Cómo te sentirías usando una pulsera o dispositivo que monitoree tu estado (por ejemplo, estrés o ansiedad)?
+
+- ¿Te gustaría recibir alertas o notificaciones cuando el sistema detecte cambios en tu estado emocional?
+
+- ¿Te sentirías cómodo compartiendo datos de tu salud (como ritmo cardíaco o sueño) con tu terapeuta?
+
+- ¿Qué beneficios esperarías de un sistema que monitoree tu estado en tiempo real?
+
+- ¿Qué preocupaciones tendrías sobre el uso de dispositivos IoT en tu tratamiento?
+
+- ¿Qué características harían que realmente uses este tipo de tecnología en tu día a día?
+<br>
+
 
 ### 2.2.2. Registro de entrevistas.
 
@@ -200,11 +263,68 @@ Además, nos explica que considera interesante que una pulsera monitoree su esta
 Por último, destaca que para él es importante que sus datos sean privados, que solo tengan acceso los profesionales de la salud. 
 
 
+
+Entrevista 2:
+
+![entrevista1_pacientes.png](chapter-2/entrevista2img.jpg)
+
+
+| Nombre               |                    |
+|----------------------|--------------------|
+| Apellido             |                    |
+| Edad                 |                    |
+| Distrito             |                    | 
+| URL                  |                    |
+| Profesión            |                    |
+| Inicio de entrevista |                    |
+| Fin de entrevista    |                    |
+
+**Resumen de entrevista:**
+<br>
+
+Entrevista 3:
+
+![entrevista1_pacientes.png](chapter-2/entrevista3img.jpg)
+
+
+| Nombre               | Leguer             |
+|----------------------|--------------------|
+| Apellido             | Silva              |
+| Edad                 | 22                 |
+| Distrito             | Magdalena del Mar  | 
+| URL                  |                    |
+| Profesión            | Estudiante         |
+| Inicio de entrevista |                    |
+| Fin de entrevista    |                    |
+
+**Resumen de entrevista:**
+
+En esta entrevista, Leguer Silva, de 22 años, estudiante de Ingeniería de Sistemas de Información, comparte aspectos de su vida personal y académica. Entre sus intereses destacan los videojuegos y el ejercicio físico. Durante la universidad atravesó un cuadro de depresión, influenciado por la crianza tradicional de sus padres, caracterizada por golpes y poca comunicación. Esta etapa estuvo marcada por el estrés académico y cursos exigentes que requerían mucho tiempo y dedicación. En la pandemia, con las clases virtuales, sufrió ansiedad que lo llevó a comer en exceso y subir de peso.
+
+Al retomar las clases presenciales, buscó cambiar su estilo de vida y se volvió más consciente de la importancia de cuidar su salud mental y física. Aunque nunca ha usado un dispositivo wearable, le interesa probar uno. Sus preferencias apuntan a que sea pequeño, minimalista y casi imperceptible, con funciones de monitoreo de sueño y bienestar general. Además, desea recibir notificaciones en su teléfono relacionadas con su salud mental, como alertas cuando su nivel de estrés aumente.
+
+Considera más útil que los datos obtenidos por el dispositivo sean enviados a un especialista en salud mental, en lugar de depender de una inteligencia artificial, ya que no la percibe lo suficientemente avanzada para estos temas. Su expectativa es que, mediante el uso de un dispositivo IoT y una aplicación, pueda regular mejor sus niveles de estrés y emociones.
+<br>
+
+
 ### 2.2.3. Análisis de entrevistas.
 
 ## 2.3. Needfinding.
 
 ### 2.3.1. User Personas.
+
+**Segmento #1: Profesionales de la salud** 
+<br>
+
+<p align="center">
+  <img src="chapter-2/UserPersonaSegmento1.png">
+</p>
+
+**Segmento #2: Pacientes**
+<br>
+<p align="center">
+  <img src="chapter-2/UserPersonaSegmento2.png">
+</p>
 
 ### 2.3.2. User Task Matrix.
 
