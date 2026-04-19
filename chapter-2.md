@@ -310,8 +310,10 @@ Considera más útil que los datos obtenidos por el dispositivo sean enviados a 
 ### 2.2.3. Análisis de entrevistas.
 
 ## 2.3. Needfinding.
+Tras realizar las entrevistas, conseguimos reunir información relevante acerca de sus expectativas, dificultades, contexto y otros aspectos importantes. Estos datos serán fundamentales para responder de manera más precisa a sus necesidades y, con ello, mejorar la experiencia de nuestros usuarios. Asimismo, servirán como base para la elaboración de los esquemas correspondientes a User Personas, User Task Matrix, User Journey Maps y Empathy Mapping.
 
 ### 2.3.1. User Personas.
+En el proceso de desarrollar un sitio web orientado a mejorar la labor de los médicos en el ámbito de la salud mental, identificamos que la optimización de la gestión administrativa resulta esencial para elevar la calidad de la atención a los pacientes. Mediante entrevistas con usuarios potenciales y especialistas, obtuvimos información valiosa sobre cómo una plataforma digital puede reducir la carga de tareas administrativas, permitiendo que los médicos dediquen más tiempo a sus pacientes. Las fichas de User Persona que se presentan a continuación reflejan estas necesidades, mostrando cómo una administración más eficiente impacta positivamente tanto en la experiencia del médico como en el bienestar del paciente. Estas herramientas serán clave para diseñar una plataforma que responda de manera efectiva a las expectativas de nuestros usuarios.
 
 **Segmento #1: Profesionales de la salud** 
 <br>
@@ -366,8 +368,18 @@ Considera más útil que los datos obtenidos por el dispositivo sean enviados a 
 
 ### 2.3.4. Empathy Mapping.
 
+**Segmento #1: Profesionales de la salud**
+
+<img src="chapter-2/EmpathyMap1.png" alt="Empathy Map 1" width=auto height="600">
+<br><br>
+
+**Segmento #2: Pacientes con trastorno mental**
+
+<img src="chapter-2/EmpathyMap2.png" alt="Empathy Map 2" width=auto height="600">
+
 ## 2.4. Big Picture EventStorming.
 
+<img src="chapter-2/bigPictureEventStorming.jpg" alt="Big Picture Event Storming" width=auto height="600">
 
 
 ## 2.5. Ubiquitous Language.
