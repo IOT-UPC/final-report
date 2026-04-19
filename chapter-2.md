@@ -340,11 +340,35 @@ Considera más útil que los datos obtenidos por el dispositivo sean enviados a 
 |   Seguimiento del progreso del paciente  |   Alta  |   Siempre  |   Alta  |  A veces  |
 |   Visualización de datos personales de salud  |   Media  |   A veces  |   Alta  |   Siempre  |
 
+### Análisis de la User Task Matrix
+
+#### Médicos de la salud mental
+- **Tareas críticas y frecuentes:**
+  - **Programación y gestión de citas** y **consulta de historial clínico** → Alta importancia y frecuencia **Siempre**, esenciales para el trabajo diario.
+  - **Monitoreo de signos vitales** y **seguimiento del progreso del paciente** → Alta importancia y realizadas de manera constante, requieren herramientas que automaticen y centralicen procesos.
+
+- **Tareas importantes pero menos frecuentes:**
+  - **Revisión de tratamientos y planes terapéuticos** y **recepción de alertas por niveles de ansiedad** → Alta importancia, pero realizadas **A veces**, críticas en momentos específicos.
+  - **Activación de vibración háptica (intervención)** → Importancia media y frecuencia ocasional, recurso complementario más que actividad central.
+
+---
+
+#### Pacientes con trastorno mental
+- **Tareas de mayor impacto en su experiencia:**
+  - **Visualización de datos personales de salud** y **monitoreo de signos vitales** → Alta importancia y frecuencia **Siempre**, necesidad de acceso constante a información clara y confiable.
+  - **Programación y gestión de citas** y **seguimiento del progreso del paciente** → Alta importancia, aunque con frecuencia **A veces**, dependen de la dinámica del tratamiento.
+
+- **Tareas relevantes pero menos constantes:**
+  - **Recepción de alertas por niveles de ansiedad** y **activación de vibración háptica** → Alta importancia, realizadas ocasionalmente como apoyo en situaciones específicas.
+  - **Revisión de tratamientos y planes terapéuticos** y **consulta de historial clínico** → Importancia media y frecuencia baja, acceso puntual a esta información.
+
 ### 2.3.3. User Journey Mapping.
 
 ### 2.3.4. Empathy Mapping.
 
 ## 2.4. Big Picture EventStorming.
+
+
 
 ## 2.5. Ubiquitous Language.
 - Patient (Paciente): Persona que recibe atención de un profesional de salud mental y cuyo estado es monitoreado continuamente mediante la plataforma y un dispositivo IoT. El paciente puede registrar información subjetiva (estado emocional) y generar datos fisiológicos automáticamente a través de sensores.
