@@ -365,17 +365,32 @@ En el proceso de desarrollar un sitio web orientado a mejorar la labor de los m�
   - **Revisión de tratamientos y planes terapéuticos** y **consulta de historial clínico** → Importancia media y frecuencia baja, acceso puntual a esta información.
 
 ### 2.3.3. User Journey Mapping.
+El User Journey Mapping se desarrolló para comprender la experiencia de los usuarios al interactuar con
+nuestra plataforma. Este mapeo detalla cada paso que el usuario realiza, los obstáculos que puede encontrar,
+y las emociones que surgen en el proceso. Así, nos ayuda a identificar oportunidades para mejorar la
+usabilidad y satisfacción del usuario.
+
+**Segmento #1: Profesionales de la salud**
+<img src="chapter-2/JourneyMap1.png" alt="Empathy Map 1" width=auto height="800">
+<br><br>
+
+**Segmento #2: Pacientes con trastorno mental**
+<img src="chapter-2/JourneyMap2.png" alt="Empathy Map 1" width=auto height="800">
+<br><br>
+
+
 
 ### 2.3.4. Empathy Mapping.
+Para elaborar el Empathy Map, utilizamos la información obtenida de nuestros dos User Personas, quienes representan el segmento objetivo. Este recurso nos permite profundizar en la comprensión de sus necesidades, pensamientos, emociones y comportamientos, facilitando el diseño de soluciones más alineadas con sus expectativas y experiencias reales.
 
 **Segmento #1: Profesionales de la salud**
 
-<img src="chapter-2/EmpathyMap1.png" alt="Empathy Map 1" width=auto height="600">
+<img src="chapter-2/EmpathyMap1.png" alt="Empathy Map 1" width=auto height="800">
 <br><br>
 
 **Segmento #2: Pacientes con trastorno mental**
 
-<img src="chapter-2/EmpathyMap2.png" alt="Empathy Map 2" width=auto height="600">
+<img src="chapter-2/EmpathyMap2.png" alt="Empathy Map 2" width=auto height="800">
 
 ## 2.4. Big Picture EventStorming.
 
