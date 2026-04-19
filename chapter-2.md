@@ -62,7 +62,33 @@ Finalmente, la profesional reflexiona sobre los riesgos de un monitoreo constant
 
 Entrevista 3:
 
+<br>
+
 - Segmento: Pacientes.
+
+Entrevista 1:
+
+![entrevista1_pacientes.png](chapter-2/entrevista1_pacientes.png)
+
+
+| Nombre               | Joaquín            |
+|----------------------|--------------------|
+| Apellido             | Cuentas            |
+| Edad                 | 23                 |
+| Distrito             | San Miguel, Lima   | 
+| URL                  |                    |
+| Profesión            | Estudiante         |
+| Inicio de entrevista |                    |
+| Fin de entrevista    |                    |
+
+**Resumen de entrevista:**
+
+En esta entrevista, Joaquin nos detalla que ya tiene familiaridad con dispositivos wearables para cuando realiza actividad física.Nos cuenta que atravesó episodios de estrés y frustración vinculados al cambio de carreras que hizo en el pasado y lo pesado que lo pasó con la programación, por lo que decidió acudir a un psicólogo.  Actualmente sigue en atención psicológica, pero no con la misma intensidad y ni por el mismo problema. Ahora recibe terapia para no pasar malos momentos durante su búsqueda de prácticas preprofesionales. 
+
+Además, nos explica que considera interesante que una pulsera monitoree su estado emocional, ya que podría aportar datos útiles sobre su cuerpo y piensa que es cómodo de usar. Él valora el poder recibir alertas del dispositivo en tiempo real cuando se detecte un cambio emocional, debido a que le ayudará a identificar con precisión en qué momento fue y qué realizaba en ese periodo. También, espera que se generen reportes con indicadores de los datos extraídos de la pulsera inteligente. Joaquín explica que usaría este tipo de dispositivos si es que la batería del dispositivo es duradera y si el material es seguro. 
+
+Por último, destaca que para él es importante que sus datos sean privados, que solo tengan acceso los profesionales de la salud. 
+
 
 ### 2.2.3. Análisis de entrevistas.
 
