@@ -293,17 +293,26 @@ Entrevista 2:
 ![entrevista1_pacientes.png](chapter-2/entrevista2img.jpg)
 
 
-| Nombre               |                    |
+| Nombre               | Marcelo            |
 |----------------------|--------------------|
-| Apellido             |                    |
-| Edad                 |                    |
-| Distrito             |                    | 
+| Apellido             | Barrientos         |
+| Edad                 | 21                 |
+| Distrito             | Rimac              | 
 | URL                  |                    |
-| Profesión            |                    |
+| Profesión            | Estudiante         |
 | Inicio de entrevista |                    |
 | Fin de entrevista    |                    |
 
 **Resumen de entrevista:**
+
+En esta entrevista, una estudiante de Ingeniera de Software de 20 años que vive con sus familia en Lima comparte su experiencia y percepción sobre el uso de tecnología en el monitoreo de la salud mental. En su vida cotidiana utiliza principalmente su celular y laptop, y cuenta con un smartwatch básico enfocado en actividad física y monitoreo del sueño.
+
+Respecto al uso de dispositivos wearables orientados a la salud emocional, inicialmente muestra cierta preocupación por la sensación de ser vigilado. Sin embargo, señala que, con una adecuada explicación sobre su propósito, podría percibirlo como una herramienta útil para aumentar la conciencia sobre sus emociones. Valora especialmente la posibilidad de recibir alertas, siempre que estas sean sutiles y no invasivas, como recordatorios suaves para relajarse o respirar.
+
+El entrevistado estaría dispuesta a compartir datos como ritmo cardíaco o patrones de sueño con su terapeuta, siempre bajo consentimiento y con el objetivo de mejorar su tratamiento. Entre los beneficios esperados, destaca la posibilidad de anticipar crisis de ansiedad, identificar factores desencadenantes y sentirse acompañada entre sesiones terapéuticas.
+
+No obstante, también expresa preocupaciones importantes, principalmente relacionadas con la privacidad de sus datos y la precisión del dispositivo, temiendo posibles interpretaciones erróneas de su estado emocional. Finalmente, menciona que adoptaría este tipo de tecnología si el dispositivo es cómodo, discreto, con buena duración de batería y ofrece visualización clara y útil de su información personal, permitiéndole aprender más sobre su bienestar emocional.
+
 <br>
 
 Entrevista 3:
