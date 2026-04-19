@@ -235,6 +235,30 @@ Finalmente, la profesional reflexiona sobre los riesgos de un monitoreo constant
 
 Entrevista 3:
 
+![entrevista3.jpeg](chapter-2/entrevista3.jpeg)
+
+
+| Nombre               | Karina            |
+|----------------------|--------------------|
+| Apellido             | Ramírez          |
+| Edad                 | 48                 |
+| Distrito             | La Molina, Lima | 
+| URL                  |                    |
+| Profesión            | Psicóloga          |
+| Inicio de entrevista |                    |
+| Fin de entrevista    |                    |
+
+**Resumen de entrevista:**
+
+La licenciada Karina Ramírez, psicoterapeuta especializada en Terapia Racional Emotiva Conductual y programación neurolingüística residente en La Molina, Lima, compartió detalles sobre su metodología de trabajo y su perspectiva sobre la integración de tecnología en la práctica clínica. Actualmente, la especialista no utiliza software especializado, sino que gestiona el control de sus pacientes mediante cuadros de Excel diseñados por ella misma. En este registro digitaliza datos personales, el progreso de las sesiones, las tareas asignadas y los puntos pendientes para asegurar la continuidad del tratamiento.
+
+
+Respecto a la información relevante para el historial clínico, la licenciada distingue entre los datos médicos-fisiológicos y la anamnesis psicológica. Para su práctica, considera fundamental registrar el entorno relacional del paciente —familia, pareja y amigos— para identificar la red de apoyo en momentos de crisis. No obstante, señala que sería muy valioso incorporar la medición de la intensidad emocional a través del ritmo cardíaco. Según su criterio, una escala del 1 al 10 donde el ritmo cardíaco refleje niveles superiores a 6 podría alertar sobre estados de frustración, ira o ataques de pánico que nublan el juicio del paciente.
+
+El seguimiento entre sesiones se realiza actualmente de forma semanal y a través de grupos de WhatsApp, donde se resuelven dudas sobre la psicoeducación y se comparten recursos como enlaces de video para reforzar lo trabajado en consulta. Ramírez destaca que la principal dificultad en este proceso es la falta de constancia de algunos pacientes, quienes interrumpen la terapia cuando se sienten momentáneamente mejor, perdiendo el ritmo necesario para alcanzar los objetivos planteados. Por ello, enfatiza que la frecuencia ideal de atención es de una vez por semana durante un periodo de cuatro a seis meses.
+
+Sobre la implementación de alertas automáticas ante crisis, la psicoterapeuta se muestra receptiva y considera que sería una herramienta ideal para anticiparse a la comunicación directa del paciente. Sin embargo, advierte que la efectividad de estas alertas depende del perfil del paciente. Mientras que para una persona con estrés laboral la alerta podría ser poco precisa debido a fluctuaciones emocionales normales, para pacientes en estado vulnerable o con ideación suicida, un sistema de monitoreo constante sería vital para intervenir preventivamente cuando el individuo no es dueño de sí mismo
+
 <br>
 
 - Segmento: Pacientes.
