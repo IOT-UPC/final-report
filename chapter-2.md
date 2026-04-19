@@ -328,6 +328,18 @@ Considera más útil que los datos obtenidos por el dispositivo sean enviados a 
 
 ### 2.3.2. User Task Matrix.
 
+|   User Task Matrix  |   Médicos de la salud mental  |              |   Pacientes con trastorno mental  |              |
+|---------------------|-----------------|--------------|------------------|--------------|
+|                     |   Importancia  |   Frecuencia   |   Importancia  |  Frecuencia   |
+|   Programación y gestión de citas  |   Alta  |   Siempre  |  Alta  |   A veces  |
+|   Revisión de tratamientos y planes terapéuticos  |   Alta  |   A veces  |   Media  |  A veces  |
+|   Monitoreo de signos vitales (frecuencia cardiaca, temperatura)  |   Alta  |   Siempre  |   Alta  |  Siempre  |
+|   Recepción de alertas por niveles de ansiedad  |   Alta  |   A veces  |   Alta  |  A veces  |
+|   Activación de vibración háptica (intervención)  |   Media  |   A veces  |   Alta  |   A veces  |
+|   Consulta de historial clínico  |   Alta  |   Siempre  |   Media  |  A veces  |
+|   Seguimiento del progreso del paciente  |   Alta  |   Siempre  |   Alta  |  A veces  |
+|   Visualización de datos personales de salud  |   Media  |   A veces  |   Alta  |   Siempre  |
+
 ### 2.3.3. User Journey Mapping.
 
 ### 2.3.4. Empathy Mapping.
@@ -335,3 +347,18 @@ Considera más útil que los datos obtenidos por el dispositivo sean enviados a 
 ## 2.4. Big Picture EventStorming.
 
 ## 2.5. Ubiquitous Language.
+- Patient (Paciente): Persona que recibe atención de un profesional de salud mental y cuyo estado es monitoreado continuamente mediante la plataforma y un dispositivo IoT. El paciente puede registrar información subjetiva (estado emocional) y generar datos fisiológicos automáticamente a través de sensores.
+- Mental Health Professional (Profesional de la Salud Mental): Responsable del seguimiento clínico de los pacientes. Puede gestionar citas, tratamientos y analizar tanto datos clínicos como datos fisiológicos recolectados en tiempo real para tomar decisiones informadas.
+- Session (Sesión): Interacción entre el profesional de la salud mental y el paciente, ya sea presencial o remota, donde se evalúa el estado del paciente y se ajusta el tratamiento.
+- Medication (Medicamento): Tratamiento prescrito al paciente por el profesional de la salud mental. El estado de los medicamentos puede ser monitoreado y ajustado a lo largo del tiempo.
+- Physiological Data (Datos fisiológicos): Datos capturados automáticamente por sensores del dispositivo IoT, como frecuencia cardíaca y temperatura, utilizados para evaluar el estado físico y emocional del paciente en tiempo real.
+- Emotional State (Estado Emocional): Valor subjetivo reportado por el paciente (por ejemplo, escala del 1 al 5) que complementa los datos fisiológicos para evaluar su bienestar emocional.
+- Appointment (Cita): Fecha y hora programada para una sesión entre el paciente y el profesional de la salud mental. 
+- Diagnosis (Diagnóstico): Evaluación médica realizada por el profesional de la salud mental basada en las sesiones. 
+- Follow-up (Seguimiento): Proceso mediante el cual el profesional de la salud mental revisa y ajusta el tratamiento y plan del paciente, basándose en los datos recolectados (estado emocional, funciones biológicas, y otros). 
+- Dashboard (Panel de Control): Interfaz donde el profesional visualiza información relevante de los pacientes, incluyendo citas, evolución clínica, alertas y datos fisiológicos en tiempo real.
+- Iot Device (Dispositivo Iot/ Brazalete):  Dispositivo wearable asignado al paciente que recopila datos fisiológicos mediante sensores y permite la intervención mediante un actuador físico. 
+- Alert (Alerta): Notificación generada automáticamente cuando los datos fisiológicos indican un posible estado crítico, como altos niveles de estrés o ansiedad. 
+- Event Detection (Detección de Evento): Proceso mediante el cual el sistema analiza los datos fisiológicos para identificar patrones asociados a estrés, ansiedad u otros estados relevantes. 
+- Haptic Feedback (Vibración Háptica): Intervención automática generada por el dispositivo IoT mediante vibraciones, diseñada para ayudar a reducir el estrés o la ansiedad del paciente en tiempo real.
+
