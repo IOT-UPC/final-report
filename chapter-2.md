@@ -356,7 +356,7 @@ Según los datos analizados, se observa que el 100% de los profesionales de salu
 <img src="chapter-2/pregEstadoCivil.jpg" alt="Pregunta 5" width=auto height="300">
 <img src="chapter-2/pregDispositivo1.jpg" alt="Pregunta 1" width=auto height="300">
 
-**Segmento 2: Pacientes con trasntornos mentales**
+**Segmento 2: Pacientes con trastornos mentales**
 
 Según los datos analizados, se observa que el 100% de los pacientes entrevistados son hombres. En cuanto a la edad, todos se encuentran entre los 21 y 23 años, lo que indica un grupo etario joven. Geográficamente, residen en distintos distritos de Lima (San Miguel, Lima y Magdalena del Mar). Además, el 100% son estudiantes, lo que evidencia un perfil homogéneo en cuanto a ocupación.
 
