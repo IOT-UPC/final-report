@@ -191,15 +191,15 @@ Entrevista 1:
 
 ![entrevista1.jpeg](chapter-2/entrevista1.jpeg)
 
-| Nombre               | Valerie           |
-|----------------------|-------------------|
-| Apellido             | Uchida            |
-| Edad                 | 28                |
-| Distrito             | Jesús María, Lima | 
-| URL                  |                   |
-| Profesión            | Psicóloga         |
-| Inicio de entrevista |                   |
-| Fin de entrevista    |                   |
+| Nombre               | Valerie                     |
+|----------------------|-----------------------------|
+| Apellido             | Uchida                      |
+| Edad                 | 28                          |
+| Distrito             | Jesús María, Lima           | 
+| URL                  | https://acortar.link/KSvAbw |
+| Profesión            | Psicóloga                   |
+| Inicio de entrevista | 00:00                       |
+| Fin de entrevista    | 07:26                       |
 
 **Resumen de entrevista:**
 
@@ -215,15 +215,15 @@ Entrevista 2:
 
 ![entrevista2.jpeg](chapter-2/entrevista2.jpeg)
 
-| Nombre               | Ángeles            |
-|----------------------|--------------------|
-| Apellido             | Mondoñedo          |
-| Edad                 | 26                 |
-| Distrito             | Pueblo Libre, Lima | 
-| URL                  |                    |
-| Profesión            | Psicóloga          |
-| Inicio de entrevista |                    |
-| Fin de entrevista    |                    |
+| Nombre               | Ángeles                     |
+|----------------------|-----------------------------|
+| Apellido             | Mondoñedo                   |
+| Edad                 | 26                          |
+| Distrito             | Pueblo Libre, Lima          | 
+| URL                  | https://acortar.link/KSvAbw |
+| Profesión            | Psicóloga                   |
+| Inicio de entrevista | 07:26                       |
+| Fin de entrevista    | 18:24                       |
 
 **Resumen de entrevista:**
 
@@ -238,15 +238,15 @@ Entrevista 3:
 ![entrevista3.jpeg](chapter-2/entrevista3.jpeg)
 
 
-| Nombre               | Karina            |
-|----------------------|--------------------|
-| Apellido             | Ramírez          |
-| Edad                 | 48                 |
-| Distrito             | La Molina, Lima | 
-| URL                  |                    |
-| Profesión            | Psicóloga          |
-| Inicio de entrevista |                    |
-| Fin de entrevista    |                    |
+| Nombre               | Karina                      |
+|----------------------|-----------------------------|
+| Apellido             | Ramírez                     |
+| Edad                 | 48                          |
+| Distrito             | La Molina, Lima             | 
+| URL                  | https://acortar.link/KSvAbw |
+| Profesión            | Psicóloga                   |
+| Inicio de entrevista | 18:25                       |
+| Fin de entrevista    | 25:30                       |
 
 **Resumen de entrevista:**
 
@@ -268,15 +268,15 @@ Entrevista 1:
 ![entrevista1_pacientes.png](chapter-2/entrevista1_pacientes.png)
 
 
-| Nombre               | Joaquín            |
-|----------------------|--------------------|
-| Apellido             | Cuentas            |
-| Edad                 | 23                 |
-| Distrito             | San Miguel, Lima   | 
-| URL                  |                    |
-| Profesión            | Estudiante         |
-| Inicio de entrevista |                    |
-| Fin de entrevista    |                    |
+| Nombre               | Joaquín                     |
+|----------------------|-----------------------------|
+| Apellido             | Cuentas                     |
+| Edad                 | 23                          |
+| Distrito             | San Miguel, Lima            | 
+| URL                  | https://acortar.link/KSvAbw |
+| Profesión            | Estudiante                  |
+| Inicio de entrevista | 25:30                       |
+| Fin de entrevista    | 35:27                       |
 
 **Resumen de entrevista:**
 
@@ -293,15 +293,15 @@ Entrevista 2:
 ![entrevista1_pacientes.png](chapter-2/entrevista2img.jpg)
 
 
-| Nombre               | Marcelo            |
-|----------------------|--------------------|
-| Apellido             | Barrientos         |
-| Edad                 | 21                 |
-| Distrito             | Lima               | 
-| URL                  |                    |
-| Profesión            | Estudiante         |
-| Inicio de entrevista |                    |
-| Fin de entrevista    |                    |
+| Nombre               | Marcelo                     |
+|----------------------|-----------------------------|
+| Apellido             | Barrientos                  |
+| Edad                 | 21                          |
+| Distrito             | Lima                        | 
+| URL                  | https://acortar.link/KSvAbw |
+| Profesión            | Estudiante                  |
+| Inicio de entrevista | 35:27                       |
+| Fin de entrevista    | 42:40                       |
 
 **Resumen de entrevista:**
 
@@ -320,15 +320,15 @@ Entrevista 3:
 ![entrevista1_pacientes.png](chapter-2/entrevista3img.jpg)
 
 
-| Nombre               | Leguer             |
-|----------------------|--------------------|
-| Apellido             | Silva              |
-| Edad                 | 22                 |
-| Distrito             | Magdalena del Mar  | 
-| URL                  |                    |
-| Profesión            | Estudiante         |
-| Inicio de entrevista |                    |
-| Fin de entrevista    |                    |
+| Nombre               | Leguer                      |
+|----------------------|-----------------------------|
+| Apellido             | Silva                       |
+| Edad                 | 22                          |
+| Distrito             | Magdalena del Mar           | 
+| URL                  | https://acortar.link/KSvAbw |
+| Profesión            | Estudiante                  |
+| Inicio de entrevista | 42:41                       |
+| Fin de entrevista    | 56:16                       |
 
 **Resumen de entrevista:**
 
@@ -390,17 +390,17 @@ En el proceso de desarrollar un sitio web orientado a mejorar la labor de los m�
 
 ### 2.3.2. User Task Matrix.
 
-|   User Task Matrix  |   Médicos de la salud mental  |              |   Pacientes con trastorno mental  |              |
-|---------------------|-----------------|--------------|------------------|--------------|
-|                     |   Importancia  |   Frecuencia   |   Importancia  |  Frecuencia   |
-|   Programación y gestión de citas  |   Alta  |   Siempre  |  Alta  |   A veces  |
-|   Revisión de tratamientos y planes terapéuticos  |   Alta  |   A veces  |   Media  |  A veces  |
-|   Monitoreo de signos vitales (frecuencia cardiaca, temperatura)  |   Alta  |   Siempre  |   Alta  |  Siempre  |
-|   Recepción de alertas por niveles de ansiedad  |   Alta  |   A veces  |   Alta  |  A veces  |
-|   Activación de vibración háptica (intervención)  |   Media  |   A veces  |   Alta  |   A veces  |
-|   Consulta de historial clínico  |   Alta  |   Siempre  |   Media  |  A veces  |
-|   Seguimiento del progreso del paciente  |   Alta  |   Siempre  |   Alta  |  A veces  |
-|   Visualización de datos personales de salud  |   Media  |   A veces  |   Alta  |   Siempre  |
+| User Task Matrix                                               | Médicos de la salud mental |            | Pacientes con trastorno mental |            |
+|----------------------------------------------------------------|----------------------------|------------|--------------------------------|------------|
+|                                                                | Importancia                | Frecuencia | Importancia                    | Frecuencia |
+| Programación y gestión de citas                                | Alta                       | Siempre    | Alta                           | A veces    |
+| Revisión de tratamientos y planes terapéuticos                 | Alta                       | A veces    | Media                          | A veces    |
+| Monitoreo de signos vitales (frecuencia cardiaca, temperatura) | Alta                       | Siempre    | Alta                           | Siempre    |
+| Recepción de alertas por niveles de ansiedad                   | Alta                       | A veces    | Alta                           | A veces    |
+| Activación de vibración háptica (intervención)                 | Media                      | A veces    | Alta                           | A veces    |
+| Consulta de historial clínico                                  | Alta                       | Siempre    | Media                          | A veces    |
+| Seguimiento del progreso del paciente                          | Alta                       | Siempre    | Alta                           | A veces    |
+| Visualización de datos personales de salud                     | Media                      | A veces    | Alta                           | Siempre    |
 
 ### Análisis de la User Task Matrix
 
