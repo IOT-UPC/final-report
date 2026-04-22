@@ -361,6 +361,12 @@ Según los datos analizados, se observa que el 100% de los profesionales de salu
 Según los datos analizados, se observa que el 100% de los pacientes entrevistados son hombres. En cuanto a la edad, todos se encuentran entre los 21 y 23 años, lo que indica un grupo etario joven. Geográficamente, residen en distintos distritos de Lima (San Miguel, Lima y Magdalena del Mar). Además, el 100% son estudiantes, lo que evidencia un perfil homogéneo en cuanto a ocupación.
 
 <img src="chapter-2/pregunta1.jpg" alt="Pregunta 1" width=auto height="300">
+<img src="chapter-2/pregGenero2.jpg" alt="Pregunta 2" width=auto height="300">
+<img src="chapter-2/pregEdad2.jpg" alt="Pregunta 3" width=auto height="300">
+<img src="chapter-2/pregDistrito2.jpg" alt="Pregunta 4" width=auto height="300">
+<img src="chapter-2/pregunta5estadoCivil.jpg" alt="Pregunta 5" width=auto height="300">
+<img src="chapter-2/pregunta6dispositivo.jpg" alt="Pregunta 6" width=auto height="300">
+<img src="chapter-2/pregCarrera2.jpg" alt="Pregunta 7" width=auto height="300">
 
 
 ## 2.3. Needfinding.
