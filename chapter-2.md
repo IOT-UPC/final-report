@@ -342,6 +342,27 @@ Considera más útil que los datos obtenidos por el dispositivo sean enviados a 
 
 ### 2.2.3. Análisis de entrevistas.
 
+Se procede a recopilar las estadísticas de las respuestas de los entrevistados para representarlas mediante
+gráficos proporcionados por la herramienta, Google Forms.
+
+**Segmento 1: Profesionales de la salud mental**
+
+Según los datos analizados, se observa que el 100% de los profesionales de salud mental entrevistados son mujeres. En cuanto a la edad, el 66.7% tiene entre 26 y 28 años, mientras que el 33.3% tiene 48 años, evidenciando una ligera predominancia de perfiles jóvenes. Geográficamente, se encuentran distribuidas en distintos distritos de Lima (Jesús María, Pueblo Libre y La Molina). Respecto al estado civil, el 66.7% son solteras y el 33.3% casada. Por otro lado, es interesante destacar que todos ellos prefieren utilizar sus celulares como su herramienta principal para el trabajo y la comunicación.
+
+<img src="chapter-2/pregunta1.jpg" alt="Pregunta 1" width=auto height="300">
+<img src="chapter-2/pregGenero.jpg" alt="Pregunta 2" width=auto height="300">
+<img src="chapter-2/pregEdad.jpg" alt="Pregunta 3" width=auto height="300">
+<img src="chapter-2/pregDistrito.jpg" alt="Pregunta 4" width=auto height="300">
+<img src="chapter-2/pregEstadoCivil.jpg" alt="Pregunta 5" width=auto height="300">
+<img src="chapter-2/pregDispositivo1.jpg" alt="Pregunta 1" width=auto height="300">
+
+**Segmento 2: Pacientes con trasntornos mentales**
+
+Según los datos analizados, se observa que el 100% de los pacientes entrevistados son hombres. En cuanto a la edad, todos se encuentran entre los 21 y 23 años, lo que indica un grupo etario joven. Geográficamente, residen en distintos distritos de Lima (San Miguel, Lima y Magdalena del Mar). Además, el 100% son estudiantes, lo que evidencia un perfil homogéneo en cuanto a ocupación.
+
+<img src="chapter-2/pregunta1.jpg" alt="Pregunta 1" width=auto height="300">
+
+
 ## 2.3. Needfinding.
 Tras realizar las entrevistas, conseguimos reunir información relevante acerca de sus expectativas, dificultades, contexto y otros aspectos importantes. Estos datos serán fundamentales para responder de manera más precisa a sus necesidades y, con ello, mejorar la experiencia de nuestros usuarios. Asimismo, servirán como base para la elaboración de los esquemas correspondientes a User Personas, User Task Matrix, User Journey Maps y Empathy Mapping.
 
