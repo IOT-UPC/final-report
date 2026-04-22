@@ -102,3 +102,43 @@ A continuación se presenta el conjunto de Epics y User Stories definidas para e
 | 30      | US12          | Encontrar información del propósito de la aplicación                         | Como visitante de la Landing Page, quiero encontrar fácilmente la información que explique el propósito de la aplicación para comprender cómo puede ser útil para mí.                                                                                                                                                                                          | 1            |
 | 31      | US13          | Visualizar imágenes y gráficos relevantes                                    | Como visitante de la Landing Page, quiero que las imágenes y gráficos sean claros y visualmente atractivos para captar mi interés y comprender mejor el contenido.                                                                                                                                                                                             | 1            |
 | 32      | US14          | Usar tipografía cómoda y agradable estéticamente                             | Como visitante de la Landing Page, quiero que la tipografía sea legible y estéticamente agradable para facilitar la lectura y la navegación.                                                                                                                                                                                                                   | 1            |
+
+
+
+
+### 📊 Backlog ordenado correctamente (ASCENDENTE POR PRIORIDAD)
+
+| # Orden | User Story Id | Título                                                   | Descripción                                                                                                                                                | Story Points |
+| ------- | ------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| 1       | US21          | Emparejar dispositivo IoT (pulsera)                      | Como paciente, quiero emparejar mi pulsera inteligente PSYMED con mi aplicación móvil para que los datos fisiológicos recolectados se asocien a mi perfil. | 8            |
+| 2       | US23          | Visualizar datos fisiológicos del paciente (profesional) | Como profesional, quiero ver tendencias de FC y HRV para evaluar estrés y tratamiento.                                                                     | 8            |
+| 3       | US25          | Recibir notificaciones de alerta por estrés crítico      | Como profesional, quiero recibir alertas cuando un paciente tenga estrés alto para actuar rápidamente.                                                     | 8            |
+| 4       | US26          | Activar vibración háptica y audio relajante              | Como paciente, quiero recibir ayuda inmediata cuando detecte estrés.                                                                                       | 5            |
+| 5       | US28          | Monitorear temperatura superficial                       | Como profesional, quiero analizar temperatura junto con otros datos fisiológicos.                                                                          | 5            |
+| 6       | US06          | Registrar estado de ánimo                                | Como paciente, quiero comunicar mi estado emocional.                                                                                                       | 5            |
+| 7       | US07          | Registrar funciones biológicas                           | Como paciente, quiero registrar sueño, energía, etc.                                                                                                       | 5            |
+|8|US27|Ver citas médicas|Como paciente, quiero poder ver las citas médicas programadas para saber qué días debo asistir al consultorio.|3|
+| 8 | US04 | Registrar información del paciente | Como profesional de la salud mental, quiero registrar la información personal del paciente para contar con una referencia detallada y precisa de sus datos en cada consulta.  | 5 |
+| 10 | US01 | Registrar profesional|Como profesional de la salud mental, quiero registrarme con mis credenciales para poder acceder a las funcionalidades específicas y gestionar la información de mis pacientes. | 5 |
+| 9 | US05 | Visualizar estado de ánimo | Como profesional de la salud mental, quiero visualizar el estado de ánimo actual de mi paciente para evaluar su condición emocional en cada consulta. | 3 |
+| 10 | US08 | Registrar medicamentos | Como profesional, quiero gestionar tratamiento farmacológico. | 3 |
+| 11 | US10 | Crear citas | Como profesional, quiero agendar citas. | 2 |
+| 12 | US24 | Ver tendencias fisiológicas (paciente) | Como paciente, quiero ver mis datos en gráficos. | 3 |
+| 13 | US02 | Iniciar sesión como paciente | Acceder a la plataforma. | 3 |
+| 14 | US03 | Iniciar sesión como profesional | Acceder a funcionalidades. | 3 |
+| 15 | US15 | Iniciar sesión móvil | Acceso desde app móvil. | 3 |
+| 16 | US17 | Cerrar sesión | Proteger privacidad. | 2 |
+| 17 | US29 | Aceptar consentimiento | Autorizar uso de datos. | 3 |
+| 18 | US30 | Log de auditoría | Registrar accesos a datos. | 5 |
+| 19 | US31 | Recordatorio de medicamento | Notificaciones de medicación. | 3 |
+| 20 | US32 | Recordatorio de cita | Notificaciones de citas. | 3 |
+| 21 | US09 | Ver medicamentos | Consultar tratamiento. | 3 |
+| 22 | US11 | Ver citas | Consultar citas. | 2 |
+| 23 | US16 | Ver perfil (móvil) | Consultar datos personales. | 3 |
+| 24 | US18 | Registrar estado diario (móvil) | Seguimiento diario. | 5 |
+| 25 | US19 | Ver medicamentos (móvil) | Consultar desde app. | 3 |
+| 26 | US20 | Ver citas (móvil) | Consultar agenda. | 3 |
+| 27 | US22 | Estado del dispositivo IoT | Ver batería y conexión. | 2 |
+| 30 | US12 | Conocer el propósito de la aplicación| Como visitante de la Landing Page, quiero encontrar fácilmente la información que explique el propósito de la aplicación para comprender cómo puede ser útil  | 1 |
+| 31 | US13 | Visualizar recursos visuales relevantes |Como visitante de la Landing Page, quiero que las imágenes y gráficos sean claros y visualmente atractivos para captar mi interés y comprender mejor el contenido.| 1 |
+| 32 | US14 | Leer contenido con tipografía adecuada|Como visitante de la Landing Page, quiero que la tipografía sea legible y estéticamente agradable para facilitar la lectura y la navegación. | 1 |
