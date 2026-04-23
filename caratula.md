@@ -55,6 +55,12 @@
 
 # Registro de Versiones del informe
 
+| Versión | Fecha      | Autor                                                                                                                                                                            | Descripción de modificación                                                                                                                                                                                                                                                                                                               |
+|---------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| AV1     | 22/04/2026 | - Maita Falckenheiner, Romina Guadalupe<br>- Montañez Moreno, Luis Angel<br>- Rivera Ticllacuri, Omar Harold<br>- Sulca Silva, Melisa Sulca<br>- Torres Flores, Paolo Alessandro | Carátula<br>Registro de Versiones del Informe<br>Project Report Collaboration Insights<br>Contenido<br>Student Outcome<br>Capítulo I: Introducción<br>Capítulo II: Requirements Elicitation & Analysis.<br>Capítulo III: Requirements Specification.<br>Capítulo IV: Solution Software Design.<br>Conclusiones<br>Bibliografía<br>Anexos. |
+
+
+
 # Project Report Collaboration Insights
 
 <img width="731" height="563" alt="insights" src="https://github.com/user-attachments/assets/9fb8051b-f397-4552-9a58-8b66c7d3fb6a" />
