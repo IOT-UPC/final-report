@@ -1673,3 +1673,11 @@ El diagrama de despliegue muestra la infraestructura física y virtual donde se 
 #### 4.2.5.6.2. Bounded Context Database Design Diagram
 
 <img width="1643" height="891" alt="PatientsManagmentBC" src="https://github.com/user-attachments/assets/3a723912-6e61-48db-ac0c-5e52d5dae1d3" />
+
+## Conclusiones y Recomendaciones
+
+- La salud mental en Perú enfrenta una crisis estructural caracterizada por la alta demanda de atención y la limitada capacidad del sistema para responder de manera oportuna, lo que deja a una gran parte de la población sin tratamiento adecuado. Esta situación se ve agravada por la escasez de profesionales y la sobrecarga administrativa, evidenciando la necesidad urgente de soluciones que optimicen la gestión y mejoren el acceso a los servicios de salud mental.
+
+- Desde una perspectiva técnica, el desarrollo de una plataforma como PsyMed demuestra que la integración de tecnologías web con dispositivos IoT puede abordar de manera efectiva los problemas de gestión y monitoreo en salud mental. La centralización de datos clínicos, automatización de tareas administrativas y el monitoreo continuo de signos vitales permiten mejorar la eficiencia operativa, reducir errores y facilitar intervenciones tempranas mediante retroalimentación en tiempo real.
+
+- A nivel económico, la implementación de PsyMed presenta una oportunidad sostenible mediante un modelo de suscripción que combina servicios digitales con dispositivos físicos diferenciadores. Además de generar ingresos recurrentes, la solución contribuye a reducir costos operativos en instituciones de salud al optimizar procesos y disminuir la carga administrativa, lo que puede traducirse en una mayor eficiencia en el uso de recursos dentro del sistema de salud.
