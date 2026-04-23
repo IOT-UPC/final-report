@@ -64,7 +64,7 @@ La arquitectura de software del sistema se documenta utilizando la metodología 
 
 #### 4.1.3.2. Software Architecture Container Level Diagrams.
 
-<img src="chapter-4/DiagramaContenedores.jpeg" alt="Software Architecture Container Level Diagram" />
+<img src="chapter-4/NuevoDiagramaContenedores.png" alt="Software Architecture Container Level Diagram" />
 
 #### 4.1.3.3. Software Architecture Deployment Diagrams.
 
