@@ -1681,3 +1681,21 @@ El diagrama de despliegue muestra la infraestructura física y virtual donde se 
 - Desde una perspectiva técnica, el desarrollo de una plataforma como PsyMed demuestra que la integración de tecnologías web con dispositivos IoT puede abordar de manera efectiva los problemas de gestión y monitoreo en salud mental. La centralización de datos clínicos, automatización de tareas administrativas y el monitoreo continuo de signos vitales permiten mejorar la eficiencia operativa, reducir errores y facilitar intervenciones tempranas mediante retroalimentación en tiempo real.
 
 - A nivel económico, la implementación de PsyMed presenta una oportunidad sostenible mediante un modelo de suscripción que combina servicios digitales con dispositivos físicos diferenciadores. Además de generar ingresos recurrentes, la solución contribuye a reducir costos operativos en instituciones de salud al optimizar procesos y disminuir la carga administrativa, lo que puede traducirse en una mayor eficiencia en el uso de recursos dentro del sistema de salud.
+
+## Bibliografía
+
+- _Digitalización de las instituciones hospitalarias._ (s/f). Cepal.org. Recuperado el 5 de septiembre de 2024, de https://desarrollodigital.cepal.org/es/datos-y-hechos/digitalizacion-de-las-instituciones-hospitalarias
+
+- Conne, M(2024). _The Markdown Guide_. MarkdownGuide. Recuperado de: https://www.markdownguide.org/
+
+- Conventional Commits. (n.d.). *Conventional commits v1.0.0.* Retrieved from https://www.conventionalcommits.org/en/v1.0.0/
+
+- Chang-Gómez, M., & Chang-Gómez, M. Á. (2020). Bienestar en el trabajo de los profesionales de salud durante la pandemia de COVID-19: Revisión narrativa. *Revista Cubana de Salud Pública, 46*(4), e2146. https://doi.org/10.1590/rcsp.v46i4.2146
+
+- Angular. (n.d.). *Angular Material components.* Retrieved from https://material.angular.io/components/categories
+
+- AngularJS. (n.d.). *AngularJS Material.* Retrieved from https://material.angularjs.org/latest/
+
+## Anexos
+### Anexo A: NeedFinding Interviews:
+- Link de entrevistas: https://acortar.link/KSvAbw
