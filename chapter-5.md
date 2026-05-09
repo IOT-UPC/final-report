@@ -1,22 +1,366 @@
 # Capítulo V: Solution UI/UX Design
 
 ## 5.1. Style Guidelines.
-
+En esta sección, presentaremos el concepto de diseño para la página web,
+la aplicación móvil y el iot, para proporcionar a nuestros usuarios una interfaz amigable
+y funcional. Con este propósito en mente, hemos optado por compartir un proyecto
+Figma en el que hemos trabajado todos y el cual todos pueden editar y usar los
+Assets, fonts y demás.
 ### 5.1.1. General Style Guidelines.
+- **Branding:** El branding del logo de nuestra aplicación "PSYMED" representa un cerebro
+  sobre un fondo verde, simbolizando la fusión entre la salud mental
+  y el soporte administrativo eficiente. El cerebro es un emblema
+  universal del conocimiento y la mente humana, lo que lo convierte
+  en la elección ideal para una plataforma dedicada a apoyar a los
+  médicos en el campo de la salud mental. El fondo verde añade una sensación de equilibrio, serenidad
+  y crecimiento, reflejando el entorno calmado y profesional
+  que nuestra aplicación busca ofrecer. Este diseño visual
+  transmite confianza y un enfoque moderno, asegurando que
+  tanto los médicos como sus pacientes se sientan apoyados en
+  cada etapa de su interacción con la plataforma.
+
+<div align="center">
+  <img src="/assets/PSYMED.png" alt="Logo de la platafroma PSYMED" style="max-width: 50%; height: auto;">
+</div>
+
+- **Colors:**
+Nuestra paleta de colores se ha seleccionado para proporcionar un 
+entorno digital de apoyo a la salud mental y el bienestar, tanto para 
+los psiquiatras como para sus pacientes. El objetivo principal de 
+nuestra plataforma es crear un espacio donde la confianza, la claridad 
+y la seguridad sean primordiales, asegurando que la interacción entre 
+profesionales y pacientes sea fluida y efectiva. Este enfoque se refleja
+en la selección de colores, que buscan transmitir calma, confiabilidad y 
+profesionalismo. A continuación, se presenta una breve descripción de los 
+colores que se utilizarán en nuestra aplicación:
+
+- **#091133 (Azul Profundo)** Este color aporta un nivel de
+  profundidad y seriedad a la plataforma, lo que lo convierte en una
+  excelente elección para textos clave y elementos que requieren un
+  alto contraste. Su tonalidad oscura asegura una legibilidad superior
+  y destaca información crucial, permitiendo a los usuarios concentrarse
+  en los detalles más importantes con facilidad. Es ideal para títulos,
+  subtítulos, y enlaces que guían la experiencia del usuario de manera
+  efectiva y profesional.
+
+<div align="center">
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/a8997847-10d5-447c-9c32-43944f4c3cf4" />
+</div>
+
+- **#FFFFFF (Blanco):** Este color ofrece una apariencia limpia y
+  minimalista, siendo ideal para fondos y áreas de contenido que
+  requieren claridad y simplicidad. Su neutralidad ayuda a crear
+  un espacio visualmente relajante y despejado, permitiendo que
+  otros colores y elementos destacados resalten de manera efectiva.
+  El blanco es fundamental para proporcionar contraste y asegurar
+  que el contenido sea fácil de leer y navegar, especialmente en
+  secciones de la plataforma que buscan ofrecer una experiencia
+  de usuario sin distracciones.
+
+<div align="center">
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/eaa6e5b4-83e4-49fc-8c4c-557323dfd225" />
+</div>
+
+- **#10BEAE (Teal Brillante):** Este color vibrante y refrescante
+  aporta energía y modernidad a la plataforma. Es ideal para
+  elementos que requieren un toque de frescura, como botones
+  de acción o enlaces destacados. Su tonalidad brillante y alegre
+  asegura que los usuarios se sientan motivados y comprometidos,
+  creando un ambiente visual que equilibra tanto la funcionalidad
+  como la estética. Este color es perfecto para destacar
+  información que debe ser notada rápidamente, sin comprometer
+  la armonía general de la interfaz.
+
+<div align="center">
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/985a5a2c-3d06-4fc7-a6dd-52674cde478b" />
+</div>
+
+**Scale:**
+- **Base:** El tamaño base es de 18px.
+- **Ratio:** Utilizaremos un ratio de escala (por ejemplo, 1.2) que definirá la relación entre los tamaños de texto, creando una jerarquía visual consistente y armoniosa en la aplicación.
+
+
+**Line Spacing (Espaciado entre líneas):** Entre 1.4 y 1.6, dependiendo del tamaño de la fuente y el contexto de uso. Esto asegurará una legibilidad óptima, especialmente en textos más largos.
+
+### Nomenclature
+
+- **Name / Size / Weights**
+
+    - **Heading 0 / 22px / Medium**  
+      Uso: Secciones importantes o subtítulos destacados.
+
+    - **Heading 1 / 38px / Medium**  
+      Uso: Títulos principales, como el nombre de la sección o la página.
+
+    - **Heading 2 / 34px / Medium**  
+      Uso: Subtítulos de menor jerarquía, pero aún relevantes.
+
+    - **Heading 3 / 25px / Medium**  
+      Uso: Títulos de secciones menores o encabezados de subsecciones.
+
+    - **Heading 4 / 22px / Medium**  
+      Uso: Encabezados para elementos menores, como cuadros de información o tarjetas.
+
+    - **Base / 18px / Light**  
+      Uso: Texto principal o cuerpo de texto, ideal para párrafos largos y contenido estándar.
+
+    - **Body 1 / 10px / Regular**  
+      Uso: Detalles secundarios, etiquetas pequeñas o textos de ayuda.
+- **Tipo de lenguaje**
+  Utilizamos un lenguaje formal para garantizar que los usuarios comprendan
+  claramente la información proporcionada. Este enfoque también refleja nuestro
+  compromiso con la seriedad y profesionalismo en el tratamiento de la salud
+  mental.
 
 ### 5.1.2. Web, Mobile and IoT Style Guidelines.
 
-## 5.2. Information Architecture.
+#### Web Style Guidelines.
+-**Colors:**
+Los colores de la aplicación web se eligieron para crear un
+entorno que promueva tranquilidad y confianza en la gestión
+de la salud mental. **#308C83 (Teal Profundo)** ofrece
+estabilidad, **#69BFB7 (Teal Suave)** aporta frescura y
+destaca información clave, y **#C2F2ED (Aqua Ligero)**
+proporciona un fondo relajante. Estos colores, en conjunto,
+aseguran una experiencia visual armoniosa y profesional en la
+plataforma.
 
+**#308C83 (Teal Profundo):** Este color actúa como el tono
+principal de la plataforma, evocando tranquilidad y estabilidad,
+cualidades esenciales en el ámbito de la salud mental. Es ideal
+para encabezados, botones de acción y elementos que requieren
+destacar, asegurando que el profesional pueda navegar y tomar
+decisiones de manera confiable.
+
+<div align="center">
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/01f42e71-0adc-44eb-aa7e-a55269751a78" />
+</div>
+
+**#69BFB7 (Teal Suave):** Utilizado para elementos secundarios y
+destacados sutiles, este tono complementa el color primario,
+aportando una sensación de frescura y modernidad, sin desviar
+la atención de la información crítica. Es ideal para secciones
+como el registro de síntomas y la visualización de citas.
+
+<div align="center">
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/829aa05e-328b-4d4d-a64b-0dd35f1fc4d8" />
+</div>
+
+**#C2F2ED (Aqua Ligero):** Este color se utilizará principalmente
+en los fondos y áreas extensas, proporcionando un entorno
+relajante y libre de distracciones. Su suavidad ayuda a reducir
+la carga visual, permitiendo que tanto los profesionales como
+los pacientes se concentren en el contenido relevante, como los
+signos vitales y comentarios diarios.
+
+<div align="center">
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/de4b2ecd-8c84-4127-9f29-201ddf186834" />
+</div>
+
+
+### Mobile Style Guidelines.
+
+- Colors:
+  Los mismos colores base de la identidad de PSYMED se adaptan a la Material Design Guidelines de Google, aplicando jerarquías cromáticas en botones, fondos y textos.
+
+    - #308C83 (Teal Profundo): Color primario para la app bar y acciones principales.
+
+<div align="center">
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/8f11568c-1f78-4c99-acca-d5a8b22c87f1" />
+</div>
+
+- #69BFB7 (Teal Suave): Tono complementario para estados activos, iconografía y destacados.
+
+<div align="center">
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/503e718b-5361-424d-8994-d02ea3a24637" />
+</div>
+
+- #C2F2ED (Aqua Ligero): Color de fondo para mantener claridad y calma visual.
+
+<div align="center">
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/99ebfe59-84e6-4969-9837-c5a8c3835105" />
+</div>
+
+- Typography:
+  Se emplea la fuente nativa Roboto, estándar en Android, asegurando legibilidad y consistencia con las guías de Material Design.
+
+- Navigation & Components:
+  La navegación principal se implementa mediante un Navigation Drawer o Bottom Navigation Bar, según la complejidad de la sección. Los componentes UI siguen patrones de Material Design (botones flotantes, tarjetas, chips), con un uso claro de sombras y elevaciones.
+
+- Gestures:
+  El diseño incorpora gestos comunes en Android, como long press para abrir menús contextuales o drag & drop en elementos interactivos.
+
+### IoT Style Guidelines.
+
+
+## 5.2. Information Architecture.
+La sección de arquitectura de la información se centra en
+estructurar el contenido tanto de la aplicación web como
+de la página principal de **PSYMED**. Esta sección
+abarca los siguientes aspectos clave: <br><br>
 ### 5.2.1. Organization Systems.
+Para asegurar una jerarquía clara y precisa en nuestra aplicación, es crucial facilitar una navegación satisfactoria para el usuario. La estructura que hemos definido es la siguiente:
+
+**Profesionales de la salud mental:**
+
+Al acceder a la plataforma del proyecto para profesionales de la salud mental, los usuarios (psiquiatras, psicólogos y otros profesionales de la salud mental) pueden iniciar sesión, registrarse si no tienen una cuenta previa, escoger su plan de pago y recuperar su contraseña en caso de olvido. Una vez autenticados, la página principal presenta un calendario con las fechas de sus citas y una barra lateral con las opciones: Citas, Inicio, Pacientes y Notificaciones.
+
+En la sección de Citas, se pueden observar todas las citas del profesional con sus pacientes, así como agendar nuevas consultas o modificar horarios.
+
+En la sección Pacientes, los profesionales pueden ver una lista de sus pacientes actuales y seleccionar a uno para acceder a su perfil detallado, con una barra lateral que incluye las opciones: Diagnóstico, Historial Clínico, Terapia, Citas.
+
+- En Diagnóstico, se puede visualizar y agregar un nuevo diagnóstico, así como revisar el historial de diagnósticos previos.
+- En Historial Clínico, se muestra la información clínica del paciente.
+- En la sección Terapia, se centralizan botones para acceder a: Funciones Biológicas, Estados de Ánimo, Prescripción y Track de Pastillas.
+    - Funciones Biológicas: muestra reportes estadísticos de los datos fisiológicos del paciente.
+    - Estados de Ánimo: permite observar el registro y evolución emocional del paciente.
+    - Prescripciones: contiene la lista de medicamentos con sus datos, dosis, frecuencia y duración del tratamiento. Incluye la opción de agregar o modificar medicamentos.
+    - Track de Pastillas: permite confirmar el consumo de los medicamentos.
+
+En la sección de Notificaciones, los profesionales reciben confirmaciones sobre actividades realizadas por los pacientes.
+
+<div align="center">
+<img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/48e18ae2-ef8f-4eb2-aac7-ac7f232ecf17" />
+</div>
+
+---
+**Pacientes:**
+
+Al acceder a la plataforma, los usuarios pueden iniciar sesión con sus credenciales, cambiar la contraseña en caso necesario, y una vez autenticados, la página principal presenta un Sidebar con las opciones: Inicio, Terapia, Citas.
+
+En la sección "Lista de Tareas" se pueden visualizar los
+conjuntos de actividades designados por el profesional de
+la salud mental en cada sesión. Dentro de esta vista, se puede
+acceder a opciones tales como ver tareas y marcar como completadas.
+
+- En la sección Terapia, se muestran accesos a Diagnóstico, Funciones Biológicas, Estados de Ánimo y Prescripción.
+    - Diagnóstico: visualización del diagnóstico otorgado por el profesional.
+    - Funciones Biológicas: muestra los registros de datos fisiológicos.
+    - Estados de Ánimo: muestra el seguimiento de los estados emocionales.
+    - Prescripción: permite visualizar los medicamentos recetados y confirmar su consumo.
+- En la sección Citas, los pacientes pueden visualizar las citas programadas y acceder a sus detalles.
+- En la sección Perfil, se puede visualizar y actualizar la información personal, incluyendo datos de contacto y de salud.
+
+<div align="center">
+  <img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/5f3803ae-8940-4afe-a2f0-7bc65ed12674" />
+</div>
 
 ### 5.2.2. Labeling Systems.
 
+**Profesionales de la salud mental:**
+
+**inicio**
+- Iniciar sesión
+- Registrarse
+- Recuperar su contraseña
+
+1. **Navegación Principal** (Header/Barra de navegación lateral)
+   **Página** principal del usuario después de iniciar sesión.
+   **Citas:** Calendario y gestión de citas con pacientes.
+   **Pacientes:** Gestión de pacientes y acceso a historiales clínicos.
+   **Notificaciones:** Alertas y confirmaciones de actividades.
+   **Perfil:** Información del profesional de salud mental.
+   Ajustes: Configuración y seguridad de la cuenta.
+
+**Pacientes**
+- lista de sus pacientes
+    - Historial de citas
+    - Tratamientos en curso
+        - Diagnósticos
+        - Datos fisiológicos
+        - Registro de estados de ánimo
+        - Tareas asignadas
+        - Asignar Medicamentos
+
+**Agenda:**
+- Agendar nuevas consultas
+- Modificar horarios
+- Enviar recordatorios
+
+**Perfil:**
+- Datos de contacto
+- Especialidad
+
+**Ajustes:**
+- Cambiar contraseñas
+
+---
+**Pacientes:**
+
+**Inicio**
+- Iniciar sesión
+- Cambiar la contraseña
+
+**Pagina principal**
+- Perfil
+- Citas
+- Tratamiento Actual
+
+**Perfil:**
+- Datos de contacto
+- Datos de salud
+
+**Citas:**
+- Ver detalles de la cita
+
+**Tratamiento Actual:**
+- Registro de Medicamentos
+- Diagnóstico Actual
+- Formulario de Estados de Ánimo
+    - Registro de Estados Fisiológicos
+    - Ver datos estadísticos de su estado a lo largo del tratamiento
+
 ### 5.2.3. SEO Tags and Meta Tags
+
+Las etiquetas reflejan el contenido de nuestro proyecto, abarcando tanto la Landing Page como el Sitio Web. Han sido creadas para mejorar la visibilidad de nuestro proyecto en los principales motores de búsqueda, lo que permitirá a los usuarios encontrar fácilmente nuestra aplicacion de PSYMED.
+
+Para la landing page:
+- **Título:** PSYMED - Plataforma de Gestión de Salud Mental
+- **Descripción:** PSYMED - plataforma de gestión de salud mental - LandingPage .
+- **keywords:** Salud Mental, Psiquiatras, Software, Citas Médicas, Historial Clínico, Plataforma Psicólogos, Registro Pacientes, Tratamiento Psicológico, Seguimiento Pacientes.
+- **Author:** closedSource
+  para el Web Side:
+- **Título:** PSYMED - Plataforma de Gestión de Salud Mental
+- **Descripción:** PSYMED - plataforma de gestión de salud mental - Web Side .
+- **keywords:** Salud Mental, Psiquiatras, Software, Citas Médicas, Historial Clínico, Plataforma Psicólogos, Registro Pacientes, Tratamiento Psicológico, Seguimiento Pacientes.
+- **Author:** Go8u
 
 ### 5.2.4. Searching Systems.
 
+Los médicos pueden utilizar los métodos de búsqueda por:
+
+- Filtrado de Información por Fechas:
+    - Búsqueda de sesiones por fecha
+    - Búsqueda de diagnósticos por fecha
+    - Búsqueda de prescripciones por fecha
+    - Ver sesiones por fecha
+
+Los pacientes pueden utilizar los metodos de busqueda por:
+- Filtrado de información por ID
+    - Confirmación de prescripciones por ID
+
 ### 5.2.5. Navigation Systems.
+
+**Para Profesionales de la salud mental:**
+
+En la plataforma para profesionales de salud mental, tras iniciar sesión, los usuarios acceden a un panel de control con un menú superior que incluye "Inicio", "Pacientes", "Agenda", "Perfil" y "Ajustes".
+
+En "Pacientes", pueden ver y gestionar perfiles detallados de los pacientes, incluyendo historial de citas y tratamientos.
+
+"Agenda" muestra un calendario con citas programadas y permite agendar nuevas, modificar horarios y enviar recordatorios.
+
+En "Perfil", se visualiza la información personal del profesional y en "Ajustes", se gestionan aspectos de seguridad de la cuenta.
+
+**Para Pacientes:**
+
+Al ingresar, los pacientes ven un panel con opciones como "Inicio", "Perfil", "Citas" y "Tratamiento Actual".
+
+"Tratamiento Actual" ofrece detalles sobre prescripciones, diagnósticos, estados de ánimo y datos estadísticos.
+
+"Citas" permite ver y gestionar citas programadas, mientras que "Perfil" muestra la información personal del paciente.
+
+Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave tanto para psiquiatras como para pacientes.
+
 
 ## 5.3. Landing Page UI Design.
 
@@ -25,15 +369,116 @@
 ### 5.3.2. Landing Page Mock-up.
 
 ## 5.4. Applications UX/UI Design.
-
 ### 5.4.1. Applications Wireframes.
+
+#### Mobile Wireframes.
+
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/44df38aa-f383-4931-9454-adb51ceb70f3" />
+
+#### Web Wireframes.
+
 
 ### 5.4.2. Applications Wireflow Diagrams.
 
+#### Mobile Wireflow Diagrams.
+
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/bed0395c-376d-40c2-b183-33c46bff87f8" />
+
+#### Web Wireflow Diagrams.
+
+
 ### 5.4.2. Applications Mock-ups.
+
+#### Mobile Mock-ups.
+
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/0ee2fd86-5555-4831-8463-b6c6133e65a5" />
+
+#### Web Mock-ups.
+
+
 
 ### 5.4.3. Applications User Flow Diagrams.
 
+#### Mobile User Flow Diagrams.
+
+<div align="center">
+<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/caa69590-976b-4524-b78e-a8bc2bd83afe" />
+</div>
+
+#### Web User Flow Diagrams.
+
+<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/247e37f4-58ad-487d-8d8b-15fa5c99aadb" />
+
+En este flow se puede ver el proceso por el que el médico agenda citas.
+
+<img width="1000" height="330" alt="image" src="https://github.com/user-attachments/assets/375be863-e43a-4a07-bf91-7d82dff3f3e9" />
+
+En este flow se puede ver el proceso por el que se ve las citas de un paciente.
+
+<img width="1000" height="330" alt="image" src="https://github.com/user-attachments/assets/1970f751-ad66-4eb0-9657-4df8535b955a" />
+
+En este flow se puede ver el proceso por el que se ve el registro de citas de un paciente.
+
+<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/5d820bbf-715c-44f5-842b-4e26341cce03" />
+
+En este flow se puede ver como el profesional añade diagnosticos a los pacientes.
+
+<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/83c267f8-da70-46a7-a01a-5c9fdf162862" />
+
+En este flow se puede ver como el profesional edita los diganosticos de los pacientes.
+
+<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/f22421cd-2efa-42b3-ab76-f6bc1ff2cf42" />
+
+En este flow se puede ver como el profesional edita el historial clinico de los pacientes.
+
+<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/5e464f8f-972b-4d18-8159-47b07db6f554" />
+
+En este flow se puede ver como el profesional añade un historial clinico al paciente.
+
+<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/36d9fb44-c986-4bf2-9947-1b7c90318b07" />
+
+En este flow se puede ver como el profesional edita los datos de los pacientes
+
+<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/78c64038-1da0-489d-8094-9ab927bd2481" />
+
+En este flow se puede ver como el profesional observa las funciones biologicas
+
+<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/3109dfc8-9a5a-4434-893b-e934f31cca71" />
+
+En este flow se puede ver como el profesional añade una lista de medicamentos.
+
+<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/ef7bd505-0b7f-465b-bef0-b7354baaca9c" />
+
+En este flow se puede observar como administra los medicamentos de los pacientes.
+
+<img width="1000" height="330" alt="image" src="https://github.com/user-attachments/assets/21e51621-7e04-4ee0-9374-c8f5061504a4" />
+
+En este flow se puede observar como el profesional agrega un nuevo paciente.
+
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/3442137b-e316-4fdf-9fd1-2b32ee3497f7" />
+
+En este flow se puede observar como el profesional observa la pantalla de perfil.
+
+<img width="1000" height="420" alt="image" src="https://github.com/user-attachments/assets/537e9611-cb33-40ac-8156-64e252131860" />
+
+En este flow se puede observar como el profesional se loguea e ingresa a la pagina principal.
+
+<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/bf65b57c-e2ef-4852-bb9a-3de515237134" />
+
+En este flow se puede observar como el profesional se registra en la plataforma.
+
 ## 5.5. Applications Prototyping.
+
+#### Mobile Prototyping.
+
+En esta sección se presenta el prototipo de la aplicación móvil. El prototipo refleja las pantallas principales, la navegación y la interacción previstas para los usuarios del sistema en dispositivos Apple.
+
+El prototipo puede visualizarse en el siguiente enlace: [https://marvelapp.com/prototype/34ij6a2g](https://marvelapp.com/prototype/34ij6a2g)
+
+#### Web Prototyping.
+
+Para validar la usabilidad, la experiencia de usuario y los flujos de interacción definidos en la aplicación, se desarrolló un prototipo navegable que permite visualizar las principales pantallas y funcionalidades. Este prototipo facilita la retroalimentación temprana y asegura la alineación del diseño con los requerimientos del sistema.
+
+El prototipo completo puede visualizarse en el siguiente enlace:[https://marvelapp.com/prototype/8j2efjg](https://marvelapp.com/prototype/8j2efjg)
 
 ## 5.6. IoT Device Design.
