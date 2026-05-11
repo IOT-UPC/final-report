@@ -121,6 +121,7 @@ Ejemplo: feature/bc-medication-management.
 
    CSS: (https://google.github.io/styleguide/htmlcssguide.html)
 
+<div style="page-break-after: always;"></div>
 
 ### 6.1.4. Software Deployment Configuration.
 
@@ -149,6 +150,8 @@ Una vez desplegada, la aplicación web de PsyMed estará accesible públicamente
 
 ## 6.2. Landing Page, Services & Applications Implementation.
 
+<div style="page-break-after: always;"></div>
+
 
 ### 6.2.1. Sprint 1
 En el Sprint #1, que comienza el 11/05/2026, nos enfocaremos en desarrollar una landing page para Denuncia-Ya. El
@@ -171,6 +174,9 @@ nuestros objetivos estratégicos.
 | Sum of Story Points             | 12 |
 
 
+<div style="page-break-after: always;"></div>
+
+
 #### 6.2.1.1. Sprint Planning 1.
 
 En el Sprint #1, que comienza el 11/05/2026, nos enfocaremos en realizar el despliegue de la Landing Page y del Frontend Web de PsyMed. El objetivo es garantizar que ambas plataformas se encuentren accesibles públicamente, permitiendo presentar la propuesta de valor del producto y brindar una primera experiencia funcional a los usuarios. Este sprint estará dedicado a la configuración de entornos, integración con repositorios y validación del despliegue en producción mediante Vercel, asegurando la disponibilidad y correcto funcionamiento de las aplicaciones.
@@ -189,6 +195,9 @@ En el Sprint #1, que comienza el 11/05/2026, nos enfocaremos en realizar el desp
 | Sum of Story Points             | 12                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 
+<div style="page-break-after: always;"></div>
+
+
 #### 6.2.1.2. Aspect Leaders and Collaborators.
 | Team member (LastName, First Name)    | GitHub UserName | Aspect 1:  Bounded Context Access (L/C) | Aspect 2:  Bounded Context Patient Tracker (L/C) | Aspect 3:  Bounded Context Medication Management (L/C) | Aspect 4:  Bounded Context Treatment (L/C) | Aspect 5: Bounded Context Payment (L/C) | Aspect 6: Bounded Context Appointment and Administration (L/C) |
 | ------------------------------------- | --------------- | ---------------------- | ------------------------------- | ------------------------------------- | ------------------------- | ------------------------------------- | ------------------------------------------------------------ |
@@ -197,6 +206,9 @@ En el Sprint #1, que comienza el 11/05/2026, nos enfocaremos en realizar el desp
 | Maita Falckenheiner, Romina Guadalupe | RominaMaita     | C                      | C                               | L                                     | C                         | L                                     | C                                                            |
 | Montañez Moreno, Luis Angel           | Luiso-AM        | L                      | C                               | C                                     | C                         | C                                     | L                                                            |
 | Sulca Silva, Melisa Sulca             | MSS02204        | C                      | L                               | C                                     | L                         | C                                     | C                                                            |
+
+<div style="page-break-after: always;"></div>
+
 
 #### 6.2.1.3. Sprint Backlog 1.
 
@@ -222,6 +234,7 @@ El Sprint 1 tuvo como objetivo realizar el despliegue de la Landing Page y del F
 |    US12    |         Despliegue Landing Page         | W07 |  Vercel deployment landing  |              Configuración del despliegue automático de la landing page mediante Vercel y GitHub.              |          2         |  Paolo Torres |                      Done                      |
 |    US02    |         Despliegue Frontend Web         | W08 |  Vercel deployment frontend |              Configuración y validación del despliegue del frontend web en entorno de producción.              |          3         |  Omar Rivera  |                      Done                      |
 
+<div style="page-break-after: always;"></div>
 
 
 #### 6.2.1.4. Development Evidence for Sprint Review.
@@ -255,8 +268,10 @@ Los siguientes commits documentan los cambios más resaltantes realizados durant
 
 ## FALTA ACTUALIZAR SIN COMMITS NI NADA
 
+<div style="page-break-after: always;"></div>
 
-#### 6.2.X.5. Testing Suite Evidence for Sprint Review.
+
+#### 6.2.1.5. Testing Suite Evidence for Sprint Review.
 
 En esta sección se presenta el conjunto de pruebas realizadas durante el Sprint 1 para validar el correcto funcionamiento de la Landing Page y del Frontend Web de PsyMed. Las pruebas estuvieron enfocadas principalmente en verificar la correcta visualización de componentes, funcionamiento de formularios de autenticación y validación del despliegue en producción.
 
@@ -291,6 +306,8 @@ Feature: Patient Login
     When the patient enters valid credentials
     Then the system should redirect the patient to the dashboard
 ```
+<div style="page-break-after: always;"></div>
+
 
 ### Feature: Landing Page Visualization
 
@@ -330,6 +347,7 @@ Durante este Sprint se realizaron validaciones sobre componentes visuales y form
 | Frontend Authentication | Validación de rutas de login           |
 
 
+<div style="page-break-after: always;"></div>
 
 ### Testing Repositories
 
