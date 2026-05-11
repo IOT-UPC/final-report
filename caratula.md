@@ -19,30 +19,30 @@
     <table>
       <thead>
         <tr>
-          <th style="background-color: #333; color: #fff;">Apellidos y Nombres</th>
           <th style="background-color: #333; color: #fff;">Código de Alumno</th>
+          <th style="background-color: #333; color: #fff;">Apellidos y Nombres</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td>Maita Falckenheiner, Romina Guadalupe</td>
           <td>U202213765</td>
+          <td>Maita Falckenheiner, Romina Guadalupe</td>
         </tr>
         <tr>
-          <td>Montañez Moreno, Luis Angel</td>
           <td>U202223811</td>
+          <td>Montañez Moreno, Luis Angel</td>
         </tr>
         <tr>
-          <td>Rivera Ticllacuri, Omar Harold</td>
           <td>U202214214</td>
+          <td>Rivera Ticllacuri, Omar Harold</td>
         </tr>
         <tr>
-          <td>Sulca Silva, Melisa Sulca</td>
           <td>U20224602</td>
+          <td>Sulca Silva, Melisa Sulca</td>
         </tr>
         <tr>
-          <td>Torres Flores, Paolo Alessandro</td>
           <td>U20221F613</td>
+          <td>Torres Flores, Paolo Alessandro</td>
         </tr>
       </tbody>
     </table> 
@@ -59,11 +59,13 @@
 |---------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | AV1     | 22/04/2026 | - Maita Falckenheiner, Romina Guadalupe<br>- Montañez Moreno, Luis Angel<br>- Rivera Ticllacuri, Omar Harold<br>- Sulca Silva, Melisa Sulca<br>- Torres Flores, Paolo Alessandro | Carátula<br>Registro de Versiones del Informe<br>Project Report Collaboration Insights<br>Contenido<br>Student Outcome<br>Capítulo I: Introducción<br>Capítulo II: Requirements Elicitation & Analysis.<br>Capítulo III: Requirements Specification.<br>Capítulo IV: Solution Software Design.<br>Conclusiones<br>Bibliografía<br>Anexos. |
 
-
+<div style="page-break-after: always;"></div>
 
 # Project Report Collaboration Insights
 
 <img width="731" height="563" alt="insights" src="https://github.com/user-attachments/assets/9fb8051b-f397-4552-9a58-8b66c7d3fb6a" />
+
+<div style="page-break-after: always;"></div>
 
 # Contenido 
 
@@ -192,6 +194,7 @@ Tabla de Contenidos
 
 ### [Anexos](/annexes.md)
 
+<div style="page-break-after: always;"></div>
 
 # Student Outcome 
 
@@ -199,3 +202,5 @@ Tabla de Contenidos
 |-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Trabaja en equipo para proporcionar liderazgo en forma conjunta.                                | **Avn1**: <br><br>Paolo Torres: Tuve comunicación contínua con todos y cada uno de los miembros del equipo para coordinar todos los avances. Liderando la división de tareas y tomando el rol de líder de equipo. Así como también brindar una revisión y comentar eficazmente sobre cada avance de mis compañeros y mío. Logrando así trabajar en equipo para alcanzar el objetivo conjunto.  <br>Omar Rivera: Durante el desarrollo del capítulo 3, correspondiente a la especificación de requisitos, asumí un rol activo dentro del equipo al encargarme de estructurar y definir los User Stories, criterios de aceptación, Impact Mapping y Product Backlog. Esta responsabilidad implicó organizar la información recopilada por el grupo, establecer lineamientos claros para la redacción de requisitos y asegurar la coherencia entre los distintos artefactos. A través de esta contribución, se evidenció un trabajo colaborativo en el que se promovió la coordinación para cumplir con los objetivos establecidos.<br> Romina Maita: He contribuido al liderazgo compartido del equipo manteniéndome activa en las conversaciones tanto por chat como en llamadas, facilitando la comunicación entre los integrantes y asegurando que todos tengan espacio para aportar ideas. Mi participación constante ha permitido alinear decisiones, resolver dudas de manera oportuna y mantener un flujo de trabajo organizado, promoviendo que el liderazgo no recaiga en una sola persona, sino que se construya de manera colaborativa.<br> Luis Montañez: AV1 Participé en la elaboración del capítulo 2, en específico el análisis de competidores, elaboración del needfinding (User personas, user task matrix, user journey mapping) y en la sesión de Big Picture Eventstorming, aportando al equipo en cada actividad.<br> Melisa Sulca: Participé activamente en el desarrollo del proyecto PsyMed. Realicé análisis del contexto actual de los trastornos mentales e identifique la problemática relacionada con la sobrecarga del sistema de salud mental. Elaboré la sección del Solution Profile, los antecedentes de la problemática con los 5W y 2H, el Lean UX Process y se especifico los usuarios finales en los segmentos objetivos. Esto nos ayudo a decidir una propuesta de valor integrada con un dispositivo IoT, la cual facilitará la toma de decisiones del tratamiento de un paciente. | Como grupo, cumplimos con el criterio al estar pendientes de la necesitad conjunta para apoyar y brindar una mano a todas aquellas tareas que lo requieran. Trabajamos en equipo liderando nuestras tareas asignadadas para lograr el objetivo conjunto. |
 | Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | **Avn1**: <br><br>Paolo Torres: Planifiqué las reuniones de avances, establecí fechas límite para cada tarea y de esta manera tener un control y organización en base al límite de tiempo para la entrega del avance. Estuvo a disposición de cualquier duda o necesidad de apoyo para avanzar cualquiera de los capítulos, creando así, un entorno colaborativo en el equipo donde todos nos apoyamos de manera conjunta para llegar a la misma meta.<br> Omar Rivera: En la elaboración del capítulo 3, contribuí a la planificación y organización de los requisitos del proyecto, definiendo objetivos claros mediante el uso de herramientas como User Stories, Impact Mapping y Product Backlog. Se establecieron criterios de aceptación estructurados que facilitaron la validación de los requerimientos y permitieron mantener una comunicación efectiva entre los integrantes del equipo. Asimismo, se fomentó un entorno colaborativo al integrar los aportes de todos los miembros, logrando cumplir con los entregables dentro de los plazos establecidos y asegurando la calidad del trabajo desarrollado.<br> Romina Maita: He fomentado un entorno colaborativo e inclusivo al estar disponible para coordinar actividades, escuchar a los demás y promover la participación de todos en las discusiones del equipo. A través de la organización de conversaciones y seguimiento por chat y llamadas, he ayudado a definir metas claras, distribuir tareas y dar continuidad a los avances, contribuyendo al cumplimiento de los objetivos del proyecto dentro de los plazos establecidos.<br> Luis Montañez: Asumí responsabilidades específicas dentro del cronograma del equipo, desarrollando el análisis de competidores, entrevistas, artefactos de needfinding y participando en el Big Picture Eventstorming dentro de los plazos acordados.<br> Melisa Sulca: Ayudé a definir la organización y la planificación del trabajo durante una reunión realizada en equipo. Tras aquello, elaboré las secciones clave del capitulo 1 como el StartUp Profile y el Solution Profile. Estas tareas permitieron establecer una base clara del diseño del proyecto PsyMed, la cual esta alineada con las necesidades de los usuarios. Además, al realizar mis tareas asignadas, ayude al equipo a cumplir con sus objetivos planteados para la TB1, promoviendo un trabajo ordenado y colaborativo.        | Como grupo, cumplimos con el criterio al establecer la meta conjunta y organizar las tareas dividiéndolas y asignando fechas límites previos a la entrega del trabajo para tener holgura para revisar el envío y asegurar el cumplimiento del objetivo.  |
+
+<div style="page-break-after: always;"></div>
