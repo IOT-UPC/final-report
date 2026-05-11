@@ -194,7 +194,7 @@ Tabla de Contenidos
 
 ### [Anexos](/annexes.md)
 
-<div style="page-break-after: always;"></div>
+<div style="page-break-before: always;"></div>
 
 # Student Outcome 
 
