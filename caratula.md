@@ -226,8 +226,6 @@ Tabla de Contenidos
     }
 </style>
 
-<div style="page-break-before: always;"></div>
-
 <table>
     <thead>
         <tr>
