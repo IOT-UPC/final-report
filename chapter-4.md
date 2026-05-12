@@ -8,12 +8,16 @@ El diseño estratégico de dominio permite identificar y delimitar los contextos
 
 EventStorming es una técnica colaborativa utilizada para descubrir el dominio del problema mediante la identificación de eventos de dominio, comandos, agregados y actores. Esta técnica permite visualizar el flujo de eventos en el sistema y establecer los límites naturales entre contextos acotados.
 
+<div style="page-break-after: always;"></div>
+
+
 #### 4.1.1.1 Candidate Context Discovery.
 
 Mediante el análisis de eventos y agregados identificados en el EventStorming, se propusieron seis contextos acotados candidatos que agrupan conceptos del dominio relacionados: IAM (Identity and Access Management), Profiles, Clinical History, Appointment and Administration, Medication, y Patient Report. La agrupación se realizó considerando la cohesión funcional y las responsabilidades de cada contexto.
 
 ![WhatsApp Image 2025-11-14 at 5 52 24 AM](https://github.com/user-attachments/assets/4679543a-934e-4805-a19e-854516ce7721)
 
+<div style="page-break-after: always;"></div>
 
 #### 4.1.1.2 Domain Message Flows Modeling.
 
@@ -29,6 +33,7 @@ Los flujos de mensajes del dominio modelan la interacción entre contextos acota
 
 ![WhatsApp Image 2025-11-14 at 5 44 14 AM (1)](https://github.com/user-attachments/assets/32be9e36-cfbb-421e-b02a-c392097f4cbc)
 
+<div style="page-break-after: always;"></div>
 
 #### 4.1.1.3 Bounded Context Canvases.
 
@@ -52,9 +57,12 @@ El Context Mapping establece las relaciones entre los contextos acotados identif
 
 La arquitectura de software del sistema se documenta utilizando la metodología C4, que proporciona diferentes niveles de abstracción: Context Level para visualizar el sistema en su entorno, Container Level para mostrar los componentes principales de despliegue, y Deployment Level para representar la infraestructura física de despliegue.
 
+<div style="page-break-after: always;"></div>
+
 #### 4.1.3.1. Software Architecture System Landscape Diagram.
 
 <img src="chapter-4/landscape-c4.jpeg" alt="Software Architecture System Landscape Diagram" />
+<div style="page-break-after: always;"></div>
 
 #### 4.1.3.2. Software Architecture Context Level Diagrams.
 
@@ -62,15 +70,20 @@ La arquitectura de software del sistema se documenta utilizando la metodología 
 
 <img src="chapter-4/System_Context_Diagram-key-leyenda.png" alt="Software Architecture Context Level Diagram Key" />
 
+<div style="page-break-after: always;"></div>
+
 #### 4.1.3.2. Software Architecture Container Level Diagrams.
 
 <img src="chapter-4/NuevoDiagramaContenedores.png" alt="Software Architecture Container Level Diagram" />
+<div style="page-break-after: always;"></div>
 
 #### 4.1.3.3. Software Architecture Deployment Diagrams.
 
 El diagrama de despliegue muestra la infraestructura física y virtual donde se despliega el sistema. El backend Spring Boot se despliega en Render como servicio web, utilizando Docker Hub para almacenar imágenes de contenedor. La base de datos PostgreSQL se aloja en Neon como base de datos serverless. Las aplicaciones móviles se despliegan en dispositivos Android e iOS de los usuarios.
 
 ![WhatsApp Image 2025-11-14 at 5 48 30 AM](https://github.com/user-attachments/assets/4a9c8ebe-820a-40d5-9b9d-aa66034eb3d2)
+
+<div style="page-break-after: always;"></div>
 
 ## 4.2. Tactical-Level Domain-Driven Design
 
@@ -172,6 +185,7 @@ El diagrama de despliegue muestra la infraestructura física y virtual donde se 
 - `handle(GetAccountByIdQuery query)`: Retorna `Optional<Account>`. Obtiene una cuenta por su identificador
 
 ---
+<div style="page-break-after: always;"></div>
 
 ### 4.2.1.2. Interface Layer
 
@@ -277,16 +291,19 @@ El diagrama de despliegue muestra la infraestructura física y virtual donde se 
 - `UserDetailsServiceImpl`: Servicio para cargar detalles de usuario para Spring Security
 
 ---
+<div style="page-break-after: always;"></div>
 
 ### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
 
 ![WhatsApp Image 2025-11-13 at 10 46 47 PM](https://github.com/user-attachments/assets/0c3e4d4f-506d-4a03-9e7e-8ad11d82b556)
+<div style="page-break-after: always;"></div>
 
 ### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
 
 #### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 
 ![WhatsApp Image 2025-11-14 at 3 14 38 AM](https://github.com/user-attachments/assets/6a2981c3-903c-45bf-b8db-2d325e57c34a)
+<div style="page-break-after: always;"></div>
 
 #### 4.2.1.6.2. Bounded Context Database Design Diagram
 
@@ -295,6 +312,7 @@ El diagrama de despliegue muestra la infraestructura física y virtual donde se 
 ![WhatsApp Image 2025-11-14 at 3 17 02 AM](https://github.com/user-attachments/assets/60c4d5b1-1d88-4d67-a6a1-be37e66fa3fe)
 
 ---
+<div style="page-break-after: always;"></div>
 
 ## 4.2.2. Bounded Context: Profiles
 
@@ -720,9 +738,13 @@ El diagrama de despliegue muestra la infraestructura física y virtual donde se 
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
 
 ![WhatsApp Image 2025-11-13 at 10 43 24 PM](https://github.com/user-attachments/assets/c41fa460-2e56-47df-bac7-a4846bfde65f)
+
+<div style="page-break-after: always;"></div>
 
 ### 4.2.4.2. Bounded Context Software Architecture Code Level Diagrams
 
@@ -730,12 +752,18 @@ El diagrama de despliegue muestra la infraestructura física y virtual donde se 
 
 ![WhatsApp Image 2025-11-14 at 3 14 38 AM](https://github.com/user-attachments/assets/ff6ff023-e32a-47d1-ab82-d2e8d7fbf84b)
 
+<div style="page-break-after: always;"></div>
+
+
 #### 4.2.4.2.2. Bounded Context Database Design Diagram
 
 ![WhatsApp Image 2025-11-14 at 3 19 05 AM](https://github.com/user-attachments/assets/055359c0-18ef-4ccc-a1b7-64b94eacd404)
 
 
 ---
+
+<div style="page-break-after: always;"></div>
+
 
 ## 4.2.3. Bounded Context: Appointment and Administration
 
@@ -1114,6 +1142,7 @@ El diagrama de despliegue muestra la infraestructura física y virtual donde se 
 - `SessionQueryService`: Para procesar consultas
 
 ---
+<div style="page-break-after: always;"></div>
 
 ### 4.2.3.3. Application Layer
 
@@ -1169,6 +1198,9 @@ El diagrama de despliegue muestra la infraestructura física y virtual donde se 
 
 ---
 
+<div style="page-break-after: always;"></div>
+
+
 ### 4.2.3.4. Infrastructure Layer
 
 #### Repositories
@@ -1185,10 +1217,12 @@ El diagrama de despliegue muestra la infraestructura física y virtual donde se 
 - `existsByNote(Note note)`: Verifica si existe una sesión con la nota dada
 
 ---
+<div style="page-break-after: always;"></div>
 
 ### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
 
 ![WhatsApp Image 2025-11-13 at 10 41 15 PM](https://github.com/user-attachments/assets/0e3764c1-e9a7-4c88-b918-635f58fa1e15)
+<div style="page-break-after: always;"></div>
 
 ### 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams
 
@@ -1196,11 +1230,15 @@ El diagrama de despliegue muestra la infraestructura física y virtual donde se 
 
 ![WhatsApp Image 2025-11-14 at 3 29 15 AM](https://github.com/user-attachments/assets/eb114717-9534-4047-8378-032239524401)
 
+<div style="page-break-after: always;"></div>
+
+
 #### 4.2.3.6.2. Bounded Context Database Design Diagram
 
 <img width="938" height="1157" alt="SecionsManagmentBc" src="https://github.com/user-attachments/assets/1a28a47d-d4ce-4aab-8e5c-dbe6e0de2d3c" />
 
 ---
+<div style="page-break-after: always;"></div>
 
 ## 4.2.4. Bounded Context: Medication
 
@@ -1296,6 +1334,7 @@ El diagrama de despliegue muestra la infraestructura física y virtual donde se 
 - `handle(GetPillsByPatientId query)`: Retorna `List<Pills>`. Obtiene todos los registros de un paciente
 
 ---
+<div style="page-break-after: always;"></div>
 
 ### 4.2.4.2. Interface Layer
 
@@ -1373,22 +1412,26 @@ El diagrama de despliegue muestra la infraestructura física y virtual donde se 
 **Métodos personalizados:** (Ninguno definido en el código revisado)
 
 ---
+<div style="page-break-after: always;"></div>
 
 ### 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams
 
 ![WhatsApp Image 2025-11-13 at 10 50 34 PM](https://github.com/user-attachments/assets/c23f88f1-dcb4-439d-ac1c-aa4e86693c30)
+<div style="page-break-after: always;"></div>
 
 ### 4.2.4.6. Bounded Context Software Architecture Code Level Diagrams
 
 #### 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams
 
 ![DC-MedicationManagement](https://github.com/user-attachments/assets/995f0545-fb89-442e-bf6f-28049071bab1)
+<div style="page-break-after: always;"></div>
 
 #### 4.2.4.6.2. Bounded Context Database Design Diagram
 
 <img width="812" height="838" alt="MedicalManagmentBC" src="https://github.com/user-attachments/assets/52eff6d0-5245-4453-b664-f24c8570cd8f" />
 
 ---
+<div style="page-break-after: always;"></div>
 
 ## 4.2.5. Bounded Context: Patient Report
 
@@ -1659,16 +1702,19 @@ El diagrama de despliegue muestra la infraestructura física y virtual donde se 
 **Métodos personalizados:** (Probablemente incluye métodos para obtener el último registro por paciente y fecha)
 
 ---
+<div style="page-break-after: always;"></div>
 
 ### 4.2.5.5. Bounded Context Software Architecture Component Level Diagrams
 
 ![89a74bc7-d10f-4b31-8538-abdc8ad6d37a](https://github.com/user-attachments/assets/3cceb5c8-8797-4039-a731-bdb132a4bb50)
+<div style="page-break-after: always;"></div>
 
 ### 4.2.5.6. Bounded Context Software Architecture Code Level Diagrams
 
 #### 4.2.5.6.1. Bounded Context Domain Layer Class Diagrams
 
 ![DC-PatientMoodStates](https://github.com/user-attachments/assets/3c51afce-e9cb-4b15-9f70-f7212abb856a)
+<div style="page-break-after: always;"></div>
 
 #### 4.2.5.6.2. Bounded Context Database Design Diagram
 

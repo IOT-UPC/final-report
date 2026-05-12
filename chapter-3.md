@@ -52,19 +52,23 @@ A continuación se presenta el conjunto de Epics y User Stories definidas para e
 | US31            | Recibir recordatorio de toma de medicamento                                | Como paciente, quiero recibir una notificación a la hora programada para tomar mi medicamento para no olvidar mi tratamiento.                                                                                                                                                   | **Escenario 1: Envío del recordatorio**<br>Dado que el profesional ha registrado un medicamento con un horario específico para el paciente,<br>Cuando el sistema alcanza la hora configurada,<br>Entonces el sistema envía una notificación al paciente con el nombre del medicamento y la dosis correspondiente.<br><br>**Escenario 2: Confirmación de toma**<br>Dado que el paciente recibe el recordatorio de medicamento,<br>Cuando el paciente confirma la toma,<br>Entonces el sistema registra la confirmación y la refleja en el siguiente reporte del profesional.                                                                                                                                                                                                                                                                                                                                                                                                                           | EP13                      |
 | US32            | Recibir recordatorio de cita médica                                        | Como paciente, quiero recibir recordatorios anticipados de mis citas médicas programadas para asegurar mi asistencia.                                                                                                                                                           | **Escenario 1: Recordatorio con 24 horas de anticipación**<br>Dado que existe una cita programada para el día siguiente,<br>Cuando el sistema alcanza el momento correspondiente a 24 horas antes de la cita,<br>Entonces el sistema envía una notificación al paciente informando la fecha y hora de la cita.<br><br>**Escenario 2: Recordatorio con 1 hora de anticipación**<br>Dado que existe una cita programada para dentro de una hora,<br>Cuando el sistema alcanza el momento correspondiente,<br>Entonces el sistema envía una notificación adicional al paciente recordándole la cita inminente.                                                                                                                                                                                                                                                                                                                                                                                           | EP13                      |
 
+<div style="page-break-after: always;"></div>
+
 ## 3.2. Impact Mapping.
 
 ### Impact Mapping Segmento Profesional de la Salud
 #### Ernesto Alvarez Rojas
 <p align="center">
-<img src="https://imgur.com/isiuK6Y.png" alt="ImpactMappingSP">
+<img src="https://imgur.com/isiuK6Y.png" alt="ImpactMappingSP" width="400">
 </p>
+<div style="page-break-after: always;"></div>
 
 ### Impact Mapping Segmento Paciente
 #### Alejandro Perez Nuñez
 <p align="center">
-<img src="https://imgur.com/bkU4YT1.png" alt="ImpactMappingSP">
+<img src="https://imgur.com/bkU4YT1.png" alt="ImpactMappingSP" width="400">
 </p>
+<div style="page-break-after: always;"></div>
 
 ## 3.3. Product Backlog.
 

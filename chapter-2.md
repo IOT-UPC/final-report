@@ -125,6 +125,7 @@ Como estrategia de crecimiento, PsyMed buscará establecer alianzas con instituc
 En relación con sus debilidades, como la dependencia de la integración entre hardware y software y la necesidad de adopción por parte de instituciones tradicionales, se implementarán estrategias de capacitación, soporte técnico continuo y diseño centrado en el usuario para facilitar la adopción. Asimismo, se priorizará el desarrollo progresivo del sistema IoT, asegurando su fiabilidad antes de una expansión a gran escala.
 <br>
 
+<div style="page-break-after: always;"></div>
 
 ## 2.2. Entrevistas.
 
@@ -339,6 +340,7 @@ Al retomar las clases presenciales, buscó cambiar su estilo de vida y se volvi�
 Considera más útil que los datos obtenidos por el dispositivo sean enviados a un especialista en salud mental, en lugar de depender de una inteligencia artificial, ya que no la percibe lo suficientemente avanzada para estos temas. Su expectativa es que, mediante el uso de un dispositivo IoT y una aplicación, pueda regular mejor sus niveles de estrés y emociones.
 <br>
 
+<div style="page-break-after: always;"></div>
 
 ### 2.2.3. Análisis de entrevistas.
 
@@ -368,25 +370,30 @@ Según los datos analizados, se observa que el 100% de los pacientes entrevistad
 <img src="chapter-2/pregunta6dispositivo.jpg" alt="Pregunta 6" width=auto height="300">
 <img src="chapter-2/pregCarrera2.jpg" alt="Pregunta 7" width=auto height="300">
 
+<div style="page-break-after: always;"></div>
 
 ## 2.3. Needfinding.
 Tras realizar las entrevistas, conseguimos reunir información relevante acerca de sus expectativas, dificultades, contexto y otros aspectos importantes. Estos datos serán fundamentales para responder de manera más precisa a sus necesidades y, con ello, mejorar la experiencia de nuestros usuarios. Asimismo, servirán como base para la elaboración de los esquemas correspondientes a User Personas, User Task Matrix, User Journey Maps y Empathy Mapping.
 
+
 ### 2.3.1. User Personas.
 En el proceso de desarrollar un sitio web orientado a mejorar la labor de los médicos en el ámbito de la salud mental, identificamos que la optimización de la gestión administrativa resulta esencial para elevar la calidad de la atención a los pacientes. Mediante entrevistas con usuarios potenciales y especialistas, obtuvimos información valiosa sobre cómo una plataforma digital puede reducir la carga de tareas administrativas, permitiendo que los médicos dediquen más tiempo a sus pacientes. Las fichas de User Persona que se presentan a continuación reflejan estas necesidades, mostrando cómo una administración más eficiente impacta positivamente tanto en la experiencia del médico como en el bienestar del paciente. Estas herramientas serán clave para diseñar una plataforma que responda de manera efectiva a las expectativas de nuestros usuarios.
+<div style="page-break-after: always;"></div>
 
 **Segmento #1: Profesionales de la salud** 
 <br>
 
 <p align="center">
-  <img src="chapter-2/UserPersonaSegmento1.png">
+  <img src="chapter-2/UserPersonaSegmento1.png" width="400">
 </p>
+<div style="page-break-after: always;"></div>
 
 **Segmento #2: Pacientes**
 <br>
 <p align="center">
-  <img src="chapter-2/UserPersonaSegmento2.png">
+  <img src="chapter-2/UserPersonaSegmento2.png" width="400">
 </p>
+<div style="page-break-after: always;"></div>
 
 ### 2.3.2. User Task Matrix.
 
@@ -423,6 +430,7 @@ En el proceso de desarrollar un sitio web orientado a mejorar la labor de los m�
 - **Tareas relevantes pero menos constantes:**
   - **Recepción de alertas por niveles de ansiedad** y **activación de vibración háptica** → Alta importancia, realizadas ocasionalmente como apoyo en situaciones específicas.
   - **Revisión de tratamientos y planes terapéuticos** y **consulta de historial clínico** → Importancia media y frecuencia baja, acceso puntual a esta información.
+<div style="page-break-after: always;"></div>
 
 ### 2.3.3. User Journey Mapping.
 El User Journey Mapping se desarrolló para comprender la experiencia de los usuarios al interactuar con
@@ -433,12 +441,14 @@ usabilidad y satisfacción del usuario.
 **Segmento #1: Profesionales de la salud**
 <img src="chapter-2/JourneyMap1.png" alt="Empathy Map 1" width=auto height="800">
 <br><br>
+<div style="page-break-after: always;"></div>
 
 **Segmento #2: Pacientes con trastorno mental**
 <img src="chapter-2/JourneyMap2.png" alt="Empathy Map 1" width=auto height="800">
 <br><br>
 
 
+<div style="page-break-after: always;"></div>
 
 ### 2.3.4. Empathy Mapping.
 Para elaborar el Empathy Map, utilizamos la información obtenida de nuestros dos User Personas, quienes representan el segmento objetivo. Este recurso nos permite profundizar en la comprensión de sus necesidades, pensamientos, emociones y comportamientos, facilitando el diseño de soluciones más alineadas con sus expectativas y experiencias reales.
@@ -451,6 +461,8 @@ Para elaborar el Empathy Map, utilizamos la información obtenida de nuestros do
 **Segmento #2: Pacientes con trastorno mental**
 
 <img src="chapter-2/EmpathyMap2.png" alt="Empathy Map 2" width=auto height="800">
+
+<div style="page-break-after: always;"></div>
 
 ## 2.4. Big Picture EventStorming.
 
