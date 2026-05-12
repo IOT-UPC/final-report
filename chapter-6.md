@@ -634,4 +634,60 @@ Link del video en Microsoft Stream: https://acortar.link/bWwB1q
 
 # Bibliografía
 
+<p style="padding-left: 1.25cm; text-indent: -1.25cm;">
+Angular. (s. f.). <em>Angular Material components</em>. Recuperado el 18 de abril de 2026, de https://material.angular.io/components/categories
+</p>
+
+<p style="padding-left: 1.25cm; text-indent: -1.25cm;">
+AngularJS. (s. f.). <em>AngularJS Material</em>. Recuperado el 18 de abril de 2026, de https://material.angularjs.org/latest/
+</p>
+
+<p style="padding-left: 1.25cm; text-indent: -1.25cm;">
+Centro Nacional de Planeamiento Estratégico. (2022, de diciembre). <em>Exacerbación de los problemas de salud mental</em>. Observatorio Nacional de Prospectiva. Recuperado el 20 de abril de 2026, de https://observatorio.ceplan.gob.pe/ficha/r37_2022
+</p>
+
+<p style="padding-left: 1.25cm; text-indent: -1.25cm;">
+Centro Peruano de Estudios Gubernamentales. (2026, 3 de febrero). <em>El alto costo de la salud mental en el Perú: evidencia, brechas y desafíos de política pública</em>. BLOG – CEPEG. Recuperado el 20 de abril de 2026, de https://cepeg.pe/blog/alto-costo-salud-mental-peru/
+</p>
+
+<p style="padding-left: 1.25cm; text-indent: -1.25cm;">
+Chang-Gómez, M., &amp; Chang-Gómez, M. Á. (2020). Bienestar en el trabajo de los profesionales de salud durante la pandemia de COVID-19: Revisión narrativa. <em>Revista Cubana de Salud Pública, 46</em>(4), e2146. https://doi.org/10.1590/rcsp.v46i4.2146
+</p>
+
+<p style="padding-left: 1.25cm; text-indent: -1.25cm;">
+Colegio Médico del Perú. (2022, 13 de octubre). <em>Salud mental en emergencia</em>. Colegio Médico del Perú. Recuperado el 20 de abril de 2026, de https://www.cmp.org.pe/salud-mental-en-emergencia/
+</p>
+
+<p style="padding-left: 1.25cm; text-indent: -1.25cm;">
+Conne, M. (2024). <em>The Markdown Guide</em>. MarkdownGuide. Recuperado el 18 de abril de 2026, de https://www.markdownguide.org/
+</p>
+
+<p style="padding-left: 1.25cm; text-indent: -1.25cm;">
+Conventional Commits. (s. f.). <em>Conventional commits v1.0.0</em>. Recuperado el 18 de abril de 2026, de https://www.conventionalcommits.org/en/v1.0.0/
+</p>
+
+<p style="padding-left: 1.25cm; text-indent: -1.25cm;">
+Defensoría del Pueblo. (2018, 10 de octubre). <em>Ocho de cada 10 personas no reciben atención en salud mental pese a requerirlo</em>. Defensoría del Pueblo. Recuperado el 20 de abril de 2026, de https://www.defensoria.gob.pe/ocho-de-cada-10-personas-no-reciben-atencion-en-salud-mental-pese-a-requerirlo/
+</p>
+
+<p style="padding-left: 1.25cm; text-indent: -1.25cm;">
+Defensoría del Pueblo. (2020, 9 de octubre). <em>Defensoría del Pueblo: Estado peruano debe priorizar la atención de la salud mental</em>. Defensoría del Pueblo. Recuperado el 20 de abril de 2026, de https://www.defensoria.gob.pe/defensoria-del-pueblo-estado-peruano-debe-priorizar-la-atencion-de-la-salud-mental/
+</p>
+
+<p style="padding-left: 1.25cm; text-indent: -1.25cm;">
+Diario Oficial El Peruano. (2023, 23 de abril). <em>Salud mental: casos atendidos por Minsa se incrementaron en casi 20 % durante el 2022</em>. Diario Oficial El Peruano. Recuperado el 20 de abril de 2026, de https://elperuano.pe/noticia/210845-salud-mental-casos-atendidos-por-minsa-se-incrementaron-en-casi-20-durante-el-2022
+</p>
+
+<p style="padding-left: 1.25cm; text-indent: -1.25cm;">
+Digitalización de las instituciones hospitalarias. (2024, 9 de febrero). <em>Tecnología y salud: transformando el futuro de la atención médica en la región</em>. Observatorio de Desarrollo Digital. Recuperado el 5 de septiembre de 2024, de https://desarrollodigital.cepal.org/es/datos-y-hechos/digitalizacion-de-las-instituciones-hospitalarias
+</p>
+
+<p style="padding-left: 1.25cm; text-indent: -1.25cm;">
+Ministerio de Salud. (2024, 10 de octubre). <em>Más de 1 300 000 casos atendidos por trastornos de salud mental y problemas psicosociales</em>. Plataforma del Estado Peruano. Recuperado el 20 de abril de 2026, de https://www.gob.pe/institucion/minsa/noticias/1037025-mas-de-1-300-000-casos-atendidos-por-trastornos-de-salud-mental-y-problemas-psicosociales
+</p>
+
+<p style="padding-left: 1.25cm; text-indent: -1.25cm;">
+Organización Mundial de la Salud. (2022, 2 de marzo). <em>La pandemia de COVID-19 aumenta en un 25 % la prevalencia de la ansiedad y la depresión en todo el mundo</em>. Organización Mundial de la Salud. Recuperado el 20 de abril de 2026, de https://www.who.int/es/news/item/02-03-2022-covid-19-pandemic-triggers-25-increase-in-prevalence-of-anxiety-and-depression-worldwide
+</p>
+
 # Anexos
