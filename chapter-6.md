@@ -70,16 +70,17 @@ A continuación, se detalla cómo se implementará este flujo de trabajo, junto 
 
 **Repositorio de GitHub:**
 - Enlace para acceder a la organización en https://github.com/IOT-UPC
-- Enlace para acceder al repositorio de la [Landing Page](https://github.com/Diseno-de-experimentos-Grupo-2/Landing-Page)
+- Enlace para acceder al repositorio de la Landing Page https://github.com/Diseno-de-experimentos-Grupo-2/Landing-Page
 - Enlace para acceder al repositorio del reporte en https://github.com/IOT-UPC/final-report
-- Enlace para acceder al repositorio del [Frontend Web](https://github.com/Diseno-de-experimentos-Grupo-2/psymed-frontend)
-- Enlace para acceder al repositorio del [Frontend Móvil](https://github.com/Diseno-de-experimentos-Grupo-2/psymed-mobile-flutter)
+- Enlace para acceder al repositorio del Frontend Web https://github.com/IOT-UPC/front
+
 
 **Flujo de trabajo GitFlow**
 
 El flujo de trabajo se basará en el modelo propuesto por Vincent Driessen en "A successful Git branching model".
 
-# AÑADIR IMAGEN
+![Application Web](https://github.com/user-attachments/assets/df7f574c-1b14-44b8-aa30-de55f0ac4300)
+
 
 **Estructura de branches (Ramas):**
 
@@ -154,32 +155,13 @@ Una vez desplegada, la aplicación web de PsyMed estará accesible públicamente
 
 
 ### 6.2.1. Sprint 1
-En el Sprint #1, que comienza el 11/05/2026, nos enfocaremos en desarrollar una landing page para Denuncia-Ya. El
-objetivo es crear una página que no solo capte la atención de los visitantes, sino que también transmita claramente los
-beneficios de nuestro producto. Este sprint estará dedicado al diseño y desarrollo de la landing page para cumplir con
-nuestros objetivos estratégicos.
+En el Sprint #1, que comienza el 11/05/2026, nos enfocaremos en realizar el despliegue de la Landing Page y del Frontend Web de PsyMed. El objetivo es garantizar que ambas plataformas se encuentren accesibles públicamente, permitiendo presentar la propuesta de valor del producto y brindar una primera experiencia funcional a los usuarios. Este sprint estará dedicado a la configuración de entornos, integración con repositorios y validación del despliegue en producción mediante Vercel, asegurando la disponibilidad y correcto funcionamiento de las aplicaciones.
 
-
-| **Sprint #**                    | Sprint 1 |
-|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sprint Planning Background      |                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Date                            | 11/05/2026   |
-| Time                            | 19:00 - 21:00|
-| Location                        | Virtual via discord |
-| Prepared By                     | Paolo Alessandro Torres Flores, Omar Harold Rivera Ticllacuri |
-| Attendees (to planning meeting) | Paolo Alessandro Torres Flores, Omar Harold Rivera Ticllacuri, Romina Guadalupe Maita Falckenheiner, Luis Angel Montañez Moreno, Melisa Sulca Silva|
-| Sprint Goal & User Stories|       |
-| Sprint 1 Goal                   | **Our focus is on** deploying the first operational version of the PsyMed Landing Page and Frontend Web Application.<br> **We believe it delivers** public accessibility, project visibility, and a functional environment where users can interact with the platform through the deployed interfaces.<br>**This will be confirmed when** users can successfully access the landing page and frontend application through the production links deployed on Vercel without critical errors. |
-| Sprint 1 Velocity               | El equipo ha establecido una capacidad de 12 story points para este sprint, considerando que las actividades estuvieron enfocadas principalmente en el despliegue de la landing page y la configuración inicial del frontend web.  |
-| Sum of Story Points             | 12 |
-
-
-<div style="page-break-after: always;"></div>
 
 
 #### 6.2.1.1. Sprint Planning 1.
 
-En el Sprint #1, que comienza el 11/05/2026, nos enfocaremos en realizar el despliegue de la Landing Page y del Frontend Web de PsyMed. El objetivo es garantizar que ambas plataformas se encuentren accesibles públicamente, permitiendo presentar la propuesta de valor del producto y brindar una primera experiencia funcional a los usuarios. Este sprint estará dedicado a la configuración de entornos, integración con repositorios y validación del despliegue en producción mediante Vercel, asegurando la disponibilidad y correcto funcionamiento de las aplicaciones.
+
 
 | **Sprint 1**                    | Sprint 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -217,9 +199,8 @@ El Sprint 1 tuvo como objetivo realizar el despliegue de la Landing Page y del F
 **Herramienta utilizada:** Trello
 **Link Trello:** [https://trello.com/b/JZtqQb87](https://trello.com/b/JZtqQb87)
 
-## FALTA IMAGEN DEL TRELLO HASTA QUE ACEPTEN TODOS
+![Sprint Backlog 1](https://github.com/user-attachments/assets/a704e70d-f75d-4cfc-9212-b81bb017b1c7)
 
-![trello.jpeg](../assets/sprint1/trello.png)
 
 |  Sprint 1  |                 Sprint 1                |     |                             |                                                                                                                |                    |               |                                                |
 | :--------: | :-------------------------------------: | :-: | :-------------------------: | :------------------------------------------------------------------------------------------------------------: | :----------------: | :-----------: | :--------------------------------------------: |
@@ -231,8 +212,7 @@ El Sprint 1 tuvo como objetivo realizar el despliegue de la Landing Page y del F
 |    US02    |       Iniciar sesión como paciente      | W04 |    Patient login frontend   |          Implementación de la interfaz inicial de inicio de sesión para pacientes en el frontend web.          |          4         |  Omar Rivera  |                      Done                      |
 |    US03    |     Iniciar sesión como profesional     | W05 | Professional login frontend |                 Desarrollo de la interfaz de autenticación para profesionales de salud mental.                 |          4         | Luis Montañez |                      Done                      |
 |    US15    |           Iniciar sesión móvil          | W06 |    Mobile login structure   |                  Configuración inicial de pantallas de autenticación para la aplicación móvil.                 |          3         |  Omar Rivera  |                      Done                      |
-|    US12    |         Despliegue Landing Page         | W07 |  Vercel deployment landing  |              Configuración del despliegue automático de la landing page mediante Vercel y GitHub.              |          2         |  Paolo Torres |                      Done                      |
-|    US02    |         Despliegue Frontend Web         | W08 |  Vercel deployment frontend |              Configuración y validación del despliegue del frontend web en entorno de producción.              |          3         |  Omar Rivera  |                      Done                      |
+
 
 <div style="page-break-after: always;"></div>
 
@@ -258,11 +238,11 @@ Los siguientes commits documentan los cambios más resaltantes realizados durant
 
 | Repository      | Branch  | Commit Id | Commit Message                                      | Commit Message Body                                                                                                                       | Commited on (Date) |
 | --------------- | ------- | --------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| psymed-frontend | develop | XXXXXXXX  | feat(auth): add patient login interface             | Implementación inicial de la interfaz de inicio de sesión para pacientes, incluyendo validaciones básicas y estructura visual responsive. | 11/05/2026          |
-| psymed-frontend | develop | XXXXXXXX  | feat(auth): add professional login                  | Desarrollo de la pantalla de autenticación para profesionales de salud mental y configuración inicial de rutas protegidas.                | 11/05/2026         |
+| front | feature/login-ui | e63512e441486448a53b5ef3b0c25fb2006d50ed  | feat(auth): add patient login interface             | Implementación inicial de la interfaz de inicio de sesión para pacientes, incluyendo validaciones básicas y estructura visual responsive. | 11/05/2026          |
+| front | feature/multi-role-auth | 6731bca05091f49f98b2e83c5a398ba341d5c261  | feat(auth): add professional login                  | Desarrollo de la pantalla de autenticación para profesionales de salud mental y configuración inicial de rutas protegidas.                | 11/05/2026         |
 | Landing-Page    | develop | XXXXXXXX  | feat(landing): initial landing page structure       | Creación de las secciones principales de la landing page para presentar la propuesta de valor de PsyMed.                                  | 11/05/2026        |
 | Landing-Page    | develop | XXXXXXXX  | style(ui): improve typography and responsive design | Ajustes visuales relacionados con tipografía, diseño responsive y mejora de experiencia de usuario.                                       | 11/05/2026 6         |
-| psymed-frontend | develop | XXXXXXXX  | chore(deploy): configure vercel deployment          | Configuración del despliegue automático del frontend mediante integración con GitHub y Vercel.                                            | 11/05/2026          |
+| front | feature/api-config | 63f08ee39860b644520ec9bfaa79f49ca776d77c  | chore(deploy): configure vercel deployment          | Configuración del despliegue automático del frontend mediante integración con GitHub y Vercel.                                            | 11/05/2026          |
 | Landing-Page    | develop | XXXXXXXX  | chore(deploy): deploy landing page to vercel        | Publicación de la landing page en entorno de producción utilizando Vercel.                                                                | 11/05/2026         |
 
 
@@ -363,9 +343,9 @@ Durante este Sprint se realizaron validaciones sobre componentes visuales y form
 
 | Repository      | Branch  | Commit Id | Commit Message                         | Commit Message Body                                                                                  | Commited on (Date) |
 | --------------- | ------- | --------- | -------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------ |
-| psymed-frontend | develop | XXXXXXXX  | test(auth): validate login form        | Se agregaron validaciones iniciales para formularios de autenticación y pruebas funcionales básicas. | DD/MM/2026         |
-| Landing-Page    | develop | XXXXXXXX  | test(ui): validate landing sections    | Se realizaron pruebas de visualización y navegación en las secciones principales de la landing page. | DD/MM/2026         |
-| psymed-frontend | develop | XXXXXXXX  | test(deploy): verify vercel deployment | Validación del correcto despliegue del frontend en entorno de producción mediante Vercel.            | DD/MM/2026         |
+| front | develop | XXXXXXXX  | test(auth): validate login form        | Se agregaron validaciones iniciales para formularios de autenticación y pruebas funcionales básicas. | 11/05/2026         |
+| Landing-Page    | develop | XXXXXXXX  | test(ui): validate landing sections    | Se realizaron pruebas de visualización y navegación en las secciones principales de la landing page. | 11/05/2026         |
+| front | develop | XXXXXXXX  | test(deploy): verify vercel deployment | Validación del correcto despliegue del frontend en entorno de producción mediante Vercel.            | 11/05/2026         |
 
 
 #### 6.2.1.6. Execution Evidence for Sprint Review.
