@@ -32,6 +32,11 @@ Cabe destacar, que PsyMed se enfoca en mejorar la calidad de la atención al pro
 
 ### 1.2.1 Antecedentes y problemática
 
+En el Perú, la salud mental se ha convertido en una problemática importante debido al aumento de casos relacionados con depresión, ansiedad, estrés y otros trastornos psicosociales. En el 2024, se atendieron más de 1.3 millones de casos por trastorno de salud mental y problemas psicosociales. Además, en los establecimientos del Minsa se registraron más de 6.8 millones de atenciones. (Gobierno del Perú, 2024) 
+
+Este contexto muestra una demanda creciente de servicios especializados y la necesidad de reforzar los mecanismos de seguimiento, prevención y atención adecuada para pacientes que empiezan a manifestar los síntomas emocionales o psicológicos, anteriormente mencionado, en el país. 
+
+El acceso a una atención adecuada sigue siendo escaso para gran pare de la población, a pesar de los avances en políticas públicas. Según la Defensoría del Pueblo, 8 de cada 10 personas que requieren atención en la salud mental no reciben un adecuado tratamiento, lo que representa una brecha importante en recursos humanos, cobertura y continuidad del cuidado (2018). También, la OMS indicó que en el primer año de la pandemia hubo un aumento de un 25% de la prevalencia mundial de ansiedad y depresión (Organización Mundial de la Salud, 2022). 
 
 - **Who:** El problema afecta a los profesionales de la salud mental, pacientes que están empezando a mostrar síntomas de trastornos mentales, y al sistema de salud en general.
 
