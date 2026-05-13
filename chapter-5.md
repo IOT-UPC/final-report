@@ -525,6 +525,107 @@ Agenda del Paciente: Calendario donde los pacientes pueden ver sus citas program
 
 #### Web Mock-ups.
 
+En este apartado se muestran los Mock-Ups de la Aplicación Web, con notable más detalle que los Wireframes. Cada pantalla tiene un nombre y propósito específico.
+
+Home: Pantalla principal de la aplicación, que proporciona acceso a las diferentes funciones y secciones, como el registro, inicio de sesión y navegación general de la aplicación.
+
+<img width="800" height="600" alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/MockUps(9).png" />
+
+<div style="page-break-after: always;"></div>
+
+Register: Sección donde los nuevos usuarios pueden crear una cuenta proporcionando su información personal y credenciales para acceder a la aplicación.
+
+<img width="800" height="600" alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/MockUps(15).png" />
+
+<div style="page-break-after: always;"></div>
+
+Login: Pantalla donde los usuarios existentes pueden ingresar sus credenciales para acceder a su cuenta y las funciones principales de la plataforma.
+
+<img width="800" height="600" alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/MockUps(11).png" />
+
+<div style="page-break-after: always;"></div>
+
+Cambio de Contraseña: Permite a los usuarios restablecer su contraseña en caso de haberla olvidado o de desear cambiarla por motivos de seguridad.
+
+<img width="800" height="600" alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/MockUps(4).png" />
+
+<div style="page-break-after: always;"></div>
+Profesionales Home: Pantalla de inicio para los profesionales de la salud, que proporciona acceso a todas las herramientas y funciones disponibles para el manejo de pacientes.
+
+<img width="800" height="600" alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/MockUps(14).png" />
+
+<div style="page-break-after: always;"></div>
+
+Perfil Profesional: Sección donde los profesionales pueden ver y editar su información personal y profesional, como nombre, especialidad y datos de contacto.
+
+<img width="800" height="600" alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/MockUps(12).png" />
+
+<div style="page-break-after: always;"></div>
+
+Agregar Paciente: Función que permite a los profesionales registrar nuevos pacientes, ingresando datos personales y clínicos para su seguimiento.
+
+<img width="800" height="600" alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/MockUps(3).png" />
+
+<div style="page-break-after: always;"></div>
+
+Lista de Pacientes: Pantalla que muestra a los profesionales una lista de todos los pacientes registrados bajo su cuidado, con opciones para ver detalles o realizar acciones.
+
+<img width="800" height="600" alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/MockUps(10).png" />
+
+<div style="page-break-after: always;"></div>
+
+Configuración del Paciente: Sección donde los profesionales pueden editar la información y preferencias de cada paciente, incluyendo ajustes clínicos y personales.
+
+<img width="800" height="600" alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/MockUps(13).png" />
+
+<div style="page-break-after: always;"></div>
+Creación de Cita: Permite a los profesionales agendar nuevas citas para los pacientes, definiendo la fecha, hora y detalles específicos de la consulta.
+
+<img width="800" height="600" alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/MockUps(5).png" />
+
+<div style="page-break-after: always;"></div>
+
+Edición de Cita: Función que permite modificar los detalles de una cita previamente agendada, como cambiar la fecha, hora o propósito.
+
+<img width="800" height="600" alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/MockUps(6).png" />
+
+<div style="page-break-after: always;"></div>
+Registro de Documentación Médica: Sección donde los profesionales pueden cargar y registrar documentos médicos relevantes para cada paciente, como resultados de exámenes o diagnósticos.
+
+<img width="800" height="600" alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/MockUps(16).png" />
+
+<div style="page-break-after: always;"></div>
+
+Agenda Profesional: Calendario donde los profesionales pueden ver todas sus citas programadas y tareas pendientes, organizadas de manera diaria o semanal.
+
+<img width="800" height="600" alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/MockUps(2).png" />
+
+<div style="page-break-after: always;"></div>
+
+Lista de Estados de Ánimo: Sección donde se puede registrar y monitorear los estados de ánimo de los pacientes para dar seguimiento a su evolución emocional.
+
+<img width="800" height="600" alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/MockUps(8).png" />
+
+<div style="page-break-after: always;"></div>
+
+Test Interdiario: Función que permite a los pacientes completar un test diario sobre su estado emocional y físico para un monitoreo continuo.
+
+<img width="800" height="600" alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/MockUps(1).png" />
+
+<div style="page-break-after: always;"></div>
+
+Registro Diario del Paciente: Permite a los pacientes realizar un seguimiento diario de su estado de salud, registrando síntomas, emociones o cambios relevantes.
+
+<img width="800" height="600" alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/MockUps(18).png" />
+
+<div style="page-break-after: always;"></div>
+
+Agenda del Paciente: Calendario donde los pacientes pueden ver sus citas programadas con los profesionales, con la posibilidad de recibir recordatorios y actualizar citas.
+
+<img width="800" height="600" alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/MockUps(19).png" />
+
+<div style="page-break-after: always;"></div>
+
 ### 5.4.3. Applications User Flow Diagrams.
 
 #### Mobile User Flow Diagrams.
@@ -615,3 +716,213 @@ El prototipo completo puede visualizarse en el siguiente enlace:
 [https://marvelapp.com/prototype/8j2efjg](https://marvelapp.com/prototype/8j2efjg)
 
 ## 5.6. IoT Device Design.
+
+## 1. Introducción y criterios de decisión de diseño
+
+### 1.1 Objetivo del dispositivo
+
+El dispositivo tiene como función principal la **adquisición periódica de señales proxy** asociadas a frecuencia cardíaca y temperatura, la **presentación local** de dichos valores y del estado clínico simplificado (normal versus alarma), la **activación coordinada de actuadores** cuando se detecta una crisis según umbrales definidos en firmware, y el **registro selectivo** de eventos hacia un endpoint HTTP en formato JSON, condicionado a la presencia de alarma y a un intervalo mínimo entre transmisiones con el fin de limitar carga de red y redundancia de datos.
+
+### 1.2 Criterios de diseño
+
+Los criterios que orientan las decisiones técnicas son los siguientes:
+
+| Criterio | Implicación en el diseño |
+|----------|---------------------------|
+| **Trazabilidad temporal** | Sincronización mediante NTP y sellado de tiempo en cargas útiles y en pantalla, alineado con la necesidad de correlacionar eventos clínicos con registros remotos. |
+| **Multimodalidad de la alarma** | Combinación de canal visual (LED), auditivo (zumbador) y cinestésico o motor (servomotor), de modo que la alerta no dependa de un único canal sensorial del usuario. |
+| **Legibilidad local** | Pantalla OLED de bajo consumo para retroalimentación continua sin depender exclusivamente del canal serial de depuración. |
+| **Eficiencia de comunicación** | Envío al servidor únicamente cuando existe estado de crisis y ha transcurrido un intervalo configurable (por defecto una hora), evitando muestreo continuo innecesario del endpoint. |
+| **Coherencia hardware–software** | Asignación de pines de la ESP32 acorde a restricciones del fabricante (por ejemplo, entradas analógicas en ADC1 para compatibilidad con Wi-Fi activo) y con el esquema documentado en Wokwi. |
+| **Prototipado reproducible** | Uso de componentes estándar en Wokwi más un chip personalizado para la señal de pulso, permitiendo repetición del experimento en entorno simulado sin variación manual del cableado. |
+
+### 1.3 Relación con la arquitectura de información
+
+Las decisiones de interfaz física y de telemetría se articulan con una **arquitectura de información** en la que se distinguen, a nivel lógico, los siguientes bloques de datos transmitidos al endpoint:
+
+- Identificador de reporte y marca temporal (`report_id`, `timestamp`).
+- Datos del paciente o variables clínicas proxy (`patient_data`: frecuencia cardíaca estimada, temperatura en grados Celsius, indicador booleano de crisis).
+- Registro del estado de los actuadores y del dispositivo (`device_logs`: servo, zumbador, LED de alarma, tiempo de funcionamiento).
+
+Esta separación refleja el principio de **desacoplar el dato clínico o de interés primario** del **metadato operativo del dispositivo**, facilitando el procesamiento posterior en sistemas centrales (filtrado, auditoría, visualización) sin mezclar semánticamente magnitudes fisiológicas con el estado de hardware. La pantalla OLED replica, a escala local, un subconjunto de esa jerarquía (tiempo, variables principales, estado textual), lo que mantiene **consistencia semántica** entre lo que percibe el usuario en el dispositivo y lo que puede persistirse en el backend.
+
+### 1.4 Alineación con una guía de estilos para interfaces físicas IoT
+
+En ausencia de un documento de guía adjunto en este repositorio, el prototipo se diseña de forma **coherente con prácticas habituales** de interfaces físicas para dispositivos de alerta en entornos de salud o bienestar:
+
+- **Codificación por color**: LED de alarma en color rojo, convención asociada a condición de riesgo o atención requerida.
+- **Jerarquía visual en pantalla**: tamaño de fuente mayor para la variable prioritaria (frecuencia cardíaca estimada) respecto a la temperatura y al estado de alarma.
+- **Redundancia controlada**: la alarma se comunica por LED, sonido y movimiento; la OLED refuerza el estado sin sustituir por completo los canales de alerta periférica.
+- **Feedback de conectividad implícito**: mensaje inicial de conexión Wi-Fi en pantalla durante el arranque, reduciendo la incertidumbre del usuario respecto al estado de enlace.
+
+Cuando el proyecto disponga de una **guía de estilos para IoT Device Physical Interfaces** aprobada por el curso o la organización, los colores, textos en pantalla y patrones de parpadeo o tono deberán contrastarse con dicha guía y documentarse las desviaciones justificadas.
+
+---
+
+## 2. Inventario de sensores y actuadores, con justificación
+
+### 2.1 Sensores
+
+#### 2.1.1 Señal de frecuencia cardíaca (chip personalizado `heart`)
+
+**Descripción técnica.** Se emplea un **chip simulado** en Wokwi (`heart.chip.json`, `heart.chip.c`) que entrega una señal analógica en el pin `SIG`, conectada a la entrada **GPIO34** de la ESP32. El firmware interpreta la lectura ADC como magnitud proporcional y la mapea a un rango de latidos por minuto con fines demostrativos.
+
+**Justificación.** La monitorización de la frecuencia cardíaca constituye un indicador ampliamente utilizado en sistemas de apoyo al monitoreo de estrés o crisis agudas. El uso de un **chip custom** permite modelar una señal periódica controlada en simulación, acercándose al requisito de un sensor dedicado sin depender en esta fase de un módulo comercial específico (por ejemplo, PPG dedicado). En despliegue físico, este bloque debería sustituirse por un sensor biomédico validado y su pipeline de señal correspondiente.
+
+#### 2.1.2 Sensor de temperatura (termistor NTC)
+
+**Descripción técnica.** Módulo **wokwi-ntc-temperature-sensor**, alimentado a 3,3 V, salida analógica hacia **GPIO32**. El firmware estima la temperatura mediante modelo de divisor de voltaje y ecuación de Steinhart–Hart simplificada (parámetro Beta).
+
+**Justificación.** La temperatura corporal o periférica es un indicador complementario en escenarios de malestar o fiebre. El NTC ofrece lectura analógica directa con componentes mínimos y es adecuado para prototipos de laboratorio y simulación. Alternativas digitales (por ejemplo, DHT22) podrían incorporarse si el diseño de información requiriese humedad ambiente u homogeneización con otros nodos del ecosistema.
+
+### 2.2 Actuadores y salida gráfica local
+
+#### 2.2.1 LED de alarma (rojo, etiqueta ALARM)
+
+**Conexión.** Ánodo a **GPIO5**, cátodo a tierra común (en montaje físico se recomienda resistencia limitadora de corriente en serie).
+
+**Justificación.** Canal visual de bajo coste y latencia mínima. El parpadeo en firmware refuerza la detección periférica de la alarma sin exigir lectura de la pantalla.
+
+#### 2.2.2 Zumbador (buzzer pasivo)
+
+**Conexión.** Terminal de señal **GPIO14**, segundo terminal a GND, conforme al modelo `wokwi-buzzer`.
+
+**Justificación.** Canal auditivo universalmente reconocible. El tono fijo configurado en firmware (880 Hz) actúa como señal de alerta distinguible del silencio en estado normal.
+
+#### 2.2.3 Servomotor
+
+**Conexión.** Señal PWM **GPIO13**, alimentación a **VIN** y referencia a **GND** compartida con la placa.
+
+**Justificación.** El servomotor proporciona **retroalimentación mecánica** (oscilación controlada en estado de crisis y posición neutra en reposo). Desde la perspectiva de diseño de interacción, cumple una doble función: alerta cinestésica perceptible al tacto o por movimiento del conjunto, y patrón de “calma” o distracción motora suave, acorde con objetivos de bienestar en un prototipo Psymed.
+
+#### 2.2.4 Pantalla OLED (SSD1306, I2C)
+
+**Conexión.** **SDA** en GPIO21, **SCL** en GPIO22, alimentación 3,3 V y GND.
+
+**Justificación.** No es un actuador en el sentido estricto de conversión energética hacia el entorno, pero constituye el **principal canal informativo local** continuo: hora, variables sensadas, estado de alarma. Su inclusión reduce la carga cognitiva al centralizar la lectura frente a interpretar únicamente códigos de parpadeo o sonidos.
+
+---
+
+## 3. Diseño de circuito e interconexión
+
+### 3.1 Herramienta de esquema
+
+El esquema de cableado de referencia se mantiene en **`diagram.json`** (formato nativo de Wokwi). Para entregables académicos que exijan figura en informe PDF, se recomienda **exportar captura** del lienzo de Wokwi una vez verificadas las conexiones, de modo que el diagrama impreso coincida exactamente con el utilizado en simulación.
+
+### 3.2 Tabla resumen de conexiones
+
+| Señal lógica (firmware) | Pin ESP32 | Destino |
+|-------------------------|-----------|---------|
+| Lectura pulso (ADC) | 34 | `heart1:SIG` |
+| Lectura temperatura (ADC) | 32 | `ntc1:OUT` |
+| PWM servo | 13 | `servo1:PWM` |
+| LED alarma | 5 | `led1:A` (cátodo a GND) |
+| Buzzer | 14 | `bz1:1` (`bz1:2` a GND) |
+| I2C datos OLED | 21 | `oled1:SDA` |
+| I2C reloj OLED | 22 | `oled1:SCL` |
+| Alimentación NTC / OLED | 3V3 | `ntc1:VCC`, `oled1:VCC` |
+| Alimentación servo | VIN | `servo1:VCC` |
+| Referencia común | GND | Todos los GND de periféricos |
+
+### 3.3 Consideraciones eléctricas
+
+- **Dominios de alimentación:** periféricos de baja corriente (NTC, OLED, lógica de señal) desde 3,3 V; servo desde VIN cuando la placa recibe alimentación USB adecuada, coherente con el modelo DevKit.
+- **Entrada analógica en GPIO34:** pin de **solo entrada**, apropiado para lectura del chip de pulso sin conflicto con salidas digitales.
+- **Compatibilidad ADC y Wi-Fi:** GPIO32 pertenece a **ADC1**, evitando interferencias conocidas de ADC2 con el subsistema de radio Wi-Fi en el ESP32.
+
+---
+
+## 4. Diagramas de flujo de interacción y de datos
+
+Los siguientes diagramas complementan el esquema eléctrico: describen el **comportamiento temporal** del firmware y los **flujos de información** entre usuario, dispositivo y red. Pueden renderizarse en cualquier visor compatible con **Mermaid** (por ejemplo, GitHub, GitLab, extensiones de editor).
+
+### 4.1 Ciclo principal de adquisición, alarma y presentación
+
+```mermaid
+flowchart TD
+  A[Inicio de ciclo] --> B[Lectura ADC pulso y temperatura]
+  B --> C{Crisis: BPM mayor umbral o Temp mayor umbral}
+  C -->|Sí| D[Activar LED parpadeante, tono, servo oscilante]
+  C -->|No| E[Apagar LED y tono, servo en posición neutra]
+  D --> F[Actualizar OLED: tiempo, variables, estado ALARMA]
+  E --> F
+  F --> G{Evaluar envío HTTP}
+  G --> H[Espera 100 ms]
+  H --> A
+```
+
+### 4.2 Lógica de envío al endpoint (telemetría condicionada)
+
+```mermaid
+flowchart LR
+  subgraph Condiciones
+    C1[Estado crisis verdadero]
+    C2[Intervalo mínimo transcurrido o primera crisis]
+    C3[Wi-Fi conectado]
+  end
+  C1 --> D{Todas las condiciones}
+  C2 --> D
+  C3 --> D
+  D -->|Sí| P[POST JSON al endpoint]
+  D -->|No| N[No transmitir]
+  P --> R[Actualizar temporizador de último envío]
+```
+
+### 4.3 Flujo de interacción usuario–dispositivo–sistema remoto
+
+```mermaid
+sequenceDiagram
+  participant U as Usuario
+  participant D as Dispositivo ESP32
+  participant S as Sensores
+  participant A as Actuadores y OLED
+  participant N as Red Wi-Fi
+  participant H as Endpoint HTTP
+
+  D->>S: Muestreo periódico
+  S-->>D: Valores ADC
+  D->>D: Evaluación de umbrales
+  alt Crisis
+    D->>A: Alerta multimodal y mensaje en pantalla
+    D->>N: Solicitud condicionada por intervalo
+    N->>H: POST JSON si procede
+    H-->>D: Código de respuesta HTTP
+  else Normal
+    D->>A: Presentación de variables sin alerta
+  end
+  U->>A: Observación visual y auditiva del estado
+```
+
+---
+
+## 5. Umbrales y parámetros configurables (referencia)
+
+Los siguientes valores están definidos en el firmware de referencia y constituyen el contrato de comportamiento del prototipo hasta nueva calibración:
+
+- **Crisis:** frecuencia cardíaca estimada superior a 115 min⁻¹ **o** temperatura estimada superior a 38,0 °C.
+- **Intervalo mínimo entre envíos HTTP en crisis:** 3 600 000 ms (una hora), además del envío en la primera detección de crisis con temporizador no inicializado.
+- **Zona horaria NTP:** UTC−5 (configuración de referencia para Perú, Colombia o Ecuador, según comentario en código).
+
+---
+
+## 6. Limitaciones del prototipo y trabajo futuro
+
+- La magnitud de frecuencia cardíaca es un **proxy** derivado de ADC, no un PPG clínicamente calibrado.
+- La transmisión HTTPS puede requerir configuración adicional de certificados en despliegue físico respecto al simulador.
+- El campo `dependencies` del `diagram.json` para el chip `heart` debe verificarse en Wokwi para garantizar la carga del chip custom en todos los entornos.
+- Sustitución del chip simulado por hardware biomédico certificado y validación con usuarios finales, según la guía de estilos y normativa aplicable.
+
+---
+
+## 7. Referencias de archivos del repositorio
+
+| Archivo | Rol |
+|---------|-----|
+| `diagram.json` | Esquema de circuito y lista de partes Wokwi |
+| `sketch.ino` | Firmware principal |
+| `heart.chip.json`, `heart.chip.c` | Definición y comportamiento del chip de pulso simulado |
+| `libraries.txt` | Listado de librerías de Arduino requeridas en Wokwi |
+
+---
+
+*Documento generado para el diseño del dispositivo IoT Psymed. Mantener sincronizado con cambios en `diagram.json` y `sketch.ino`.*
