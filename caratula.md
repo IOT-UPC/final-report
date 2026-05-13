@@ -64,7 +64,14 @@
 
 # Project Report Collaboration Insights
 
+- Avn1:
+
 <img width="731" height="563" alt="insights" src="https://github.com/user-attachments/assets/9fb8051b-f397-4552-9a58-8b66c7d3fb6a" />
+
+- TB1:
+
+<img width="805" height="600" alt="image" src="https://github.com/user-attachments/assets/4cc3bc4f-7d7f-4569-9a96-195d5b384959" />
+
 
 <div style="page-break-after: always;"></div>
 
