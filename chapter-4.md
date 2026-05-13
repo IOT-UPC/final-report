@@ -306,6 +306,11 @@ El diagrama de despliegue muestra la infraestructura física y virtual donde se 
 
 ### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
 
+#### Diagrama completo basado en Clean architecture 
+
+
+<div style="page-break-after: always;"></div>
+
 #### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 
 ![WhatsApp Image 2025-11-14 at 3 14 38 AM](https://github.com/user-attachments/assets/6a2981c3-903c-45bf-b8db-2d325e57c34a)
