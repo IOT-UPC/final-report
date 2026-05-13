@@ -149,6 +149,7 @@ Para el despliegue de la aplicación web de PsyMed se empleará Vercel, siguiend
 5. Una vez completado el despliegue, acceder al enlace generado para visualizar la aplicación web de PsyMed en producción.
 
 Una vez desplegada, la aplicación web de PsyMed estará accesible públicamente mediante el enlace: https://psymed-frontend.vercel.app/
+<img width="1296" height="633" alt="image" src="https://github.com/user-attachments/assets/5ec94ea8-e958-4d7f-9c31-819ccf53189a" />
 
 
 <div style="page-break-after: always;"></div>
