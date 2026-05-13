@@ -350,7 +350,16 @@ Durante este Sprint se realizaron validaciones sobre componentes visuales y form
 
 #### 6.2.1.6. Execution Evidence for Sprint Review.
 
-screenshots de principales vistas implementadas.
+En esta sección se muestra la evidencia de la ejecución del sprint, incluyendo las capturas del proyecto en funcionamiento.
+
+<img width="1918" height="918" alt="welcome_1" src="https://github.com/user-attachments/assets/819e2769-c171-4fa6-a811-3f633cfc889a" />
+<img width="1918" height="921" alt="lista_perfiles_2" src="https://github.com/user-attachments/assets/0cf3fc01-5026-4669-b20e-d1d65641aa0a" />
+<img width="1918" height="913" alt="appointment_calendar_4" src="https://github.com/user-attachments/assets/88106955-300e-4e99-be92-2e07acd32077" />
+<img width="1913" height="912" alt="mood_5" src="https://github.com/user-attachments/assets/036e193d-165f-4f4c-9bba-52f14ef094e5" />
+
+
+
+
 
 #### 6.2.1.7. Services Documentation Evidence for Sprint Review.
 
@@ -405,7 +414,8 @@ Fotos de despliegue
 
 #### 6.2.1.9. Team Collaboration Insights during Sprint.
 
-Fotos de Github Collaboration
+<img width="1150" height="875" alt="front_collaboration" src="https://github.com/user-attachments/assets/52f898f7-384d-49be-a21a-71076e4b6c38" />
+
 
 ## 6.3. Validation Interviews.
 
