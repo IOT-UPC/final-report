@@ -723,6 +723,9 @@ El prototipo completo puede visualizarse en el siguiente enlace:
 
 El dispositivo tiene como función principal la **adquisición periódica de señales proxy** asociadas a frecuencia cardíaca y temperatura, la **presentación local** de dichos valores y del estado clínico simplificado (normal versus alarma), la **activación coordinada de actuadores** cuando se detecta una crisis según umbrales definidos en firmware, y el **registro selectivo** de eventos hacia un endpoint HTTP en formato JSON, condicionado a la presencia de alarma y a un intervalo mínimo entre transmisiones con el fin de limitar carga de red y redundancia de datos.
 
+<img width="658" height="778" alt="iot" src="https://github.com/user-attachments/assets/a589bd77-2d53-4cf9-be37-700d878ab298" />
+
+
 ### 1.2 Criterios de diseño
 
 Los criterios que orientan las decisiones técnicas son los siguientes:
@@ -758,6 +761,7 @@ En ausencia de un documento de guía adjunto en este repositorio, el prototipo s
 Cuando el proyecto disponga de una **guía de estilos para IoT Device Physical Interfaces** aprobada por el curso o la organización, los colores, textos en pantalla y patrones de parpadeo o tono deberán contrastarse con dicha guía y documentarse las desviaciones justificadas.
 
 ---
+
 
 ## 2. Inventario de sensores y actuadores, con justificación
 
@@ -867,6 +871,11 @@ flowchart LR
   D -->|No| N[No transmitir]
   P --> R[Actualizar temporizador de último envío]
 ```
+
+Información del endpoint:
+
+<img width="350" height="705" alt="WhatsApp Image 2026-05-13 at 1 53 29 PM (1)" src="https://github.com/user-attachments/assets/e566b6d1-fd34-4cba-b75e-c9d5ddd5d115" />
+
 
 ### 4.3 Flujo de interacción usuario–dispositivo–sistema remoto
 
