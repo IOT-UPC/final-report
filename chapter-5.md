@@ -20,7 +20,7 @@ Assets, fonts y demás.
   cada etapa de su interacción con la plataforma.
 
 <div align="center">
-  <img src="/assets/PSYMED.png" alt="Logo de la platafroma PSYMED" style="max-width: 50%; height: auto;">
+  <img src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/PSYMED.png" alt="Logo de la platafroma PSYMED" style="max-width: 50%; height: auto;">
 </div>
 
 - **Colors:**
@@ -361,12 +361,24 @@ Al ingresar, los pacientes ven un panel con opciones como "Inicio", "Perfil", "C
 
 Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave tanto para psiquiatras como para pacientes.
 
+<div style="page-break-after: always;"></div>
 
 ## 5.3. Landing Page UI Design.
-
 ### 5.3.1. Landing Page Wireframe.
 
+<div align="center">
+  <img alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/Fidelidad2.jpg" width="200" height="800"/>
+</div>
+
+<div style="page-break-after: always;"></div>
+
 ### 5.3.2. Landing Page Mock-up.
+
+<div align="center">
+  <img alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/MockupsLanding.jpg"  width="200" height="800"/>
+</div>
+
+<div style="page-break-after: always;"></div>
 
 ## 5.4. Applications UX/UI Design.
 ### 5.4.1. Applications Wireframes.
@@ -379,6 +391,115 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 
 #### Web Wireframes.
 
+En esta sección se presentan los Wireframes de la Aplicación Web, con cada pantalla teniendo un nombre y un propósito definido.
+
+Home: Pantalla principal de la aplicación, que proporciona acceso a las diferentes funciones y secciones, como el registro, inicio de sesión y navegación general de la aplicación.
+
+<img alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/WireFrames(9).png" />
+
+<div style="page-break-after: always;"></div>
+
+Register: Sección donde los nuevos usuarios pueden crear una cuenta proporcionando su información personal y credenciales para acceder a la aplicación.
+
+<img alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/WireFrames(15).png" />
+
+<div style="page-break-after: always;"></div>
+
+Login: Pantalla donde los usuarios existentes pueden ingresar sus credenciales para acceder a su cuenta y las funciones principales de la plataforma.
+
+<img alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/WireFrames(11).png" />
+
+<div style="page-break-after: always;"></div>
+
+Cambio de Contraseña: Permite a los usuarios restablecer su contraseña en caso de haberla olvidado o de desear cambiarla por motivos de seguridad.
+
+<img alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/WireFrames(4).png" />
+
+<div style="page-break-after: always;"></div>
+
+Profesionales Home: Pantalla de inicio para los profesionales de la salud, que proporciona acceso a todas las herramientas y funciones disponibles para el manejo de pacientes.
+
+<img alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/WireFrames(14).png" />
+
+<div style="page-break-after: always;"></div>
+
+Perfil Profesional: Sección donde los profesionales pueden ver su información personal y profesional.
+
+<img alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/WireFrames(12).png" />
+
+<div style="page-break-after: always;"></div>
+
+Agregar Paciente: Función que permite a los profesionales registrar nuevos pacientes, ingresando datos personales y clínicos para su seguimiento.
+
+<img alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/WireFrames(3).png" />
+
+<div style="page-break-after: always;"></div>
+
+Lista de Pacientes: Pantalla que muestra a los profesionales una lista de todos los pacientes registrados bajo su cuidado, con opciones para ver detalles o realizar acciones.
+
+<img alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/WireFrames(10).png" />
+
+<div style="page-break-after: always;"></div>
+
+Configuración del Paciente: Sección donde los profesionales pueden editar la información y preferencias de cada paciente, incluyendo ajustes clínicos y personales.
+
+<img alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/WireFrames(13).png" />
+
+<div style="page-break-after: always;"></div>
+
+Creación de Cita: Permite a los profesionales agendar nuevas citas para los pacientes, definiendo la fecha, hora y detalles específicos de la consulta.
+
+<img alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/WireFrames(5).png" />
+
+<div style="page-break-after: always;"></div>
+
+Edición de Cita: Función que permite modificar los detalles de una cita previamente agendada, como cambiar la fecha, hora o propósito.
+
+<img alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/WireFrames(6).png" />
+
+<div style="page-break-after: always;"></div>
+
+Registro de Documentación Médica: Sección donde los profesionales pueden cargar y registrar documentos médicos relevantes para cada paciente, como resultados de exámenes o diagnósticos.
+
+<img alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/WireFrames(16).png" />
+
+<div style="page-break-after: always;"></div>
+
+Agenda Profesional: Calendario donde los profesionales pueden ver todas sus citas programadas y tareas pendientes, organizadas de manera diaria o semanal.
+
+<img alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/WireFrames(2).png" />
+
+<div style="page-break-after: always;"></div>
+
+Datos del Paciente: Pantalla que permite a los profesionales acceder a toda la información relevante de un paciente, incluyendo historial médico y documentación.
+
+<img alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/WireFrames(7).png" />
+
+<div style="page-break-after: always;"></div>
+
+Lista de Estados de Ánimo: Sección donde se puede registrar y monitorear los estados de ánimo de los pacientes para dar seguimiento a su evolución emocional.
+
+<img alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/WireFrames(8).png" />
+
+<div style="page-break-after: always;"></div>
+
+Test Interdiario: Función que permite a los pacientes completar un test diario sobre su estado emocional y físico para un monitoreo continuo.
+
+<img alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/WireFrames(1).png" />
+
+<div style="page-break-after: always;"></div>
+
+Registro Diario del Paciente: Permite a los pacientes realizar un seguimiento diario de su estado de salud, registrando síntomas, emociones o cambios relevantes.
+
+<img alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/WireFrames(18).png" />
+
+<div style="page-break-after: always;"></div>
+
+Agenda del Paciente: Calendario donde los pacientes pueden ver sus citas programadas con los profesionales, con la posibilidad de recibir recordatorios y actualizar citas.
+
+<img alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/WireFrames(19).png" />
+
+<div style="page-break-after: always;"></div>
 
 ### 5.4.2. Applications Wireflow Diagrams.
 
@@ -390,6 +511,9 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 
 #### Web Wireflow Diagrams.
 
+<img width="800" height="600" alt="image" src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/raw/master/assets/Wire%20flow.png" />
+
+<div style="page-break-after: always;"></div>
 
 ### 5.4.2. Applications Mock-ups.
 
@@ -412,63 +536,63 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 
 #### Web User Flow Diagrams.
 
-<img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/247e37f4-58ad-487d-8d8b-15fa5c99aadb" />
+<img  alt="image" src="https://github.com/user-attachments/assets/247e37f4-58ad-487d-8d8b-15fa5c99aadb" />
 
 En este flow se puede ver el proceso por el que el médico agenda citas.
 
-<img width="800" height="330" alt="image" src="https://github.com/user-attachments/assets/375be863-e43a-4a07-bf91-7d82dff3f3e9" />
+<img alt="image" src="https://github.com/user-attachments/assets/375be863-e43a-4a07-bf91-7d82dff3f3e9" />
 
 En este flow se puede ver el proceso por el que se ve las citas de un paciente.
 
-<img width="800" height="330" alt="image" src="https://github.com/user-attachments/assets/1970f751-ad66-4eb0-9657-4df8535b955a" />
+<img alt="image" src="https://github.com/user-attachments/assets/1970f751-ad66-4eb0-9657-4df8535b955a" />
 
 En este flow se puede ver el proceso por el que se ve el registro de citas de un paciente.
 
-<img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/5d820bbf-715c-44f5-842b-4e26341cce03" />
+<img  alt="image" src="https://github.com/user-attachments/assets/5d820bbf-715c-44f5-842b-4e26341cce03" />
 
 En este flow se puede ver como el profesional añade diagnosticos a los pacientes.
 
-<img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/83c267f8-da70-46a7-a01a-5c9fdf162862" />
+<img alt="image" src="https://github.com/user-attachments/assets/83c267f8-da70-46a7-a01a-5c9fdf162862" />
 
 En este flow se puede ver como el profesional edita los diganosticos de los pacientes.
 
-<img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/f22421cd-2efa-42b3-ab76-f6bc1ff2cf42" />
+<img alt="image" src="https://github.com/user-attachments/assets/f22421cd-2efa-42b3-ab76-f6bc1ff2cf42" />
 
 En este flow se puede ver como el profesional edita el historial clinico de los pacientes.
 
-<img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/5e464f8f-972b-4d18-8159-47b07db6f554" />
+<img  alt="image" src="https://github.com/user-attachments/assets/5e464f8f-972b-4d18-8159-47b07db6f554" />
 
 En este flow se puede ver como el profesional añade un historial clinico al paciente.
 
-<img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/36d9fb44-c986-4bf2-9947-1b7c90318b07" />
+<img alt="image" src="https://github.com/user-attachments/assets/36d9fb44-c986-4bf2-9947-1b7c90318b07" />
 
 En este flow se puede ver como el profesional edita los datos de los pacientes
 
-<img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/78c64038-1da0-489d-8094-9ab927bd2481" />
+<img  alt="image" src="https://github.com/user-attachments/assets/78c64038-1da0-489d-8094-9ab927bd2481" />
 
 En este flow se puede ver como el profesional observa las funciones biologicas
 
-<img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/3109dfc8-9a5a-4434-893b-e934f31cca71" />
+<img src="https://github.com/user-attachments/assets/3109dfc8-9a5a-4434-893b-e934f31cca71" />
 
 En este flow se puede ver como el profesional añade una lista de medicamentos.
 
-<img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/ef7bd505-0b7f-465b-bef0-b7354baaca9c" />
+<img  alt="image" src="https://github.com/user-attachments/assets/ef7bd505-0b7f-465b-bef0-b7354baaca9c" />
 
 En este flow se puede observar como administra los medicamentos de los pacientes.
 
-<img width="800" height="330" alt="image" src="https://github.com/user-attachments/assets/21e51621-7e04-4ee0-9374-c8f5061504a4" />
+<img  alt="image" src="https://github.com/user-attachments/assets/21e51621-7e04-4ee0-9374-c8f5061504a4" />
 
 En este flow se puede observar como el profesional agrega un nuevo paciente.
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/3442137b-e316-4fdf-9fd1-2b32ee3497f7" />
+<img  alt="image" src="https://github.com/user-attachments/assets/3442137b-e316-4fdf-9fd1-2b32ee3497f7" />
 
 En este flow se puede observar como el profesional observa la pantalla de perfil.
 
-<img width="800" height="420" alt="image" src="https://github.com/user-attachments/assets/537e9611-cb33-40ac-8156-64e252131860" />
+<img alt="image" src="https://github.com/user-attachments/assets/537e9611-cb33-40ac-8156-64e252131860" />
 
 En este flow se puede observar como el profesional se loguea e ingresa a la pagina principal.
 
-<img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/bf65b57c-e2ef-4852-bb9a-3de515237134" />
+<img alt="image" src="https://github.com/user-attachments/assets/bf65b57c-e2ef-4852-bb9a-3de515237134" />
 
 En este flow se puede observar como el profesional se registra en la plataforma.
 
@@ -486,6 +610,8 @@ El prototipo puede visualizarse en el siguiente enlace: [https://marvelapp.com/p
 
 Para validar la usabilidad, la experiencia de usuario y los flujos de interacción definidos en la aplicación, se desarrolló un prototipo navegable que permite visualizar las principales pantallas y funcionalidades. Este prototipo facilita la retroalimentación temprana y asegura la alineación del diseño con los requerimientos del sistema.
 
-El prototipo completo puede visualizarse en el siguiente enlace:[https://marvelapp.com/prototype/8j2efjg](https://marvelapp.com/prototype/8j2efjg)
+El prototipo completo puede visualizarse en el siguiente enlace:
+
+[https://marvelapp.com/prototype/8j2efjg](https://marvelapp.com/prototype/8j2efjg)
 
 ## 5.6. IoT Device Design.
