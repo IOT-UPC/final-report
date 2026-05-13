@@ -15,7 +15,6 @@ Ruta de referencia: https://trello.com/es
 Tableros de la organización: https://trello.com/invite/b/68e438bc12fe9651d240dfe1/ATTIc34f9aa0fa66bc1feb777cef9467dfeeE331B2D7/diseno
 
 
-
 **Product UX/UI Design**
 
 1. Figma: Herramienta colaborativa para el diseño de interfaces y prototipado. Se empleará en la construcción de los prototipos de la aplicación, tanto en su versión Desktop como en Mobile Web Browser. Facilita el diseño en equipo y permite iterar rápidamente en el aspecto visual antes del desarrollo.
@@ -224,12 +223,10 @@ En esta sección se presentan las evidencias del desarrollo realizado durante el
 La validación del avance se respalda mediante los commits registrados en los repositorios oficiales, los cuales documentan el progreso técnico, la integración de componentes visuales, configuración de entornos y publicación de las aplicaciones en producción.
 
 **Repositorio del landing:**
-[https://github.com/Diseno-de-experimentos-Grupo-2/Landing-Page](https://github.com/Diseno-de-experimentos-Grupo-2/Landing-Page)
-
-## FALTA LANDING PAGE E
+https://github.com/IOT-UPC/landing_page
 
 **Repositorio del frontend:**
-[https://github.com/IOT-UPC/web-project](https://github.com/IOT-UPC/web-project)
+https://github.com/IOT-UPC/front
 
 **Repositorio del frontend móvil:**
 [https://github.com/IOT-UPC/mobile-project](https://github.com/IOT-UPC/mobile-project)
@@ -244,9 +241,6 @@ Los siguientes commits documentan los cambios más resaltantes realizados durant
 | Landing-Page    | develop | XXXXXXXX  | style(ui): improve typography and responsive design | Ajustes visuales relacionados con tipografía, diseño responsive y mejora de experiencia de usuario.                                       | 11/05/2026 6         |
 | front | feature/api-config | 63f08ee39860b644520ec9bfaa79f49ca776d77c  | chore(deploy): configure vercel deployment          | Configuración del despliegue automático del frontend mediante integración con GitHub y Vercel.                                            | 11/05/2026          |
 | Landing-Page    | develop | XXXXXXXX  | chore(deploy): deploy landing page to vercel        | Publicación de la landing page en entorno de producción utilizando Vercel.                                                                | 11/05/2026         |
-
-
-## FALTA ACTUALIZAR SIN COMMITS NI NADA
 
 <div style="page-break-after: always;"></div>
 
@@ -331,13 +325,11 @@ Durante este Sprint se realizaron validaciones sobre componentes visuales y form
 
 ### Testing Repositories
 
-**Frontend Repository:**
-[https://github.com/IOT-UPC/web-project](https://github.com/IOT-UPC/web-project)
+**Frontend Repository:** <br>
+https://github.com/IOT-UPC/front
 
-**Landing Repository:**
-[https://github.com/Diseno-de-experimentos-Grupo-2/Landing-Page](https://github.com/Diseno-de-experimentos-Grupo-2/Landing-Page)
-
-## FALTA LANDING PAGE REPOSITORY
+**Landing Repository:** <br>
+https://github.com/IOT-UPC/landing_page
 
 ### Testing Commits Evidence
 
@@ -356,10 +348,6 @@ En esta sección se muestra la evidencia de la ejecución del sprint, incluyendo
 <img width="1918" height="921" alt="lista_perfiles_2" src="https://github.com/user-attachments/assets/0cf3fc01-5026-4669-b20e-d1d65641aa0a" />
 <img width="1918" height="913" alt="appointment_calendar_4" src="https://github.com/user-attachments/assets/88106955-300e-4e99-be92-2e07acd32077" />
 <img width="1913" height="912" alt="mood_5" src="https://github.com/user-attachments/assets/036e193d-165f-4f4c-9bba-52f14ef094e5" />
-
-
-
-
 
 #### 6.2.1.7. Services Documentation Evidence for Sprint Review.
 
@@ -410,7 +398,15 @@ Se configuró Swagger UI como herramienta central para la visualización, prueba
 
 Se desplegó la landing page y el frontend usando Vercel. A continuación, se presentan las evidencias del despliegue exitoso de la landing page y frontend de Psymed.
 
-Fotos de despliegue
+- Landing page: <br>
+
+<img width="600" height="227" alt="image" src="https://github.com/user-attachments/assets/993cde10-62aa-48b0-b4c9-02fdb429918b" />
+
+
+- Frontend: <br>
+
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/a2fe0221-b25c-4abb-8ead-4932724365d9" />
+
 
 #### 6.2.1.9. Team Collaboration Insights during Sprint.
 
@@ -637,8 +633,11 @@ Link del video en Microsoft Stream: https://acortar.link/bWwB1q
 
 
 # Conclusiones
+- La salud mental en Perú enfrenta una crisis estructural caracterizada por la alta demanda de atención y la limitada capacidad del sistema para responder de manera oportuna, lo que deja a una gran parte de la población sin tratamiento adecuado. Esta situación se ve agravada por la escasez de profesionales y la sobrecarga administrativa, evidenciando la necesidad urgente de soluciones que optimicen la gestión y mejoren el acceso a los servicios de salud mental.
 
-# Conclusiones y recomendaciones.
+- Desde una perspectiva técnica, el desarrollo de una plataforma como PsyMed demuestra que la integración de tecnologías web con dispositivos IoT puede abordar de manera efectiva los problemas de gestión y monitoreo en salud mental. La centralización de datos clínicos, automatización de tareas administrativas y el monitoreo continuo de signos vitales permiten mejorar la eficiencia operativa, reducir errores y facilitar intervenciones tempranas mediante retroalimentación en tiempo real.
+
+- A nivel económico, la implementación de PsyMed presenta una oportunidad sostenible mediante un modelo de suscripción que combina servicios digitales con dispositivos físicos diferenciadores. Además de generar ingresos recurrentes, la solución contribuye a reducir costos operativos en instituciones de salud al optimizar procesos y disminuir la carga administrativa, lo que puede traducirse en una mayor eficiencia en el uso de recursos dentro del sistema de salud.
 
 # Video About-the-Team.
 
@@ -712,3 +711,5 @@ https://www.who.int/es/news/item/02-03-2022-covid-19-pandemic-triggers-25-increa
 </div>
 
 # Anexos
+### Anexo A: NeedFinding Interviews:
+- Link de entrevistas: https://acortar.link/KSvAbw
