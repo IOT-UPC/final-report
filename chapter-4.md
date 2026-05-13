@@ -308,7 +308,7 @@ El diagrama de despliegue muestra la infraestructura física y virtual donde se 
 
 #### Diagrama completo basado en Clean architecture 
 
-
+<img alt="Subscription Payment Order-2026-05-13-161727" src="https://github.com/user-attachments/assets/45044861-753c-47d3-bf89-5ca14ac2f506" />
 <div style="page-break-after: always;"></div>
 
 #### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
