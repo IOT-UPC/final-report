@@ -715,6 +715,8 @@ El prototipo completo puede visualizarse en el siguiente enlace:
 
 [https://marvelapp.com/prototype/8j2efjg](https://marvelapp.com/prototype/8j2efjg)
 
+<div style="page-break-after: always;"></div>
+
 ## 5.6. IoT Device Design.
 
 ## 1. Introducción y criterios de decisión de diseño
@@ -723,8 +725,9 @@ El prototipo completo puede visualizarse en el siguiente enlace:
 
 El dispositivo tiene como función principal la **adquisición periódica de señales proxy** asociadas a frecuencia cardíaca y temperatura, la **presentación local** de dichos valores y del estado clínico simplificado (normal versus alarma), la **activación coordinada de actuadores** cuando se detecta una crisis según umbrales definidos en firmware, y el **registro selectivo** de eventos hacia un endpoint HTTP en formato JSON, condicionado a la presencia de alarma y a un intervalo mínimo entre transmisiones con el fin de limitar carga de red y redundancia de datos.
 
-<img width="658" height="778" alt="iot" src="https://github.com/user-attachments/assets/a589bd77-2d53-4cf9-be37-700d878ab298" />
+<img alt="iot" src="https://github.com/user-attachments/assets/a589bd77-2d53-4cf9-be37-700d878ab298" />
 
+<div style="page-break-after: always;"></div>
 
 ### 1.2 Criterios de diseño
 
@@ -760,8 +763,9 @@ En ausencia de un documento de guía adjunto en este repositorio, el prototipo s
 
 Cuando el proyecto disponga de una **guía de estilos para IoT Device Physical Interfaces** aprobada por el curso o la organización, los colores, textos en pantalla y patrones de parpadeo o tono deberán contrastarse con dicha guía y documentarse las desviaciones justificadas.
 
----
 
+
+<div style="page-break-after: always;"></div>
 
 ## 2. Inventario de sensores y actuadores, con justificación
 
@@ -805,7 +809,7 @@ Cuando el proyecto disponga de una **guía de estilos para IoT Device Physical I
 
 **Justificación.** No es un actuador en el sentido estricto de conversión energética hacia el entorno, pero constituye el **principal canal informativo local** continuo: hora, variables sensadas, estado de alarma. Su inclusión reduce la carga cognitiva al centralizar la lectura frente a interpretar únicamente códigos de parpadeo o sonidos.
 
----
+<div style="page-break-after: always;"></div>
 
 ## 3. Diseño de circuito e interconexión
 
@@ -834,11 +838,12 @@ El esquema de cableado de referencia se mantiene en **`diagram.json`** (formato 
 - **Entrada analógica en GPIO34:** pin de **solo entrada**, apropiado para lectura del chip de pulso sin conflicto con salidas digitales.
 - **Compatibilidad ADC y Wi-Fi:** GPIO32 pertenece a **ADC1**, evitando interferencias conocidas de ADC2 con el subsistema de radio Wi-Fi en el ESP32.
 
----
+<div style="page-break-after: always;"></div>
 
 ## 4. Diagramas de flujo de interacción y de datos
 
 Los siguientes diagramas complementan el esquema eléctrico: describen el **comportamiento temporal** del firmware y los **flujos de información** entre usuario, dispositivo y red. Pueden renderizarse en cualquier visor compatible con **Mermaid** (por ejemplo, GitHub, GitLab, extensiones de editor).
+
 
 ### 4.1 Ciclo principal de adquisición, alarma y presentación
 
@@ -854,6 +859,7 @@ flowchart TD
   G --> H[Espera 100 ms]
   H --> A
 ```
+<div style="page-break-after: always;"></div>
 
 ### 4.2 Lógica de envío al endpoint (telemetría condicionada)
 
@@ -871,11 +877,13 @@ flowchart LR
   D -->|No| N[No transmitir]
   P --> R[Actualizar temporizador de último envío]
 ```
+<div style="page-break-after: always;"></div>
 
 Información del endpoint:
 
 <img width="350" height="705" alt="WhatsApp Image 2026-05-13 at 1 53 29 PM (1)" src="https://github.com/user-attachments/assets/e566b6d1-fd34-4cba-b75e-c9d5ddd5d115" />
 
+<div style="page-break-after: always;"></div>
 
 ### 4.3 Flujo de interacción usuario–dispositivo–sistema remoto
 
@@ -902,7 +910,7 @@ sequenceDiagram
   U->>A: Observación visual y auditiva del estado
 ```
 
----
+<div style="page-break-after: always;"></div>
 
 ## 5. Umbrales y parámetros configurables (referencia)
 
