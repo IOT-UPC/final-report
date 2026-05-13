@@ -8,14 +8,13 @@ El diseño estratégico de dominio permite identificar y delimitar los contextos
 
 EventStorming es una técnica colaborativa utilizada para descubrir el dominio del problema mediante la identificación de eventos de dominio, comandos, agregados y actores. Esta técnica permite visualizar el flujo de eventos en el sistema y establecer los límites naturales entre contextos acotados.
 
-<div style="page-break-after: always;"></div>
-
-
 #### 4.1.1.1 Candidate Context Discovery.
 
 Mediante el análisis de eventos y agregados identificados en el EventStorming, se propusieron seis contextos acotados candidatos que agrupan conceptos del dominio relacionados: IAM (Identity and Access Management), Profiles, Clinical History, Appointment and Administration, Medication, y Patient Report. La agrupación se realizó considerando la cohesión funcional y las responsabilidades de cada contexto.
 
-![WhatsApp Image 2025-11-14 at 5 52 24 AM](https://github.com/user-attachments/assets/4679543a-934e-4805-a19e-854516ce7721)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4679543a-934e-4805-a19e-854516ce7721" width="350">
+</p>
 
 <div style="page-break-after: always;"></div>
 
@@ -61,21 +60,28 @@ La arquitectura de software del sistema se documenta utilizando la metodología 
 
 #### 4.1.3.1. Software Architecture System Landscape Diagram.
 
-<img src="chapter-4/landscape-c4.jpeg" alt="Software Architecture System Landscape Diagram" />
+<img src="chapter-4/lansdscape.jpeg" alt="Software Architecture Context Level Diagram" />
+
+<img src="chapter-4/lley.jpeg" alt="Software Architecture Context Level Diagram Key" />
+
 <div style="page-break-after: always;"></div>
 
 #### 4.1.3.2. Software Architecture Context Level Diagrams.
 
-<img src="chapter-4/System_Context_Diagram%20(1).png" alt="Software Architecture Context Level Diagram" />
+<img src="chapter-4/SystemContext-dark.png" alt="Software Architecture Context Level Diagram" />
 
-<img src="chapter-4/System_Context_Diagram-key-leyenda.png" alt="Software Architecture Context Level Diagram Key" />
+<img src="chapter-4/lley3.jpeg" alt="Software Architecture Context Level Diagram Key" />
 
 <div style="page-break-after: always;"></div>
 
 #### 4.1.3.2. Software Architecture Container Level Diagrams.
 
-<img src="chapter-4/NuevoDiagramaContenedores.png" alt="Software Architecture Container Level Diagram" />
+<img src="chapter-4/container.jpeg" alt="Software Architecture Container Level Diagram" />
+
+<img src="chapter-4/lley2.jpeg" alt="Software Architecture Context Level Diagram Key" />
+
 <div style="page-break-after: always;"></div>
+
 
 #### 4.1.3.3. Software Architecture Deployment Diagrams.
 
@@ -303,6 +309,7 @@ El diagrama de despliegue muestra la infraestructura física y virtual donde se 
 #### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 
 ![WhatsApp Image 2025-11-14 at 3 14 38 AM](https://github.com/user-attachments/assets/6a2981c3-903c-45bf-b8db-2d325e57c34a)
+
 <div style="page-break-after: always;"></div>
 
 #### 4.2.1.6.2. Bounded Context Database Design Diagram
@@ -1235,7 +1242,7 @@ El diagrama de despliegue muestra la infraestructura física y virtual donde se 
 
 #### 4.2.3.6.2. Bounded Context Database Design Diagram
 
-<img width="938" height="1157" alt="SecionsManagmentBc" src="https://github.com/user-attachments/assets/1a28a47d-d4ce-4aab-8e5c-dbe6e0de2d3c" />
+<img width="500" alt="SecionsManagmentBc" src="https://github.com/user-attachments/assets/1a28a47d-d4ce-4aab-8e5c-dbe6e0de2d3c"/>
 
 ---
 <div style="page-break-after: always;"></div>
@@ -1720,28 +1727,3 @@ El diagrama de despliegue muestra la infraestructura física y virtual donde se 
 
 <img width="1643" height="891" alt="PatientsManagmentBC" src="https://github.com/user-attachments/assets/3a723912-6e61-48db-ac0c-5e52d5dae1d3" />
 
-## Conclusiones y Recomendaciones
-
-- La salud mental en Perú enfrenta una crisis estructural caracterizada por la alta demanda de atención y la limitada capacidad del sistema para responder de manera oportuna, lo que deja a una gran parte de la población sin tratamiento adecuado. Esta situación se ve agravada por la escasez de profesionales y la sobrecarga administrativa, evidenciando la necesidad urgente de soluciones que optimicen la gestión y mejoren el acceso a los servicios de salud mental.
-
-- Desde una perspectiva técnica, el desarrollo de una plataforma como PsyMed demuestra que la integración de tecnologías web con dispositivos IoT puede abordar de manera efectiva los problemas de gestión y monitoreo en salud mental. La centralización de datos clínicos, automatización de tareas administrativas y el monitoreo continuo de signos vitales permiten mejorar la eficiencia operativa, reducir errores y facilitar intervenciones tempranas mediante retroalimentación en tiempo real.
-
-- A nivel económico, la implementación de PsyMed presenta una oportunidad sostenible mediante un modelo de suscripción que combina servicios digitales con dispositivos físicos diferenciadores. Además de generar ingresos recurrentes, la solución contribuye a reducir costos operativos en instituciones de salud al optimizar procesos y disminuir la carga administrativa, lo que puede traducirse en una mayor eficiencia en el uso de recursos dentro del sistema de salud.
-
-## Bibliografía
-
-- _Digitalización de las instituciones hospitalarias._ (s/f). Cepal.org. Recuperado el 5 de septiembre de 2024, de https://desarrollodigital.cepal.org/es/datos-y-hechos/digitalizacion-de-las-instituciones-hospitalarias
-
-- Conne, M(2024). _The Markdown Guide_. MarkdownGuide. Recuperado de: https://www.markdownguide.org/
-
-- Conventional Commits. (n.d.). *Conventional commits v1.0.0.* Retrieved from https://www.conventionalcommits.org/en/v1.0.0/
-
-- Chang-Gómez, M., & Chang-Gómez, M. Á. (2020). Bienestar en el trabajo de los profesionales de salud durante la pandemia de COVID-19: Revisión narrativa. *Revista Cubana de Salud Pública, 46*(4), e2146. https://doi.org/10.1590/rcsp.v46i4.2146
-
-- Angular. (n.d.). *Angular Material components.* Retrieved from https://material.angular.io/components/categories
-
-- AngularJS. (n.d.). *AngularJS Material.* Retrieved from https://material.angularjs.org/latest/
-
-## Anexos
-### Anexo A: NeedFinding Interviews:
-- Link de entrevistas: https://acortar.link/KSvAbw
