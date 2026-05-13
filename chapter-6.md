@@ -137,6 +137,8 @@ Una vez completado el despliegue, la landing page quedará publicada y accesible
 
 ![Landing Page Deployment](https://github.com/user-attachments/assets/531768d4-d72a-4432-ab16-31c2a740b197)
 
+<div style="page-break-after: always;"></div>
+
 ### PsyMed frontend deployment:
 Para el despliegue de la aplicación web de PsyMed se empleará Vercel, siguiendo los pasos descritos a continuación:
 
@@ -146,16 +148,15 @@ Para el despliegue de la aplicación web de PsyMed se empleará Vercel, siguiend
 4. Iniciar el proceso de despliegue y esperar a que Vercel realice las validaciones y construya la aplicación.
 5. Una vez completado el despliegue, acceder al enlace generado para visualizar la aplicación web de PsyMed en producción.
 
-Una vez desplegada, la aplicación web de PsyMed estará accesible públicamente mediante el enlace: https://psymed-frontend.vercel.app/patient/prescription/27
+Una vez desplegada, la aplicación web de PsyMed estará accesible públicamente mediante el enlace: https://psymed-frontend.vercel.app/
 
-## 6.2. Landing Page, Services & Applications Implementation.
 
 <div style="page-break-after: always;"></div>
 
+## 6.2. Landing Page, Services & Applications Implementation.
 
 ### 6.2.1. Sprint 1
 En el Sprint #1, que comienza el 11/05/2026, nos enfocaremos en realizar el despliegue de la Landing Page y del Frontend Web de PsyMed. El objetivo es garantizar que ambas plataformas se encuentren accesibles públicamente, permitiendo presentar la propuesta de valor del producto y brindar una primera experiencia funcional a los usuarios. Este sprint estará dedicado a la configuración de entornos, integración con repositorios y validación del despliegue en producción mediante Vercel, asegurando la disponibilidad y correcto funcionamiento de las aplicaciones.
-
 
 
 #### 6.2.1.1. Sprint Planning 1.
@@ -280,7 +281,6 @@ Feature: Patient Login
     When the patient enters valid credentials
     Then the system should redirect the patient to the dashboard
 ```
-<div style="page-break-after: always;"></div>
 
 
 ### Feature: Landing Page Visualization
@@ -310,7 +310,7 @@ Durante este Sprint se realizaron validaciones sobre componentes visuales y form
 | LandingPageComponent | Correcta carga de secciones     | Unit Test    |
 | NavbarComponent      | Navegación entre secciones      | Unit Test    |
 
-
+<div style="page-break-after: always;"></div>
 
 ### Integration Tests
 
@@ -319,9 +319,6 @@ Durante este Sprint se realizaron validaciones sobre componentes visuales y form
 | Frontend + Vercel       | Verificación del despliegue automático |
 | GitHub + Vercel         | Validación de integración continua     |
 | Frontend Authentication | Validación de rutas de login           |
-
-
-<div style="page-break-after: always;"></div>
 
 ### Testing Repositories
 
@@ -339,15 +336,16 @@ https://github.com/IOT-UPC/landing_page
 | Landing-Page    | develop | XXXXXXXX  | test(ui): validate landing sections    | Se realizaron pruebas de visualización y navegación en las secciones principales de la landing page. | 11/05/2026         |
 | front | develop | XXXXXXXX  | test(deploy): verify vercel deployment | Validación del correcto despliegue del frontend en entorno de producción mediante Vercel.            | 11/05/2026         |
 
+<div style="page-break-after: always;"></div>
 
 #### 6.2.1.6. Execution Evidence for Sprint Review.
 
 En esta sección se muestra la evidencia de la ejecución del sprint, incluyendo las capturas del proyecto en funcionamiento.
 
-<img width="1918" height="918" alt="welcome_1" src="https://github.com/user-attachments/assets/819e2769-c171-4fa6-a811-3f633cfc889a" />
-<img width="1918" height="921" alt="lista_perfiles_2" src="https://github.com/user-attachments/assets/0cf3fc01-5026-4669-b20e-d1d65641aa0a" />
-<img width="1918" height="913" alt="appointment_calendar_4" src="https://github.com/user-attachments/assets/88106955-300e-4e99-be92-2e07acd32077" />
-<img width="1913" height="912" alt="mood_5" src="https://github.com/user-attachments/assets/036e193d-165f-4f4c-9bba-52f14ef094e5" />
+<img width="960" height="460" alt="welcome_1" src="https://github.com/user-attachments/assets/819e2769-c171-4fa6-a811-3f633cfc889a" />
+<img width="960" height="460" alt="lista_perfiles_2" src="https://github.com/user-attachments/assets/0cf3fc01-5026-4669-b20e-d1d65641aa0a" />
+<img width="960" height="460" alt="appointment_calendar_4" src="https://github.com/user-attachments/assets/88106955-300e-4e99-be92-2e07acd32077" />
+<img width="960" height="460" alt="mood_5" src="https://github.com/user-attachments/assets/036e193d-165f-4f4c-9bba-52f14ef094e5" />
 
 #### 6.2.1.7. Services Documentation Evidence for Sprint Review.
 
@@ -407,10 +405,11 @@ Se desplegó la landing page y el frontend usando Vercel. A continuación, se pr
 
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/a2fe0221-b25c-4abb-8ead-4932724365d9" />
 
+<div style="page-break-after: always;"></div>
 
 #### 6.2.1.9. Team Collaboration Insights during Sprint.
 
-<img width="1150" height="875" alt="front_collaboration" src="https://github.com/user-attachments/assets/52f898f7-384d-49be-a21a-71076e4b6c38" />
+<img width="575" height="437" alt="front_collaboration" src="https://github.com/user-attachments/assets/52f898f7-384d-49be-a21a-71076e4b6c38" />
 
 
 ## 6.3. Validation Interviews.
@@ -502,6 +501,7 @@ Sobre la versión móvil, opinó que es conveniente contar con ambas opciones (w
 
 Finalmente, consideró que la plataforma favorece la conciencia emocional del paciente y facilita el seguimiento terapéutico. Recalcó la necesidad de mantener altos estándares de seguridad y confidencialidad, especialmente en la información compartida entre distintos profesionales de salud. Concluyó destacando que el proyecto es innovador, funcional y de gran utilidad para el ámbito psicológico y psiquiátrico.
 
+<div style="page-break-after: always;"></div>
 - Entrevista 2:
 
 ![WhatsApp Image 2025-11-08 at 12 04 54 PM](https://github.com/user-attachments/assets/b29e3748-54f2-481f-bfca-aa277d20838a)
@@ -534,6 +534,7 @@ Finalmente, consideró que SciMed respeta la privacidad del paciente, dado que e
 
 Concluyó afirmando que la plataforma es intuitiva, funcional y pertinente para el trabajo psicológico, y que con las mejoras propuestas podría convertirse en una herramienta integral para la práctica clínica y el acompañamiento terapéutico.
 
+<div style="page-break-after: always;"></div>
 - Entrevista 3:
 
 ![WhatsApp Image 2025-11-09 at 2 11 16 PM](https://github.com/user-attachments/assets/4bbee769-9e23-43ea-b749-1a0a2063e341)
@@ -561,7 +562,7 @@ En cuanto al diseño visual, opinó que la interfaz transmite seriedad, pero pod
 
 En conclusión, la psicóloga consideró que la plataforma Psymed es funcional, clara y pertinente para la práctica clínica, y que con pequeñas mejoras en la presentación visual y la ampliación de ciertos campos, podría convertirse en una herramienta integral para el seguimiento terapéutico y la organización profesional.
 
-
+<div style="page-break-after: always;"></div>
 ### 6.3.3. Evaluaciones según heurísticas.
 
 #### **UX Heuristics & Principles Evaluation**
@@ -624,6 +625,8 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 | 4 | Al registrar una cita, no se muestra retroalimentación inmediata tras confirmar.               | 3                   | Usability: Visibilidad del estado del sistema |
 | 5 | El botón “Cancelar cita” está demasiado próximo al botón “Guardar cambios”.                    | 3                   | Usability: Prevención de errores              |
 
+<div style="page-break-after: always;"></div>
+
 ## 6.4. Video About-the-Product.
 
 Link del video en Microsoft Stream: https://acortar.link/bWwB1q
@@ -631,6 +634,7 @@ Link del video en Microsoft Stream: https://acortar.link/bWwB1q
 
 <img width="1357" height="765" alt="image" src="https://github.com/user-attachments/assets/6135843d-fcef-4bb1-b39e-7e78b0dc6c57" />
 
+<div style="page-break-after: always;"></div>
 
 # Conclusiones
 - La salud mental en Perú enfrenta una crisis estructural caracterizada por la alta demanda de atención y la limitada capacidad del sistema para responder de manera oportuna, lo que deja a una gran parte de la población sin tratamiento adecuado. Esta situación se ve agravada por la escasez de profesionales y la sobrecarga administrativa, evidenciando la necesidad urgente de soluciones que optimicen la gestión y mejoren el acceso a los servicios de salud mental.
