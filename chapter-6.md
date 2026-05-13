@@ -631,7 +631,7 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 ## 6.4. Video About-the-Product.
 
 Link del video en Microsoft Stream: https://acortar.link/bWwB1q
-<br>
+<br><br>
 
 <img width="1357" height="765" alt="image" src="https://github.com/user-attachments/assets/6135843d-fcef-4bb1-b39e-7e78b0dc6c57" />
 
@@ -645,6 +645,12 @@ Link del video en Microsoft Stream: https://acortar.link/bWwB1q
 - A nivel económico, la implementación de PsyMed presenta una oportunidad sostenible mediante un modelo de suscripción que combina servicios digitales con dispositivos físicos diferenciadores. Además de generar ingresos recurrentes, la solución contribuye a reducir costos operativos en instituciones de salud al optimizar procesos y disminuir la carga administrativa, lo que puede traducirse en una mayor eficiencia en el uso de recursos dentro del sistema de salud.
 
 # Video About-the-Team.
+
+Link del video: https://acortar.link/sbpoWq
+
+<img width="658" height="286" alt="image" src="https://github.com/user-attachments/assets/725b7d56-44e0-4678-a53e-fd1f64c74d9e" />
+
+<div style="page-break-after: always;"></div>
 
 # Bibliografía
 
@@ -718,3 +724,6 @@ https://www.who.int/es/news/item/02-03-2022-covid-19-pandemic-triggers-25-increa
 # Anexos
 ### Anexo A: NeedFinding Interviews:
 - Link de entrevistas: https://acortar.link/KSvAbw
+
+### Anexo B: Video about the team:
+- Link del video about the team: https://acortar.link/bWwB1q
