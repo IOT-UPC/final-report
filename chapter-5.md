@@ -725,7 +725,7 @@ El prototipo completo puede visualizarse en el siguiente enlace:
 
 El dispositivo tiene como función principal la **adquisición periódica de señales proxy** asociadas a frecuencia cardíaca y temperatura, la **presentación local** de dichos valores y del estado clínico simplificado (normal versus alarma), la **activación coordinada de actuadores** cuando se detecta una crisis según umbrales definidos en firmware, y el **registro selectivo** de eventos hacia un endpoint HTTP en formato JSON, condicionado a la presencia de alarma y a un intervalo mínimo entre transmisiones con el fin de limitar carga de red y redundancia de datos.
 
-<img alt="iot" src="https://github.com/user-attachments/assets/a589bd77-2d53-4cf9-be37-700d878ab298" />
+<img alt="iot" src="https://github.com/user-attachments/assets/a589bd77-2d53-4cf9-be37-700d878ab298" width="400" height="400"/>
 
 <div style="page-break-after: always;"></div>
 
@@ -741,6 +741,8 @@ Los criterios que orientan las decisiones técnicas son los siguientes:
 | **Eficiencia de comunicación** | Envío al servidor únicamente cuando existe estado de crisis y ha transcurrido un intervalo configurable (por defecto una hora), evitando muestreo continuo innecesario del endpoint. |
 | **Coherencia hardware–software** | Asignación de pines de la ESP32 acorde a restricciones del fabricante (por ejemplo, entradas analógicas en ADC1 para compatibilidad con Wi-Fi activo) y con el esquema documentado en Wokwi. |
 | **Prototipado reproducible** | Uso de componentes estándar en Wokwi más un chip personalizado para la señal de pulso, permitiendo repetición del experimento en entorno simulado sin variación manual del cableado. |
+
+<div style="page-break-after: always;"></div>
 
 ### 1.3 Relación con la arquitectura de información
 
@@ -847,7 +849,7 @@ Los siguientes diagramas complementan el esquema eléctrico: describen el **comp
 
 ### 4.1 Ciclo principal de adquisición, alarma y presentación
 
-<img width="2860" height="5387" alt="diagram" src="https://github.com/user-attachments/assets/135092eb-9a25-493c-908a-331468b03a9b" />
+<img width="400" height="800" alt="diagram" src="https://github.com/user-attachments/assets/135092eb-9a25-493c-908a-331468b03a9b" />
 
 <div style="page-break-after: always;"></div>
 
@@ -929,7 +931,3 @@ Los siguientes valores están definidos en el firmware de referencia y constituy
 | `sketch.ino` | Firmware principal |
 | `heart.chip.json`, `heart.chip.c` | Definición y comportamiento del chip de pulso simulado |
 | `libraries.txt` | Listado de librerías de Arduino requeridas en Wokwi |
-
----
-
-*Documento generado para el diseño del dispositivo IoT Psymed. Mantener sincronizado con cambios en `diagram.json` y `sketch.ino`.*
