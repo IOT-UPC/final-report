@@ -847,18 +847,8 @@ Los siguientes diagramas complementan el esquema eléctrico: describen el **comp
 
 ### 4.1 Ciclo principal de adquisición, alarma y presentación
 
-```mermaid
-flowchart TD
-  A[Inicio de ciclo] --> B[Lectura ADC pulso y temperatura]
-  B --> C{Crisis: BPM mayor umbral o Temp mayor umbral}
-  C -->|Sí| D[Activar LED parpadeante, tono, servo oscilante]
-  C -->|No| E[Apagar LED y tono, servo en posición neutra]
-  D --> F[Actualizar OLED: tiempo, variables, estado ALARMA]
-  E --> F
-  F --> G{Evaluar envío HTTP}
-  G --> H[Espera 100 ms]
-  H --> A
-```
+<img width="2860" height="5387" alt="diagram" src="https://github.com/user-attachments/assets/135092eb-9a25-493c-908a-331468b03a9b" />
+
 <div style="page-break-after: always;"></div>
 
 ### 4.2 Lógica de envío al endpoint (telemetría condicionada)
