@@ -413,6 +413,251 @@ Se desplegó la landing page y el frontend usando Vercel. A continuación, se pr
 <img width="575" height="437" alt="front_collaboration" src="https://github.com/user-attachments/assets/52f898f7-384d-49be-a21a-71076e4b6c38" />
 
 
+<div style="page-break-after: always;"></div>
+
+### 6.2.2. Sprint 2
+En el Sprint #2 el equipo desplazó el foco hacia los componentes de **IoT, Edge Computing y la aplicación móvil** de PsyMed, completando así la arquitectura distribuida de la solución (IoT device → Edge → Cloud → aplicaciones). El objetivo fue construir un prototipo funcional del dispositivo de monitoreo de signos vitales basado en ESP32, un servidor edge en Flask encargado de ingerir las lecturas del dispositivo, evaluar alertas locales y sincronizar la información con el backend en la nube, y una primera versión operativa de la aplicación móvil desarrollada en Flutter. De esta manera, el sprint conecta la capa física (sensores) con la capa de servicios y las aplicaciones de usuario.
+
+#### 6.2.2.1. Sprint Planning 2.
+
+| **Sprint 2**                    | Sprint 2                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background      |                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Date                            | 12/05/2026                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Time                            | 19:00 - 21:00                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Location                        | Virtual via Discord                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Prepared By                     | Paolo Alessandro Torres Flores, Omar Harold Rivera Ticllacuri                                                                                                                                                                                                                                                                                                                                                                  |
+| Attendees (to planning meeting) | Paolo Alessandro Torres Flores, Omar Harold Rivera Ticllacuri, Romina Guadalupe Maita Falckenheiner, Luis Angel Montañez Moreno, Melisa Sulca Silva                                                                                                                                                                                                                                                                            |
+| Sprint 1 Review                 | Durante el Sprint 1 se desplegaron exitosamente la Landing Page y el Frontend Web de PsyMed en Vercel, quedando ambas plataformas accesibles públicamente. Se completaron las funcionalidades iniciales de autenticación (paciente y profesional) y la estructura visual de la landing. El equipo cumplió los 12 story points planificados.                                                                                       |
+| Sprint 1 Retrospective          | El equipo identificó como aspecto positivo la rápida configuración del despliegue continuo con Vercel y GitHub. Como punto de mejora, se reconoció la necesidad de iniciar antes el trabajo sobre los componentes de IoT y Edge, dado que requieren hardware/simulación y mayor integración. Se acordó dividir el trabajo del Sprint 2 por capas (dispositivo, edge y móvil) para paralelizar mejor las tareas.                    |
+| Sprint Goal & User Stories      |                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Sprint 2 Goal                   | **Our focus is on** integrating the IoT health-monitoring device with the Edge layer and delivering the first functional version of the PsyMed mobile application.<br> **We believe it delivers** continuous monitoring of patient vital signs (heart rate and temperature), local crisis detection and alerting at the edge, and mobile access to patient information.<br> **This will be confirmed when** the ESP32 prototype transmits vital-sign readings that the edge server ingests and evaluates for alerts, and the Flutter mobile application authenticates and displays patient data retrieved from the backend. |
+| Sprint 2 Velocity               | El equipo estableció una capacidad de 15 story points para este sprint, considerando que las actividades se concentraron en el prototipado del dispositivo IoT, la construcción del edge server y la primera versión funcional de la aplicación móvil.                                                                                                                                                                            |
+| Sum of Story Points             | 15                                                                                                                                                                                                                                                                                                                                                                                                                             |
+
+<div style="page-break-after: always;"></div>
+
+#### 6.2.2.2. Aspect Leaders and Collaborators.
+
+Para el Sprint 2 los aspectos de trabajo se reorganizaron en torno a los nuevos componentes de la solución IoT (dispositivo, edge y aplicación móvil), manteniendo el esquema de Líder (L) y Colaborador (C) por cada aspecto.
+
+| Team member (LastName, First Name)    | GitHub UserName | Aspect 1: IoT Device Firmware (ESP32) (L/C) | Aspect 2: Edge Server (Flask) (L/C) | Aspect 3: Mobile Application (Flutter) (L/C) | Aspect 4: Cloud Sync & Backend Integration (L/C) | Aspect 5: Testing & Deployment (L/C) |
+| ------------------------------------- | --------------- | ------------------------------------------- | ----------------------------------- | -------------------------------------------- | ------------------------------------------------ | ------------------------------------ |
+| Maita Falckenheiner, Romina Guadalupe | RominaMaita     | L                                           | L                                   | L                                            | C                                                | C                                    |
+| Rivera Ticllacuri, Omar Harold        | TicSide         | C                                           | C                                   | C                                            | L                                                | C                                    |
+| Torres Flores, Paolo Alessandro       | PaleToFo        | C                                           | C                                   | C                                            | L                                                | C                                    |
+| Montañez Moreno, Luis Angel           | Luiso-AM        | C                                           | C                                   | C                                            | C                                                | L                                    |
+| Sulca Silva, Melisa                   | MSS02204        | C                                           | C                                   | C                                            | C                                                | L                                    |
+
+<div style="page-break-after: always;"></div>
+
+#### 6.2.2.3. Sprint Backlog 2.
+
+El Sprint 2 tuvo como objetivo construir el prototipo del dispositivo IoT de monitoreo de signos vitales, el edge server encargado de la ingesta y evaluación de alertas, y la primera versión funcional de la aplicación móvil. Las tareas se distribuyeron por capas de la arquitectura, asegurando la trazabilidad entre cada User Story y su evidencia de implementación en los repositorios correspondientes.
+
+**Herramienta utilizada:** Trello
+**Link Trello:** [https://trello.com/b/JZtqQb87](https://trello.com/b/JZtqQb87)
+
+poner imagen aquí (captura del Sprint Backlog 2 en el board de Trello)
+
+|  Sprint 2  |                 Sprint 2                |     |                                  |                                                                                                                                  |                    |               |                                                |
+| :--------: | :-------------------------------------: | :-: | :------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :----------------: | :-----------: | :--------------------------------------------: |
+| User Story |             Work-Item / Task            |     |                                  |                                                                                                                                  |                    |               |                                                |
+|     Id     |                  Title                  |  Id |               Title              |                                                          Description                                                            | Estimation (Hours) |  Assigned To  | Status (To do / In process / To review / Done) |
+|    US16    | Monitorear signos vitales del paciente  | W07 | ESP32 vital-signs firmware       | Firmware en ESP32 (PlatformIO/Arduino) que lee ritmo cardíaco (GPIO34) y temperatura mediante termistor NTC (GPIO32).            |          5         |  Romina Maita |                      Done                      |
+|    US17    | Detectar crisis y alertar localmente    | W08 | Crisis detection & actuators     | Lógica de detección de crisis (BPM > 115 o T > 38 °C) con alarma por LED (GPIO5), buzzer 880 Hz (GPIO14) y servo calmante (GPIO13). |          4         |  Romina Maita |                      Done                      |
+|    US18    | Visualizar datos en el dispositivo      | W09 | OLED status display              | Visualización de hora, BPM, temperatura y estado de alarma en pantalla OLED SSD1306 128×64.                                       |          3         |  Romina Maita |                      Done                      |
+|    US19    | Ingerir lecturas en el edge server      | W10 | Edge readings ingestion          | Endpoint `POST /api/iot/readings` en Flask con autenticación por token de dispositivo y evaluación automática de alertas.         |          5         |  Romina Maita |                      Done                      |
+|    US20    | Sincronizar datos con el backend        | W11 | Edge → Cloud sync                | Módulo de sincronización (sync) y job programado (APScheduler) para enviar lecturas y alertas al backend en la nube.              |          4         |  Omar Rivera  |                   In process                   |
+|    US21    | Acceder a la app móvil como usuario     | W12 | Mobile authentication            | Pantalla de login en Flutter con consumo de los endpoints de autenticación del backend (sign-in / sign-up).                       |          4         |  Romina Maita |                      Done                      |
+|    US22    | Consultar salud y tratamiento en móvil  | W13 | Mobile health & medication views | Pantallas de salud, medicación, citas y perfil en la app móvil, integradas con los servicios del backend.                         |          4         |  Romina Maita |                      Done                      |
+
+<div style="page-break-after: always;"></div>
+
+#### 6.2.2.4. Development Evidence for Sprint Review.
+
+En esta sección se presentan las evidencias del desarrollo realizado durante el Sprint 2, correspondientes al prototipo del dispositivo IoT, el edge server y la aplicación móvil de PsyMed. Las evidencias muestran la implementación del firmware de monitoreo de signos vitales en ESP32, la construcción del servidor edge en Flask (ingesta de lecturas, evaluación de alertas y sincronización con el backend) y la primera versión funcional de la aplicación móvil desarrollada en Flutter.
+
+La validación del avance se respalda mediante los commits registrados en los repositorios oficiales de la organización, los cuales documentan el progreso técnico de cada componente.
+
+**Repositorio del dispositivo IoT (firmware ESP32):**
+https://github.com/IOT-UPC/iot-model
+
+**Repositorio del edge server:**
+https://github.com/IOT-UPC/edge-server
+
+**Repositorio de la aplicación móvil:**
+https://github.com/IOT-UPC/mobileapp
+
+Los siguientes commits documentan los cambios más resaltantes realizados durante el Sprint 2:
+
+| Repository          | Branch | Commit Id | Commit Message                                                                                        | Commit Message Body                                                                                                                                  | Commited on (Date) |
+| ------------------- | ------ | --------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| IOT-UPC/iot-model   | main   | 1a6ead5   | chore: initial commit                                                                                  | Inicialización del repositorio del firmware del dispositivo IoT de monitoreo.                                                                        | 13/05/2026         |
+| IOT-UPC/iot-model   | main   | cf76d61   | feat: add initial project structure with .gitignore, platformio configuration, and main firmware      | Estructura inicial del proyecto PlatformIO para ESP32, configuración de build (esp32dev) y firmware principal de lectura de signos vitales.          | 14/05/2026         |
+| IOT-UPC/iot-model   | main   | ba1ca93   | extra content                                                                                         | Ajustes adicionales sobre el firmware y archivos de soporte del prototipo de monitoreo.                                                              | 14/05/2026         |
+| IOT-UPC/edge-server | main   | 6f1a0d0   | chore: initial commit                                                                                  | Versión inicial del edge server en Flask: ingesta de lecturas IoT, evaluación de alertas, analítica y sincronización con el backend (módulo sync).   | 14/06/2026         |
+| IOT-UPC/mobileapp   | main   | d9bbdcd   | chore: initial commit                                                                                  | Versión inicial de la aplicación móvil en Flutter: autenticación, pantallas de salud, medicación, citas y perfil, con servicios de consumo de API.  | 13/06/2026         |
+
+<div style="page-break-after: always;"></div>
+
+#### 6.2.2.5. Testing Suite Evidence for Sprint Review.
+
+En esta sección se presenta el conjunto de pruebas realizadas durante el Sprint 2 para validar el correcto funcionamiento del flujo IoT → Edge → Cloud y de la aplicación móvil. Dado el carácter de prototipo de esta etapa, las pruebas se enfocaron en validar la ingesta de lecturas en el edge server, la detección de alertas y la sincronización con el backend.
+
+El repositorio del edge server incluye scripts de prueba (PowerShell) que automatizan el envío de lecturas simuladas y la verificación de las respuestas del servidor:
+
+- `test_reading.ps1`: envía una lectura normal de signos vitales al endpoint `POST /api/iot/readings` y valida la respuesta.
+- `test_alert_reading.ps1`: envía una lectura que excede los umbrales de crisis (BPM > 115 o T > 38 °C) y verifica que el edge genere la alerta correspondiente.
+- `test_backend_sync.ps1`: ejecuta la sincronización de lecturas y alertas hacia el backend en la nube y valida el resultado.
+
+**User Stories evaluadas**
+
+| User Story | Descripción                                |
+| ---------- | ------------------------------------------ |
+| US16       | Monitorear signos vitales del paciente     |
+| US17       | Detectar crisis y alertar localmente       |
+| US19       | Ingerir lecturas en el edge server         |
+| US20       | Sincronizar datos con el backend           |
+| US21       | Acceder a la app móvil como usuario        |
+
+---
+
+**Acceptance Tests – BDD Scenarios**
+
+### Feature: IoT Reading Ingestion
+
+```gherkin
+Feature: IoT Reading Ingestion
+
+  As the edge server
+  I want to ingest vital-sign readings from authenticated devices
+  So that patient data can be stored and evaluated
+
+  Scenario: Valid reading is accepted
+    Given a registered device with a valid X-Device-Token
+    When the device posts a reading to /api/iot/readings
+    Then the edge server should store the reading
+    And return the reading id and the alert status
+```
+
+### Feature: Crisis Alert Detection
+
+```gherkin
+Feature: Crisis Alert Detection
+
+  As the edge server
+  I want to evaluate incoming readings against crisis thresholds
+  So that an alert is raised when a patient is at risk
+
+  Scenario: Reading above thresholds triggers an alert
+    Given a device sends a reading with BPM greater than 115 or temperature greater than 38 C
+    When the edge server processes the reading
+    Then an alert should be created
+    And the response should indicate an active alert
+```
+
+### Unit / Integration Tests
+
+| Class / Component / Module       | Tested Behavior                                          | Type of Test      |
+| -------------------------------- | ------------------------------------------------------- | ----------------- |
+| readings/services.py             | Registro de una lectura válida                          | Integration Test  |
+| alerts/services.py               | Generación de alerta al superar umbrales de crisis      | Integration Test  |
+| sync/services.py                 | Sincronización de lecturas/alertas con el backend       | Integration Test  |
+| ESP32 firmware (crisis logic)    | Activación de actuadores (LED, buzzer, servo) en crisis | Manual Test (Wokwi) |
+| Flutter LoginScreen / AuthProvider | Autenticación y manejo de token                       | Manual Test       |
+
+### Testing Repositories
+
+**Edge Server Repository:** <br>
+https://github.com/IOT-UPC/edge-server
+
+**Testing Commits Evidence**
+
+| Repository          | Branch | Commit Id | Commit Message        | Commit Message Body                                                                                          | Commited on (Date) |
+| ------------------- | ------ | --------- | --------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------ |
+| IOT-UPC/edge-server | main   | 6f1a0d0   | chore: initial commit | Incluye los scripts de prueba `test_reading.ps1`, `test_alert_reading.ps1` y `test_backend_sync.ps1` del edge. | 14/06/2026         |
+
+<div style="page-break-after: always;"></div>
+
+#### 6.2.2.6. Execution Evidence for Sprint Review.
+
+En esta sección se muestra la evidencia de la ejecución del Sprint 2. Durante este sprint se logró poner en funcionamiento el prototipo del dispositivo IoT (simulado en Wokwi sobre ESP32), el edge server respondiendo a las peticiones de lecturas y alertas, y la aplicación móvil mostrando las pantallas principales conectadas al backend.
+
+- Dispositivo IoT en funcionamiento (lectura de signos vitales y pantalla OLED): <br>
+poner imagen aquí
+
+- Edge server procesando una lectura y generando una alerta (consola / respuesta del endpoint): <br>
+poner imagen aquí
+
+- Aplicación móvil (pantallas de login, home y salud): <br>
+poner imagen aquí
+
+**Video de la ejecución del Sprint 2:** poner enlace del video aquí
+
+#### 6.2.2.7. Services Documentation Evidence for Sprint Review.
+
+Durante este sprint se implementó y documentó la API del **edge server** en Flask, encargada de la comunicación con el dispositivo IoT y la sincronización con el backend en la nube. Dado que en esta etapa el edge se ejecuta en un entorno local de desarrollo, las rutas de documentación corresponden a la URL local del servidor (ejecutado mediante Flask con `run.py`).
+
+A continuación se presentan los endpoints implementados durante el Sprint 2:
+
+| Módulo   | Endpoint                                  | Verbo | Descripción                                                                                                       | Autenticación        |
+| -------- | ----------------------------------------- | ----- | ---------------------------------------------------------------------------------------------------------------- | -------------------- |
+| Readings | `/api/iot/readings`                       | POST  | Recibe una lectura de signos vitales desde el dispositivo, evalúa alertas y retorna el id de la lectura y el estado de alerta. | Header `X-Device-Token` |
+| Devices  | `/api/iot/devices/<device_id>/status`     | GET   | Devuelve los metadatos del dispositivo: estado de activación, versión de firmware y último contacto.             | No requiere          |
+| Sync     | `/api/sync/retry`                         | POST  | Procesa las tareas de sincronización pendientes hacia el backend y retorna el resultado de la operación.         | No requiere          |
+| Health   | `/api/health`                             | GET   | Retorna el estado del edge server: dispositivos activos, dispositivos en línea y total de lecturas registradas.  | No requiere          |
+
+**Ejemplo de request (ingesta de lectura):**
+
+```http
+POST /api/iot/readings
+X-Device-Token: <token-del-dispositivo>
+Content-Type: application/json
+
+{
+  "bpm": 122,
+  "temperature": 38.4,
+  "timestamp": "2026-06-14T10:15:00-05:00"
+}
+```
+
+**Ejemplo de response:**
+
+```json
+{
+  "reading_id": 42,
+  "alert": true
+}
+```
+
+Captura de la interacción con la documentación / pruebas del edge server: <br>
+poner imagen aquí
+
+**Repositorio de Web Services (Edge):** https://github.com/IOT-UPC/edge-server — commit `6f1a0d0`.
+
+<div style="page-break-after: always;"></div>
+
+#### 6.2.2.8. Software Deployment Evidence for Sprint Review.
+
+En esta sección se resumen las actividades de despliegue realizadas durante el Sprint 2. Considerando que esta etapa corresponde a la construcción de un **prototipo funcional**, el despliegue se realizó en un entorno local y de simulación, dejando el despliegue en la nube de estos componentes planificado para un sprint posterior.
+
+- **Dispositivo IoT (ESP32):** el firmware fue desarrollado con PlatformIO (entorno `esp32dev`, framework Arduino) y ejecutado/validado mediante el simulador **Wokwi** (red `Wokwi-GUEST`). El dispositivo envía las lecturas vía HTTP, utilizando un endpoint de prueba (mock) que emula la API de ingesta del edge.
+- **Edge Server (Flask):** se preparó el script `setup_edge.ps1` para la instalación del entorno virtual y dependencias (`requirements.txt`), utilizando una base de datos local **SQLite** (`edge.sqlite3`). El servidor se ejecuta localmente mediante `run.py` y expone los endpoints documentados en la sección 6.2.2.7.
+- **Aplicación móvil (Flutter):** la app se compiló y ejecutó en emulador/dispositivo, configurada para consumir el backend a través de la URL base definida en `api_services.dart`.
+
+Capturas del entorno de despliegue/ejecución (Wokwi, edge server en consola y app móvil en ejecución): <br>
+poner imagen aquí
+
+#### 6.2.2.9. Team Collaboration Insights during Sprint.
+
+En esta sección se presentan los analíticos de colaboración del equipo durante el Sprint 2. El trabajo se organizó por capas de la arquitectura: el firmware del dispositivo IoT, el edge server y la aplicación móvil, complementados con las tareas de integración con el backend, testing y despliegue. Las gráficas de contribución de los repositorios `iot-model`, `edge-server` y `mobileapp` evidencian la participación de los integrantes en los componentes de esta etapa.
+
+Analíticos de colaboración (GitHub Insights de los repositorios iot-model, edge-server y mobileapp): <br>
+poner imagen aquí
+
+<div style="page-break-after: always;"></div>
+
 ## 6.3. Validation Interviews.
 
 En esta sección se presentan los resultados de las entrevistas realizadas a profesionales de la salud mental y pacientes, con el objetivo de validar la usabilidad, funcionalidad y pertinencia de la aplicación PsyMed. Se detallan las preguntas formuladas, los resúmenes de cada entrevista y una evaluación basada en heurísticas de usabilidad e inclusión.
