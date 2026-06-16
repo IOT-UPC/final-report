@@ -808,6 +808,31 @@ En cuanto al diseño visual, opinó que la interfaz transmite seriedad, pero pod
 En conclusión, la psicóloga consideró que la plataforma Psymed es funcional, clara y pertinente para la práctica clínica, y que con pequeñas mejoras en la presentación visual y la ampliación de ciertos campos, podría convertirse en una herramienta integral para el seguimiento terapéutico y la organización profesional.
 
 <div style="page-break-after: always;"></div>
+
+Entrevistas a segmento pacientes:
+
+- Entrevista 1:
+
+<p align="center">
+  <img src="https://i.imgur.com/Du2K1Qe.png" alt="ent4" width="600">
+  </p>
+
+| Nombre               | Joaquin                     |
+|----------------------|-----------------------------|
+| Apellido             | Cuentas                     |
+| Edad                 | 23 años                     |
+| Distrito             | San Miguel                  |
+| URL                  | https://acortar.link/rGFD6y |
+| Inicio de entrevista | 00:00                       |
+| Fin de entrevista    | 15:19                       |
+
+Resumen de entrevista:
+
+
+
+- Entrevista 2:
+
+<div style="page-break-after: always;"></div>
 ### 6.3.3. Evaluaciones según heurísticas.
 
 #### **UX Heuristics & Principles Evaluation**
