@@ -813,10 +813,8 @@ Entrevistas a segmento pacientes:
 
 - Entrevista 1:
 
-<p align="center">
-  <img src="https://i.imgur.com/Du2K1Qe.png" alt="ent4" width="600">
-  </p>
-
+  ![ValidationInterviewSegmento#1Entrevista1](https://i.imgur.com/Du2K1Qe.png)
+  
 | Nombre               | Joaquin                     |
 |----------------------|-----------------------------|
 | Apellido             | Cuentas                     |
@@ -827,6 +825,12 @@ Entrevistas a segmento pacientes:
 | Fin de entrevista    | 15:19                       |
 
 Resumen de entrevista:
+
+Joaquín Cuentas, de 23 años y residente en San Miguel, probó la propuesta de PsyMed, una aplicación móvil y web orientada al seguimiento de pacientes en salud mental. A partir de la sección de preguntas, la experiencia general fue positiva, ya que el entrevistado entendió con facilidad la diferencia entre el modo paciente y el modo profesional. También, señaló que el proceso de inicio de sesión y creación de usuario era claro, principalmente porque no había demasiadas opciones y eso hacía que la plataforma fuera intuitiva. Además, él indicó que el video explicativo del aplicativo móvil no le generó confusión, porque luego pudo relacionarlo con la versión web, la cual tenía funciones similares. En cuanto al registro de pacientes, medicamentos y citas, consideró que el flujo era secuencial y fácil de seguir, por lo que podría realizar esas acciones sin ayuda externa.
+
+Sin embargo, Joaquín también identificó algunos aspectos por mejorar en la interfaz. Mencionó que algunos botones de la landing page no funcionaban correctamente y deberían redirigir al registro o a la sección correspondiente. Asimismo, observó que ciertos títulos de la landing page se veían muy parecidos al texto normal, por lo que no resaltaban la información principal. También, recomendó mejorar la distribución visual de algunos formularios, especialmente en la parte profesional, donde se agrega un paciente, porque ciertos campos se veían muy apretados en la ventana modal. Otro punto señalado fue la carga lenta en algunas secciones, lo que sugiere la necesidad de optimizar el rendimiento de la plataforma.
+
+Respecto a las funciones de salud mental, el entrevistado consideró claro el registro del estado emocional y biológico en el modo paciente. También afirmó que le gustaría recibir notificaciones o recordatorios sobre citas y medicamentos, ya que esto haría más útil la aplicación. No obstante, expresó cierta incomodidad frente al registro diario del estado de ánimo, principalmente por motivos de privacidad. A pesar de ello, reconoció que PsyMed sí podría ayudar a los pacientes a ser más conscientes de su salud mental. Finalmente, percibió el sistema como confiable, porque separa los perfiles de paciente y profesional, y limita el acceso de la información al médico correspondiente.
 
 
 
