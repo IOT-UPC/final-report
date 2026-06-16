@@ -416,7 +416,7 @@ Se desplegó la landing page y el frontend usando Vercel. A continuación, se pr
 <div style="page-break-after: always;"></div>
 
 ### 6.2.2. Sprint 2
-En el Sprint #2 el equipo desplazó el foco hacia los componentes de **IoT, Edge Computing y la aplicación móvil** de PsyMed, completando así la arquitectura distribuida de la solución (IoT device → Edge → Cloud → aplicaciones). El objetivo fue construir un prototipo funcional del dispositivo de monitoreo de signos vitales basado en ESP32, un servidor edge en Flask encargado de ingerir las lecturas del dispositivo, evaluar alertas locales y sincronizar la información con el backend en la nube, y una primera versión operativa de la aplicación móvil desarrollada en Flutter. De esta manera, el sprint conecta la capa física (sensores) con la capa de servicios y las aplicaciones de usuario.
+En el Sprint #2 el equipo desplazó el foco hacia los componentes de **IoT, Edge Computing y la aplicación móvil** de PsyMed, completando así la arquitectura distribuida de la solución (IoT device → Edge → Cloud → aplicaciones). El objetivo fue construir un prototipo funcional del dispositivo de monitoreo de signos vitales basado en ESP32, un servidor edge en Flask encargado de ingerir las lecturas del dispositivo, evaluar alertas locales y sincronizar la información con el backend en la nube, y una primera versión operativa de la aplicación móvil desarrollada en Flutter. Cabe precisar que, en esta etapa, la aplicación móvil consume directamente el **backend en la nube** (no la capa IoT/Edge) y se mantiene como un **prototipo ejecutado localmente**, sin despliegue en producción. De esta manera, el sprint conecta la capa física (sensores) con la capa de servicios y las aplicaciones de usuario.
 
 #### 6.2.2.1. Sprint Planning 2.
 
@@ -582,7 +582,7 @@ https://github.com/IOT-UPC/edge-server
 
 #### 6.2.2.6. Execution Evidence for Sprint Review.
 
-En esta sección se muestra la evidencia de la ejecución del Sprint 2. Durante este sprint se logró poner en funcionamiento el prototipo del dispositivo IoT (simulado en Wokwi sobre ESP32), el edge server respondiendo a las peticiones de lecturas y alertas, y la aplicación móvil mostrando las pantallas principales conectadas al backend.
+En esta sección se muestra la evidencia de la ejecución del Sprint 2. Durante este sprint se logró poner en funcionamiento el prototipo del dispositivo IoT (simulado en Wokwi sobre ESP32), el edge server respondiendo a las peticiones de lecturas y alertas, y la aplicación móvil mostrando las pantallas principales conectadas al **backend en la nube** (la app no se integra con la capa IoT/Edge).
 
 - Dispositivo IoT en funcionamiento (lectura de signos vitales y pantalla OLED): <br>
 poner imagen aquí
@@ -590,8 +590,7 @@ poner imagen aquí
 - Edge server procesando una lectura y generando una alerta (consola / respuesta del endpoint): <br>
 poner imagen aquí
 
-- Aplicación móvil (pantallas de login, home y salud): <br>
-poner imagen aquí
+- Aplicación móvil ejecutada **localmente en emulador** (pantallas de login, home y salud), consumiendo el backend en la nube. Esta app **no forma parte del flujo IoT → Edge** y **no fue desplegada** en esta etapa.
 
 **Video de la ejecución del Sprint 2:** poner enlace del video aquí
 
@@ -644,9 +643,9 @@ En esta sección se resumen las actividades de despliegue realizadas durante el 
 
 - **Dispositivo IoT (ESP32):** el firmware fue desarrollado con PlatformIO (entorno `esp32dev`, framework Arduino) y ejecutado/validado mediante el simulador **Wokwi** (red `Wokwi-GUEST`). El dispositivo envía las lecturas vía HTTP, utilizando un endpoint de prueba (mock) que emula la API de ingesta del edge.
 - **Edge Server (Flask):** se preparó el script `setup_edge.ps1` para la instalación del entorno virtual y dependencias (`requirements.txt`), utilizando una base de datos local **SQLite** (`edge.sqlite3`). El servidor se ejecuta localmente mediante `run.py` y expone los endpoints documentados en la sección 6.2.2.7.
-- **Aplicación móvil (Flutter):** la app se compiló y ejecutó en emulador/dispositivo, configurada para consumir el backend a través de la URL base definida en `api_services.dart`.
+- **Aplicación móvil (Flutter):** la app se compiló y ejecutó **localmente** en emulador/dispositivo, configurada para consumir el backend mediante una URL base local definida en `api_services.dart`. **No fue desplegada** en esta etapa ni se integra con la capa IoT/Edge; su despliegue queda planificado para un sprint posterior.
 
-Capturas del entorno de despliegue/ejecución (Wokwi, edge server en consola y app móvil en ejecución): <br>
+Capturas del entorno de despliegue/ejecución (Wokwi y edge server en consola): <br>
 poner imagen aquí
 
 #### 6.2.2.9. Team Collaboration Insights during Sprint.
