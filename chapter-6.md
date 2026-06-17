@@ -836,6 +836,24 @@ Respecto a las funciones de salud mental, el entrevistado consideró claro el re
 
 - Entrevista 2:
 
+| Nombre               | Leguer                     |
+|----------------------|-----------------------------|
+| Apellido             | Silva                       |
+| Edad                 | 22 años                     |
+| Distrito             | Magdalena del mar           |
+| URL                  | https://acortar.link/IqE90D |
+| Inicio de entrevista | 00:00                       |
+| Fin de entrevista    | 14:13                       |
+
+Resumen de entrevista:
+
+Leguer Silva, de 22 años y residente en Magdalena del Mar, probó la propuesta de PsyMed, una aplicación móvil y web orientada al seguimiento de pacientes en salud mental. A partir de la entrevista realizada, la experiencia general fue positiva, ya que el entrevistado consideró que el flujo de la aplicación era intuitivo tanto en la versión móvil como en la versión web. Asimismo, indicó que procesos como la creación de usuarios, el registro de medicamentos y el agendamiento de citas eran fáciles de comprender y seguir, lo que le permitió navegar por la plataforma sin dificultades. Además, al observar la aplicación por primera vez, percibió que se trataba de una herramienta útil con potencial para ayudar a muchas personas a gestionar mejor su salud mental.
+
+Sin embargo, Leguer también identificó algunos aspectos que podrían mejorarse en la interfaz y experiencia de usuario. Mencionó que el botón para agregar pacientes debería ser más accesible, ya que actualmente es necesario desplazarse por toda la lista para encontrarlo, lo que dificulta el proceso. Asimismo, sugirió realizar ajustes estéticos en el formulario de registro de medicamentos, especialmente en el centrado y distribución de los elementos visuales. También recomendó incorporar botones para regresar a pasos anteriores dentro de los procesos secuenciales y agregar mensajes de confirmación o aviso al guardar o enviar información, con el fin de brindar una retroalimentación más clara al usuario.
+
+Respecto a las funciones relacionadas con la salud mental, el entrevistado señaló que se sentiría cómodo registrando su estado de ánimo diariamente, debido a que ya tiene el hábito de registrar información personal en otras aplicaciones, como el seguimiento de comidas. Además, consideró que PsyMed podría ayudar a los usuarios a desarrollar una mayor conciencia sobre su bienestar emocional y mental. Finalmente, aunque percibió la plataforma como una herramienta beneficiosa, manifestó que le gustaría contar con medidas adicionales de seguridad durante el inicio de sesión, como la implementación de una verificación en dos pasos, para reforzar la protección de la información personal de los usuarios.
+
+
 <div style="page-break-after: always;"></div>
 ### 6.3.3. Evaluaciones según heurísticas.
 
