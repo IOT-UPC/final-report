@@ -836,6 +836,9 @@ Respecto a las funciones de salud mental, el entrevistado consideró claro el re
 
 - Entrevista 2:
 
+<img width="1811" height="812" alt="foto_entrevista_paciente2" src="https://github.com/user-attachments/assets/6a35938e-e5d0-45bc-8d86-4c6a2832b4b3" />
+
+
 | Nombre               | Leguer                     |
 |----------------------|-----------------------------|
 | Apellido             | Silva                       |
