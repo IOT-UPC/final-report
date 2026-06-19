@@ -72,6 +72,7 @@
 <div style="page-break-after: always;"></div>
 
 - AV2:
+<img width="731" height="563" alt="image" src="https://github.com/user-attachments/assets/97d3f651-a631-4d2f-8c34-1afee5e7fdd7" />
 
 <div style="page-break-after: always;"></div>
 
