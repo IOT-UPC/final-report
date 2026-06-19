@@ -2,19 +2,18 @@
   <img src="https://github.com/user-attachments/assets/7294fb97-b8fe-44f9-9a76-28a3b52a4716" style="width:200px; height:auto;">
 </p>
 
-# <div style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas
+# <div style="text-align: center;">Universidad Peruana de Ciencias Aplicadas</div>
 
+## <div style="text-align: center;">Ingeniería de Software</div>
+## <div style="text-align: center;">202610</div>
+## <div style="text-align: center;">1ASI0572 Desarrollo de Soluciones IOT</div>
+## <div style="text-align: center;">NRC: 6785</div>
+## <div style="text-align: center;">Profesor: Marco Antonio Leon Baca</div>
+## <div style="text-align: center;">Informe del Trabajo Final</div>
+## <div style="text-align: center;">Nombre del Startup: Go8u</div>
+## <div style="text-align: center;">Nombre del Producto: PsyMed</div>
 
-## <div style="text-align: center;">Ingeniería de Software </div>
-## <div style="text-align: center;"> 202610 </div>
-## <div style="text-align: center;"> 1ASI0572 Desarrollo de Soluciones IOT </div>
-## <div style="text-align: center;"> NRC: 6785 </div>
-## <div style="text-align: center;"> Profesor: Marco Antonio Leon Baca </div>
-## <div style="text-align: center;"> Informe del Trabajo Final</div>
-## <div style="text-align: center;"> Nombre del Startup: Go8u </div>
-## <div style="text-align: center;"> Nombre del Producto: PsyMed </div>
-
-### <div style="text-align: center;"> Integrantes:</div>
+### <div style="text-align: center;">Integrantes:</div>
 <div style="display: flex; justify-content: center;">
     <table>
       <thead>
@@ -45,11 +44,10 @@
           <td>Torres Flores, Paolo Alessandro</td>
         </tr>
       </tbody>
-    </table> 
+    </table>
 </div>
 
-
-<div style="text-align: center;"> Mayo 2026 </div>
+<div style="text-align: center;">Junio 2026</div>
 
 <div style="page-break-after: always;"></div>
 
@@ -59,19 +57,21 @@
 |---------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | AV1     | 22/04/2026 | - Maita Falckenheiner, Romina Guadalupe<br>- Montañez Moreno, Luis Angel<br>- Rivera Ticllacuri, Omar Harold<br>- Sulca Silva, Melisa Sulca<br>- Torres Flores, Paolo Alessandro | Carátula<br>Registro de Versiones del Informe<br>Project Report Collaboration Insights<br>Contenido<br>Student Outcome<br>Capítulo I: Introducción<br>Capítulo II: Requirements Elicitation & Analysis.<br>Capítulo III: Requirements Specification.<br>Capítulo IV: Solution Software Design.<br>Conclusiones<br>Bibliografía<br>Anexos. |
 | TB1     | 13/05/2026 | - Maita Falckenheiner, Romina Guadalupe<br>- Montañez Moreno, Luis Angel<br>- Rivera Ticllacuri, Omar Harold<br>- Sulca Silva, Melisa Sulca<br>- Torres Flores, Paolo Alessandro | Capítulo V: Solution UI/UX Design.<br>Capítulo VI: Product Implementation, Validation & Deployment.<br>Conclusiones y recomendaciones.<br>Video About-the-Team.<br>Bibliografía.<br>Anexos. |
+| AV2     | 19/06/2026 | - Maita Falckenheiner, Romina Guadalupe<br>- Montañez Moreno, Luis Angel<br>- Rivera Ticllacuri, Omar Harold<br>- Sulca Silva, Melisa Sulca<br>- Torres Flores, Paolo Alessandro | Sprint 2: desarrollo del aplicativo móvil de la solución.<br>Implementación del dispositivo IoT y su edge correspondiente.<br>Validación del funcionamiento integrado entre la aplicación, el dispositivo y el flujo de monitoreo. |
 
 <div style="page-break-after: always;"></div>
 
 # Project Report Collaboration Insights
 
-- Avn1:
-
+- AV1:
 <img width="731" height="563" alt="insights" src="https://github.com/user-attachments/assets/9fb8051b-f397-4552-9a58-8b66c7d3fb6a" />
 
 - TB1:
+<img width="731" height="563" alt="image" src="https://github.com/user-attachments/assets/4cc3bc4f-7d7f-4569-9a96-195d5b384959" />
 
-<img width="805" height="600" alt="image" src="https://github.com/user-attachments/assets/4cc3bc4f-7d7f-4569-9a96-195d5b384959" />
+<div style="page-break-after: always;"></div>
 
+- AV2:
 
 <div style="page-break-after: always;"></div>
 
@@ -133,7 +133,7 @@ Tabla de Contenidos
         - [4.1.3.3. Software Architecture Deployment Diagrams](/chapter04.md#4133-deployment-diagrams)
 
 - [4.2. Tactical-Level Domain-Driven Design](/chapter04.md#42-tactical-level-domain-driven-design)
-    - [4.2.X. Bounded Context: <Bounded Context Name>](/chapter04.md#42x-bounded-context)
+    - [4.2.X. Bounded Context: &lt;Bounded Context Name&gt;](/chapter04.md#42x-bounded-context)
         - [4.2.X.1. Domain Layer](/chapter04.md#42x1-domain-layer)
         - [4.2.X.2. Interface Layer](/chapter04.md#42x2-interface-layer)
         - [4.2.X.3. Application Layer](/chapter04.md#42x3-application-layer)
@@ -205,28 +205,6 @@ Tabla de Contenidos
 <div style="page-break-after: always;"></div>
 
 # Student Outcome
-
-<style>
-    .so-table {
-        width: 100%;
-        border-collapse: collapse;
-        font-family: Arial, sans-serif;
-        font-size: 10px;
-        line-height: 1.4;
-    }
-    .so-table th, .so-table td {
-        border: 1px solid black;
-        padding: 6px;
-        vertical-align: top;
-        text-align: justify;
-    }
-    .so-table th {
-        background-color: #f2f2f2;
-        text-align: center;
-        font-size: 10px;
-    }
-</style>
-
 <table class="so-table">
     <thead>
         <tr>
@@ -239,56 +217,50 @@ Tabla de Contenidos
         <tr>
             <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
             <td>
-                <strong>Avn1:</strong><br><br>
-                <strong>Paolo Torres:</strong> Tuve comunicación contínua con todos y cada uno de los miembros del equipo para coordinar todos los avances. Liderando la división de tareas y tomando el rol de líder de equipo. Así como también brindar una revisión y comentar eficazmente sobre cada avance de mis compañeros y mío. Logrando así trabajar en equipo para alcanzar el objetivo conjunto.
-                <br><br>
-                <strong>Omar Rivera:</strong> Durante el desarrollo del capítulo 3, correspondiente a la especificación de requisitos, asumí un rol activo dentro del equipo al encargarme de estructurar y definir los User Stories, criterios de aceptación, Impact Mapping y Product Backlog. Esta responsabilidad implicó organizar la información recopilada por el grupo, establecer lineamientos claros para la redacción de requisitos y asegurar la coherencia entre los distintos artefactos. A través de esta contribución, se evidenció un trabajo colaborativo en el que se promovió la coordinación para cumplir con los objetivos establecidos.
-                <br><br>
-                <strong>Romina Maita:</strong> He contribuido al liderazgo compartido del equipo manteniéndome activa en las conversaciones tanto por chat como en llamadas, facilitando la comunicación entre los integrantes y asegurando que todos tengan espacio para aportar ideas. Mi participación constante ha permitido alinear decisiones, resolver dudas de manera oportuna y mantener un flujo de trabajo organizado, promoviendo que el liderazgo no recaiga en una sola persona, sino que se construya de manera colaborativa.
-                <br><br>
-                <strong>Luis Montañez:</strong> AV1 Participé en la elaboración del capítulo 2, en específico el análisis de competidores, elaboración del needfinding (User personas, user task matrix, user journey mapping) y en la sesión de Big Picture Eventstorming, aportando al equipo en cada actividad.
-                <br><br>
-                <strong>Melisa Sulca:</strong> Participé activamente en el desarrollo del proyecto PsyMed. Realicé análisis del contexto actual de los trastornos mentales e identifiqué la problemática relacionada con la sobrecarga del sistema de salud mental. Elaboré la sección del Solution Profile, los antecedentes de la problemática con los 5W y 2H, el Lean UX Process y se especificó los usuarios finales en los segmentos objetivos. Esto nos ayudó a decidir una propuesta de valor integrada con un dispositivo IoT, la cual facilitará la toma de decisiones del tratamiento de un paciente.
-                <br><br>
-                <strong>TB1:</strong><br><br>
-                <strong>Paolo Torres:</strong> Coordiné de forma continua con el equipo para distribuir y supervisar las tareas correspondientes a los capítulos 5 y 6, tomando nuevamente el rol de líder durante esta entrega. Me aseguré de revisar los avances de cada integrante, brindar retroalimentación oportuna sobre los diseños de UI/UX y la implementación del sprint, y fomentar la toma de decisiones conjunta para mantener la coherencia del producto en todas sus capas: landing page, aplicaciones y dispositivo IoT.
-                <br><br>
-                <strong>Omar Rivera:</strong> En el marco del capítulo 6, lideré la organización del Sprint 1 junto al equipo, estructurando el Sprint Planning, el Sprint Backlog y coordinando la distribución de roles mediante la tabla de Aspect Leaders and Collaborators. Mi participación activa facilitó que todos los integrantes tuvieran claridad sobre sus responsabilidades y que el avance de desarrollo se registrara de forma ordenada en el Development Evidence, promoviendo un liderazgo distribuido durante la implementación.
-                <br><br>
-                <strong>Romina Maita:</strong> Durante esta entrega contribuí al liderazgo compartido participando activamente en la definición de los sistemas de organización y navegación del capítulo 5, así como en la coordinación de los wireframes y mockups de las aplicaciones. A través de reuniones y comunicación constante, facilité que las decisiones de diseño reflejaran la visión conjunta del equipo, asegurando que ninguna sección quedara desatendida y que todos pudieran aportar a los artefactos de UX/UI.
-                <br><br>
-                <strong>Luis Montañez:</strong> TB1 Participé en la elaboración del capítulo 5, específicamente en la definición de las Style Guidelines (general, web, mobile e IoT), los sistemas de arquitectura de información y los wireframes de la landing page, aportando liderazgo en las decisiones de diseño visual e interacción para que el equipo mantuviera una línea gráfica coherente en todos los entregables.
-                <br><br>
-                <strong>Melisa Sulca:</strong> Contribuí al liderazgo colectivo del equipo durante la TB1 encargándome de la sección de IoT Device Design del capítulo 5 y de la documentación del despliegue en el capítulo 6. Coordiné con los demás integrantes para alinear el diseño del dispositivo con la arquitectura definida, compartiendo avances y recibiendo retroalimentación del grupo, lo que permitió mantener una visión integrada del producto PsyMed.
+                <span class="version-title">AV1:</span>
+                <p><span class="student-name">Paolo Torres:</span> Tuve comunicación continua con todos y cada uno de los miembros del equipo para coordinar todos los avances. Lideré la división de tareas y tomé el rol de líder de equipo. Asimismo, brindé revisión y comentarios eficaces sobre cada avance de mis compañeros y mío, logrando trabajar en equipo para alcanzar el objetivo conjunto.</p>
+                <p><span class="student-name">Omar Rivera:</span> Durante el desarrollo del capítulo 3, correspondiente a la especificación de requisitos, asumí un rol activo dentro del equipo al encargarme de estructurar y definir los User Stories, criterios de aceptación, Impact Mapping y Product Backlog. Esta responsabilidad implicó organizar la información recopilada por el grupo, establecer lineamientos claros para la redacción de requisitos y asegurar la coherencia entre los distintos artefactos. A través de esta contribución, se evidenció un trabajo colaborativo en el que se promovió la coordinación para cumplir con los objetivos establecidos.</p>
+                <p><span class="student-name">Romina Maita:</span> He contribuido al liderazgo compartido del equipo manteniéndome activa en las conversaciones tanto por chat como en llamadas, facilitando la comunicación entre los integrantes y asegurando que todos tengan espacio para aportar ideas. Mi participación constante ha permitido alinear decisiones, resolver dudas de manera oportuna y mantener un flujo de trabajo organizado, promoviendo que el liderazgo no recaiga en una sola persona, sino que se construya de manera colaborativa.</p>
+                <p><span class="student-name">Luis Montañez:</span> AV1 Participé en la elaboración del capítulo 2, específicamente en el análisis de competidores, elaboración del needfinding, User Personas, User Task Matrix, User Journey Mapping y en la sesión de Big Picture EventStorming, aportando al equipo en cada actividad.</p>
+                <p><span class="student-name">Melisa Sulca:</span> Participé activamente en el desarrollo del proyecto PsyMed. Realicé análisis del contexto actual de los trastornos mentales e identifiqué la problemática relacionada con la sobrecarga del sistema de salud mental. Elaboré la sección del Solution Profile, los antecedentes de la problemática con los 5W y 2H, el Lean UX Process y se especificó a los usuarios finales en los segmentos objetivos. Esto nos ayudó a decidir una propuesta de valor integrada con un dispositivo IoT, la cual facilitará la toma de decisiones del tratamiento de un paciente.</p>
+                <span class="version-title">TB1:</span>
+                <p><span class="student-name">Paolo Torres:</span> Coordiné de forma continua con el equipo para distribuir y supervisar las tareas correspondientes a los capítulos 5 y 6, tomando nuevamente el rol de líder durante esta entrega. Me aseguré de revisar los avances de cada integrante, brindar retroalimentación oportuna sobre los diseños de UI/UX y la implementación del sprint, y fomentar la toma de decisiones conjunta para mantener la coherencia del producto en todas sus capas: landing page, aplicaciones y dispositivo IoT.</p>
+                <p><span class="student-name">Omar Rivera:</span> En el marco del capítulo 6, lideré la organización del Sprint 1 junto al equipo, estructurando el Sprint Planning, el Sprint Backlog y coordinando la distribución de roles mediante la tabla de Aspect Leaders and Collaborators. Mi participación activa facilitó que todos los integrantes tuvieran claridad sobre sus responsabilidades y que el avance de desarrollo se registrara de forma ordenada en el Development Evidence, promoviendo un liderazgo distribuido durante la implementación.</p>
+                <p><span class="student-name">Romina Maita:</span> Durante esta entrega contribuí al liderazgo compartido participando activamente en la definición de los sistemas de organización y navegación del capítulo 5, así como en la coordinación de los wireframes y mockups de las aplicaciones. A través de reuniones y comunicación constante, facilité que las decisiones de diseño reflejaran la visión conjunta del equipo, asegurando que ninguna sección quedara desatendida y que todos pudieran aportar a los artefactos de UX/UI.</p>
+                <p><span class="student-name">Luis Montañez:</span> TB1 Participé en la elaboración del capítulo 5, específicamente en la definición de las Style Guidelines, los sistemas de arquitectura de información y los wireframes de la landing page, aportando liderazgo en las decisiones de diseño visual e interacción para que el equipo mantuviera una línea gráfica coherente en todos los entregables.</p>
+                <p><span class="student-name">Melisa Sulca:</span> Contribuí al liderazgo colectivo del equipo durante la TB1 encargándome de la sección de IoT Device Design del capítulo 5 y de la documentación del despliegue en el capítulo 6. Coordiné con los demás integrantes para alinear el diseño del dispositivo con la arquitectura definida, compartiendo avances y recibiendo retroalimentación del grupo, lo que permitió mantener una visión integrada del producto PsyMed.</p>
+                <span class="version-title">AV2:</span>
+                <p><span class="student-name">Paolo Torres:</span> Durante el Sprint 2 mantuve una coordinación constante con el equipo para organizar el desarrollo del aplicativo móvil y la integración del dispositivo IoT con su edge. Lideré la división de tareas, revisé los avances realizados por cada integrante y brindé retroalimentación para asegurar que el trabajo mantuviera coherencia con la solución planteada. Además, promoví la toma de decisiones conjunta frente a los ajustes necesarios durante el avance, permitiendo que el equipo mantuviera una dirección clara y colaborativa hacia el cumplimiento del objetivo del sprint.</p>
+                <p><span class="student-name">Omar Rivera:</span> En el Sprint 2 participé activamente en la organización del avance relacionado con el aplicativo móvil, contribuyendo a que las funcionalidades desarrolladas respondieran a las necesidades previamente identificadas en los requisitos del proyecto. Asimismo, apoyé en la validación de la relación entre el flujo móvil, el dispositivo IoT y su edge, asegurando que estos componentes se integraran de manera coherente dentro de la propuesta. Mi participación permitió reforzar el trabajo en equipo y mantener alineadas las decisiones del sprint con los objetivos establecidos.</p>
+                <p><span class="student-name">Romina Maita:</span> Durante el Sprint 2 contribuí al liderazgo compartido del equipo participando en la revisión del aplicativo móvil y en la coordinación de mejoras relacionadas con la experiencia de uso. Me mantuve activa en las conversaciones grupales para proponer ajustes, resolver dudas y asegurar que las decisiones tomadas reflejaran una visión conjunta del producto. Además, apoyé en la validación de la interacción entre el usuario, la aplicación y el dispositivo IoT, fortaleciendo la colaboración entre los integrantes durante esta etapa del proyecto.</p>
+                <p><span class="student-name">Luis Montañez:</span> AV2 Participé en el Sprint 2 apoyando el desarrollo del aplicativo móvil y la revisión de su relación con el dispositivo IoT y su edge. Mi aporte se centró en mantener la coherencia visual y funcional de la solución, verificando que los elementos del aplicativo respondieran a los lineamientos definidos previamente por el equipo. Asimismo, colaboré en la revisión de los avances grupales, aportando observaciones para mejorar la presentación y consistencia del producto durante esta segunda etapa de implementación.</p>
+                <p><span class="student-name">Melisa Sulca:</span> En el Sprint 2 participé activamente en el avance correspondiente al dispositivo IoT y su edge, asegurando que su funcionamiento estuviera alineado con la propuesta de valor de PsyMed. Coordiné con mis compañeros para integrar este componente con el aplicativo móvil y validar que la información obtenida pudiera aportar al seguimiento del paciente. Esta participación permitió fortalecer el trabajo colaborativo del equipo, ya que se requirió comunicación constante para conectar adecuadamente los elementos físicos y digitales de la solución.</p>
             </td>
             <td>Como grupo, cumplimos con el criterio al estar pendientes de la necesidad conjunta para apoyar y brindar una mano a todas aquellas tareas que lo requieran. Trabajamos en equipo liderando nuestras tareas asignadas para lograr el objetivo conjunto.</td>
         </tr>
         <tr>
             <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
             <td>
-                <strong>Avn1:</strong><br><br>
-                <strong>Paolo Torres:</strong> Planifiqué las reuniones de avances, establecí fechas límite para cada tarea y de esta manera tener un control y organización en base al límite de tiempo para la entrega del avance. Estuvo a disposición de cualquier duda o necesidad de apoyo para avanzar cualquiera de los capítulos, creando así, un entorno colaborativo en el equipo donde todos nos apoyamos de manera conjunta para llegar a la misma meta.
-                <br><br>
-                <strong>Omar Rivera:</strong> En la elaboración del capítulo 3, contribuí a la planificación y organización de los requisitos del proyecto, definiendo objetivos claros mediante el uso de herramientas como User Stories, Impact Mapping y Product Backlog. Se establecieron criterios de aceptación estructurados que facilitaron la validación de los requerimientos y permitieron mantener una comunicación efectiva entre los integrantes del equipo. Asimismo, se fomentó un entorno colaborativo al integrar los aportes de todos los miembros, logrando cumplir con los entregables dentro de los plazos establecidos y asegurando la calidad del trabajo desarrollado.
-                <br><br>
-                <strong>Romina Maita:</strong> He fomentado un entorno colaborativo e inclusivo al estar disponible para coordinar actividades, escuchar a los demás y promover la participación de todos en las discusiones del equipo. A través de la organización de conversaciones y seguimiento por chat y llamadas, he ayudado a definir metas claras, distribuir tareas y dar continuidad a los avances, contribuyendo al cumplimiento de los objetivos del proyecto dentro de los plazos establecidos.
-                <br><br>
-                <strong>Luis Montañez:</strong> Asumí responsabilidades específicas dentro del cronograma del equipo, desarrollando el análisis de competidores, entrevistas, artefactos de needfinding y participando en el Big Picture Eventstorming dentro de los plazos acordados.
-                <br><br>
-                <strong>Melisa Sulca:</strong> Ayudé a definir la organización y la planificación del trabajo durante una reunión realizada en equipo. Tras aquello, elaboré las secciones clave del capítulo 1 como el StartUp Profile y el Solution Profile. Estas tareas permitieron establecer una base clara del diseño del proyecto PsyMed, la cual está alineada con las necesidades de los usuarios. Además, al realizar mis tareas asignadas, ayudé al equipo a cumplir con sus objetivos planteados para la TB1, promoviendo un trabajo ordenado y colaborativo.
-                <br><br>
-                <strong>TB1:</strong><br><br>
-                <strong>Paolo Torres:</strong> Para esta entrega planifiqué el cronograma de desarrollo del Sprint 1 y las sesiones de revisión de diseño, estableciendo fechas límite claras para cada sección del capítulo 5 y 6. Mantuve un canal de comunicación abierto para resolver dudas sobre las convenciones de código, el flujo de despliegue y los criterios de diseño, garantizando que el equipo avanzara de manera sincronizada y cumpliera con los objetivos de implementación y prototipado en los plazos acordados.
-                <br><br>
-                <strong>Omar Rivera:</strong> Durante la TB1 contribuí a crear un entorno de trabajo ordenado al definir junto al equipo las metas del Sprint 1, estructurando el Sprint Backlog con tareas claras y criterios de aceptación verificables. Participé en la documentación del Testing Evidence y las Services Documentation, integrando los aportes de todos los miembros y velando por que cada integrante tuviera claridad sobre su rol, lo que permitió cumplir con los entregables del capítulo 6 dentro del plazo establecido.
-                <br><br>
-                <strong>Romina Maita:</strong> Promoví un entorno inclusivo durante la TB1 al coordinar las revisiones grupales de los wireframes y mockups de las aplicaciones, asegurando que todos los integrantes tuvieran la oportunidad de proponer mejoras antes de cerrar cada artefacto. A través del seguimiento constante por chat y llamadas, ayudé a mantener las metas del capítulo 5 visibles para el equipo y a redistribuir tareas cuando fue necesario, contribuyendo al cumplimiento puntual de los objetivos.
-                <br><br>
-                <strong>Luis Montañez:</strong> Asumí responsabilidades concretas en el cronograma de la TB1, elaborando las Style Guidelines, los Labeling Systems y los Navigation Systems del capítulo 5 dentro de los plazos acordados por el equipo. Mi cumplimiento oportuno de estas tareas permitió que los demás integrantes avanzaran con los wireflows y mockups tomando como referencia una guía de estilos ya definida, favoreciendo un flujo de trabajo colaborativo y ordenado.
-                <br><br>
-                <strong>Melisa Sulca:</strong> Participé activamente en la planificación de la TB1, acordando con el equipo los entregables correspondientes a cada integrante para los capítulos 5 y 6. Me encargué del diseño del IoT Device Design y de la documentación del Deployment Evidence en el capítulo 6, cumpliendo con los plazos establecidos. Al mantenerme alineada con las metas grupales y comunicar mis avances de forma oportuna, contribuí a sostener un entorno colaborativo enfocado en el logro de los objetivos del proyecto.
+                <span class="version-title">AV1:</span>
+                <p><span class="student-name">Paolo Torres:</span> Planifiqué las reuniones de avances, establecí fechas límite para cada tarea y, de esta manera, mantuve un control y organización en base al tiempo disponible para la entrega del avance. Estuve a disposición de cualquier duda o necesidad de apoyo para avanzar cualquiera de los capítulos, creando así un entorno colaborativo en el equipo donde todos nos apoyamos de manera conjunta para llegar a la misma meta.</p>
+                <p><span class="student-name">Omar Rivera:</span> En la elaboración del capítulo 3, contribuí a la planificación y organización de los requisitos del proyecto, definiendo objetivos claros mediante el uso de herramientas como User Stories, Impact Mapping y Product Backlog. Se establecieron criterios de aceptación estructurados que facilitaron la validación de los requerimientos y permitieron mantener una comunicación efectiva entre los integrantes del equipo. Asimismo, se fomentó un entorno colaborativo al integrar los aportes de todos los miembros, logrando cumplir con los entregables dentro de los plazos establecidos y asegurando la calidad del trabajo desarrollado.</p>
+                <p><span class="student-name">Romina Maita:</span> He fomentado un entorno colaborativo e inclusivo al estar disponible para coordinar actividades, escuchar a los demás y promover la participación de todos en las discusiones del equipo. A través de la organización de conversaciones y seguimiento por chat y llamadas, he ayudado a definir metas claras, distribuir tareas y dar continuidad a los avances, contribuyendo al cumplimiento de los objetivos del proyecto dentro de los plazos establecidos.</p>
+                <p><span class="student-name">Luis Montañez:</span> Asumí responsabilidades específicas dentro del cronograma del equipo, desarrollando el análisis de competidores, entrevistas, artefactos de needfinding y participando en el Big Picture EventStorming dentro de los plazos acordados.</p>
+                <p><span class="student-name">Melisa Sulca:</span> Ayudé a definir la organización y la planificación del trabajo durante una reunión realizada en equipo. Tras aquello, elaboré las secciones clave del capítulo 1, como el Startup Profile y el Solution Profile. Estas tareas permitieron establecer una base clara del diseño del proyecto PsyMed, la cual está alineada con las necesidades de los usuarios. Además, al realizar mis tareas asignadas, ayudé al equipo a cumplir con sus objetivos planteados para la TB1, promoviendo un trabajo ordenado y colaborativo.</p>
+                <span class="version-title">TB1:</span>
+                <p><span class="student-name">Paolo Torres:</span> Para esta entrega planifiqué el cronograma de desarrollo del Sprint 1 y las sesiones de revisión de diseño, estableciendo fechas límite claras para cada sección del capítulo 5 y 6. Mantuve un canal de comunicación abierto para resolver dudas sobre las convenciones de código, el flujo de despliegue y los criterios de diseño, garantizando que el equipo avanzara de manera sincronizada y cumpliera con los objetivos de implementación y prototipado en los plazos acordados.</p>
+                <p><span class="student-name">Omar Rivera:</span> Durante la TB1 contribuí a crear un entorno de trabajo ordenado al definir junto al equipo las metas del Sprint 1, estructurando el Sprint Backlog con tareas claras y criterios de aceptación verificables. Participé en la documentación del Testing Evidence y las Services Documentation, integrando los aportes de todos los miembros y velando por que cada integrante tuviera claridad sobre su rol, lo que permitió cumplir con los entregables del capítulo 6 dentro del plazo establecido.</p>
+                <p><span class="student-name">Romina Maita:</span> Promoví un entorno inclusivo durante la TB1 al coordinar las revisiones grupales de los wireframes y mockups de las aplicaciones, asegurando que todos los integrantes tuvieran la oportunidad de proponer mejoras antes de cerrar cada artefacto. A través del seguimiento constante por chat y llamadas, ayudé a mantener las metas del capítulo 5 visibles para el equipo y a redistribuir tareas cuando fue necesario, contribuyendo al cumplimiento puntual de los objetivos.</p>
+                <p><span class="student-name">Luis Montañez:</span> Asumí responsabilidades concretas en el cronograma de la TB1, elaborando las Style Guidelines, los Labeling Systems y los Navigation Systems del capítulo 5 dentro de los plazos acordados por el equipo. Mi cumplimiento oportuno de estas tareas permitió que los demás integrantes avanzaran con los wireflows y mockups tomando como referencia una guía de estilos ya definida, favoreciendo un flujo de trabajo colaborativo y ordenado.</p>
+                <p><span class="student-name">Melisa Sulca:</span> Participé activamente en la planificación de la TB1, acordando con el equipo los entregables correspondientes a cada integrante para los capítulos 5 y 6. Me encargué del diseño del IoT Device Design y de la documentación del Deployment Evidence en el capítulo 6, cumpliendo con los plazos establecidos. Al mantenerme alineada con las metas grupales y comunicar mis avances de forma oportuna, contribuí a sostener un entorno colaborativo enfocado en el logro de los objetivos del proyecto.</p>
+                <span class="version-title">AV2:</span>
+                <p><span class="student-name">Paolo Torres:</span> Para el Sprint 2 organicé junto al equipo las metas relacionadas con el aplicativo móvil y el dispositivo IoT con su edge, estableciendo prioridades y plazos para que cada integrante pudiera avanzar de forma ordenada. Supervisé el cumplimiento de las tareas asignadas, resolví dudas durante el proceso y promoví la revisión conjunta de los entregables antes de cerrar el avance. De esta manera, contribuí a mantener un entorno colaborativo, planificado e inclusivo, enfocado en cumplir los objetivos definidos para esta etapa del proyecto.</p>
+                <p><span class="student-name">Omar Rivera:</span> Durante el Sprint 2 colaboré en la planificación de las tareas vinculadas al aplicativo móvil, ayudando a organizar las funcionalidades que debían completarse y validarse dentro del avance. También participé en la revisión de la integración con el dispositivo IoT y su edge, tomando en cuenta los objetivos definidos por el equipo. Mi aporte permitió que las actividades se mantuvieran alineadas con las metas del sprint, promoviendo un trabajo colaborativo en el que cada integrante pudo contribuir desde sus responsabilidades asignadas.</p>
+                <p><span class="student-name">Romina Maita:</span> En el Sprint 2 ayudé a mantener un entorno colaborativo e inclusivo mediante la coordinación de revisiones grupales del aplicativo móvil y la participación activa en las decisiones sobre su funcionamiento. Escuché las propuestas de mis compañeros, aporté sugerencias de mejora y apoyé en el seguimiento de las tareas para que el equipo pudiera cumplir con los plazos establecidos. Esta participación contribuyó a que el avance se desarrollara de manera organizada, considerando tanto la experiencia del usuario como la integración con el dispositivo IoT.</p>
+                <p><span class="student-name">Luis Montañez:</span> AV2 Asumí responsabilidades específicas dentro del Sprint 2, apoyando en la revisión del aplicativo móvil y en la coherencia de su diseño con los avances previos del proyecto. Cumplí con las tareas asignadas dentro de los plazos acordados y participé en las coordinaciones grupales para validar que el producto mantuviera una estructura clara y consistente. Mi participación aportó al cumplimiento de los objetivos del sprint y favoreció un flujo de trabajo colaborativo entre los integrantes del equipo.</p>
+                <p><span class="student-name">Melisa Sulca:</span> Durante el Sprint 2 contribuí a la planificación y cumplimiento de las tareas relacionadas con el dispositivo IoT y su edge, coordinando con el equipo para que este componente se integrara correctamente con el aplicativo móvil. Organicé mis avances de acuerdo con las metas establecidas y comuniqué oportunamente los resultados obtenidos, lo que facilitó la revisión grupal y la toma de decisiones. De esta manera, aporté al cumplimiento de los objetivos del sprint dentro de un entorno colaborativo y orientado al logro común.</p>
             </td>
-            <td>Como grupo, cumplimos con el criterio al establecer la meta conjunta y organizar las tareas dividiéndolas y asignando fechas límites previos a la entrega del trabajo para tener holgura para revisar el envío y asegurar el cumplimiento del objetivo.</td>
+            <td>Como grupo, cumplimos con el criterio al establecer la meta conjunta y organizar las tareas dividiéndolas y asignando fechas límite previas a la entrega del trabajo para tener holgura, revisar el envío y asegurar el cumplimiento del objetivo.</td>
         </tr>
     </tbody>
 </table>
