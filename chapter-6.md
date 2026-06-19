@@ -585,14 +585,66 @@ https://github.com/IOT-UPC/edge-server
 En esta sección se muestra la evidencia de la ejecución del Sprint 2. Durante este sprint se logró poner en funcionamiento el prototipo del dispositivo IoT (simulado en Wokwi sobre ESP32), el edge server respondiendo a las peticiones de lecturas y alertas, y la aplicación móvil mostrando las pantallas principales conectadas al **backend en la nube** (la app no se integra con la capa IoT/Edge).
 
 - Dispositivo IoT en funcionamiento (lectura de signos vitales y pantalla OLED): <br>
-poner imagen aquí
+<img alt="EjecucionESP32" src="https://github.com/user-attachments/assets/c3cb5634-d55e-4f5c-9f54-d2de7b174dd3" />
 
 - Edge server procesando una lectura y generando una alerta (consola / respuesta del endpoint): <br>
-poner imagen aquí
+<img width="832" height="305" alt="CapturaLogsEdge" src="https://github.com/user-attachments/assets/77327417-f6e3-4fe5-8b2c-fddd8e8c723a" />
+
 
 - Aplicación móvil ejecutada **localmente en emulador** (pantallas de login, home y salud), consumiendo el backend en la nube. Esta app **no forma parte del flujo IoT → Edge** y **no fue desplegada** en esta etapa.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d60dce31-7915-4894-bb47-f7e47a5867c2" alt="Imagen 1" width="380">
+</p>
 
-**Video de la ejecución del Sprint 2:** poner enlace del video aquí
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/60c91c36-113e-49af-bb99-eb2ae439cda8" alt="Imagen 2" width="380">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d3d8fa70-0f47-400b-8806-4d8479246351" alt="Imagen 3" width="380">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eaf9d6ea-764c-4f67-bd23-256ab8bede8b" alt="Imagen 4" width="380">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/df398009-4f7f-4245-ab1d-a1519e987d18" alt="Imagen 5" width="380">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e328de5a-59a8-442c-bb63-3d786dfdc5b3" alt="Imagen 6" width="380">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7d1c1ecd-2cfa-409c-9106-13361fcf5442" alt="Imagen 7" width="380">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f43b6518-2f23-461e-8d4b-fccef78bf80d" alt="Imagen 8" width="380">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7b6b2085-e9d1-41b7-8ede-c0a2618ceaf2" alt="Imagen 9" width="380">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/09ee2c15-7310-4e35-824b-26d726164fbe" alt="Imagen 10" width="380">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/befef9dc-d225-459d-8ef5-4a347e14be67" alt="Imagen 11" width="380">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/db62de61-f89b-47b8-ab98-0f3327de9fcc" alt="Imagen 12" width="380">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/42342328-b232-4cee-aa6a-3c7dc30ad00e" alt="Imagen 13" width="380">
+</p>
+
+
 
 #### 6.2.2.7. Services Documentation Evidence for Sprint Review.
 
