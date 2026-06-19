@@ -707,9 +707,19 @@ poner imagen aquí
 En esta sección se presentan los analíticos de colaboración del equipo durante el Sprint 2. El trabajo se organizó por capas de la arquitectura: el firmware del dispositivo IoT, el edge server y la aplicación móvil, complementados con las tareas de integración con el backend, testing y despliegue. Las gráficas de contribución de los repositorios `iot-model`, `edge-server` y `mobileapp` evidencian la participación de los integrantes en los componentes de esta etapa.
 
 Analíticos de colaboración (GitHub Insights de los repositorios iot-model, edge-server y mobileapp): <br>
-poner imagen aquí
 
-<div style="page-break-after: always;"></div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/adfd6067-5480-442e-95d9-8f5266c58af4" alt="Imagen 15" width="600">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5c262dfb-e7e8-4d52-883d-4c433eb6faac" alt="Imagen 16" width="600">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9ed04834-9339-46fa-96c0-0fb52e90e622" alt="Imagen 17" width="600">
+</p>
+
 
 ## 6.3. Validation Interviews.
 
