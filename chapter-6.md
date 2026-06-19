@@ -333,9 +333,9 @@ https://github.com/IOT-UPC/landing_page
 
 | Repository      | Branch  | Commit Id | Commit Message                         | Commit Message Body                                                                                  | Commited on (Date) |
 | --------------- | ------- | --------- | -------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------ |
-| front | develop | XXXXXXXX  | test(auth): validate login form        | Se agregaron validaciones iniciales para formularios de autenticación y pruebas funcionales básicas. | 11/05/2026         |
-| Landing-Page    | develop | XXXXXXXX  | test(ui): validate landing sections    | Se realizaron pruebas de visualización y navegación en las secciones principales de la landing page. | 11/05/2026         |
-| front | develop | XXXXXXXX  | test(deploy): verify vercel deployment | Validación del correcto despliegue del frontend en entorno de producción mediante Vercel.            | 11/05/2026         |
+| front | develop | 238tree 0de83a78334c64250b18b5191f6cbd6b97e77f84  | test(auth): validate login form        | Se agregaron validaciones iniciales para formularios de autenticación y pruebas funcionales básicas. | 11/05/2026         |
+| Landing-Page    | develop | 238tree 0de83a78334c64250b18b5191f6cbd6b97e77f84  | test(ui): validate landing sections    | Se realizaron pruebas de visualización y navegación en las secciones principales de la landing page. | 11/05/2026         |
+| front | develop | 238tree 0de83a78334c64250b18b5191f6cbd6b97e77f84  | test(deploy): verify vercel deployment | Validación del correcto despliegue del frontend en entorno de producción mediante Vercel.            | 11/05/2026         |
 
 <div style="page-break-after: always;"></div>
 
@@ -988,7 +988,8 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 
 ## 6.4. Video About-the-Product.
 
-Link del video en Microsoft Stream: https://acortar.link/bWwB1q
+- Link del video en youtube: https://youtu.be/97MtjWkinhc?si=gN0m_KggASJX5iVt
+- Link del video en Microsoft Stream: https://acortar.link/bWwB1q
 <br><br>
 
 <img width="1357" height="765" alt="image" src="https://github.com/user-attachments/assets/6135843d-fcef-4bb1-b39e-7e78b0dc6c57" />
@@ -1085,3 +1086,7 @@ https://www.who.int/es/news/item/02-03-2022-covid-19-pandemic-triggers-25-increa
 
 ### Anexo B: Video about the team:
 - Link del video about the team: https://acortar.link/bWwB1q
+
+### Anexo C: Video about the product:
+- Link del video about the product en youtube: https://youtu.be/97MtjWkinhc?si=gN0m_KggASJX5iVt
+- Link del video about the product en Microsoft Stream: https://acortar.link/bWwB1q
