@@ -900,7 +900,7 @@ Respecto a las funciones de salud mental, el entrevistado consideró claro el re
 
 - Entrevista 2:
 
-<img width="1811" height="812" alt="foto_entrevista_paciente2" src="https://github.com/user-attachments/assets/6a35938e-e5d0-45bc-8d86-4c6a2832b4b3" />
+<img width="672" height="442" alt="foto_entrevista_paciente2" src="https://github.com/user-attachments/assets/6a35938e-e5d0-45bc-8d86-4c6a2832b4b3" />
 
 
 | Nombre               | Leguer                     |
@@ -920,6 +920,27 @@ Sin embargo, Leguer también identificó algunos aspectos que podrían mejorarse
 
 Respecto a las funciones relacionadas con la salud mental, el entrevistado señaló que se sentiría cómodo registrando su estado de ánimo diariamente, debido a que ya tiene el hábito de registrar información personal en otras aplicaciones, como el seguimiento de comidas. Además, consideró que PsyMed podría ayudar a los usuarios a desarrollar una mayor conciencia sobre su bienestar emocional y mental. Finalmente, aunque percibió la plataforma como una herramienta beneficiosa, manifestó que le gustaría contar con medidas adicionales de seguridad durante el inicio de sesión, como la implementación de una verificación en dos pasos, para reforzar la protección de la información personal de los usuarios.
 
+- Entrevista 3:
+
+<img width="672" height="442" alt="image" src="https://github.com/user-attachments/assets/42eae354-8e25-44f8-a177-3fad156a1ff5" />
+
+
+| Nombre               | Brissa                      |
+|----------------------|-----------------------------|
+| Apellido             | Acosta                     |
+| Edad                 | 22 años                     |
+| Distrito             | Los Olivos                   |
+| URL                  | https://acortar.link/msT3NM |
+| Inicio de entrevista | 00:00                       |
+| Fin de entrevista    | 06:45                       |
+
+Brissa Acosta, de 22 años y residente en Los Olivos, evaluó la propuesta de PsyMed, una aplicación móvil y web orientada al seguimiento de pacientes en salud mental. A partir de la sección de preguntas, su experiencia fue favorable, ya que pudo comprender rápidamente el propósito principal de la plataforma y la diferencia entre el perfil de paciente y el perfil profesional. Además, destacó que la interfaz resultaba sencilla de explorar, debido a que las opciones estaban organizadas de manera clara y no generaban sensación de saturación. También consideró positivo que el proceso de inicio de sesión y creación de cuenta fuera directo, ya que esto facilita que nuevos usuarios puedan familiarizarse con la aplicación sin mayores dificultades.
+
+Asimismo, Brissa señaló que el video explicativo ayudaba a entender mejor el funcionamiento general del aplicativo, especialmente porque permitía relacionar las acciones del entorno móvil con las funciones disponibles en la versión web. En cuanto al registro de pacientes, medicamentos y citas, mencionó que el flujo seguía un orden lógico, lo cual hacía que las tareas principales fueran fáciles de completar. También valoró que la plataforma mantuviera una estructura coherente entre sus distintas secciones, ya que esto contribuía a que el usuario no se perdiera durante la navegación.
+
+No obstante, la entrevistada identificó algunos aspectos que podrían mejorarse dentro de la interfaz. Indicó que ciertos botones de la landing page deberían estar correctamente enlazados para dirigir al usuario hacia el registro o hacia las secciones correspondientes. También observó que algunos títulos no resaltaban lo suficiente frente al texto común, por lo que recomendó diferenciarlos mejor mediante tamaño, color o peso visual. Además, sugirió mejorar la distribución de algunos formularios, especialmente en el perfil profesional al momento de agregar un paciente, ya que algunos campos dentro de la ventana modal se percibían muy juntos. De igual manera, mencionó que algunas secciones tardaban en cargar, por lo que sería conveniente optimizar el rendimiento de la plataforma.
+
+Respecto a las funciones relacionadas con la salud mental, Brissa consideró útil el registro del estado emocional y biológico en el modo paciente, ya que permite llevar un seguimiento más constante del bienestar personal. También señaló que las notificaciones o recordatorios sobre citas y medicamentos serían una función importante, porque ayudarían al usuario a mantener una mejor organización de su tratamiento. Sin embargo, expresó cierta preocupación sobre el registro diario del estado de ánimo, principalmente por temas de privacidad y manejo de datos personales. A pesar de ello, reconoció que PsyMed podría contribuir a que los pacientes sean más conscientes de su salud mental y mantengan una comunicación más ordenada con el profesional a cargo. Finalmente, percibió la plataforma como confiable, debido a que separa adecuadamente los roles de paciente y profesional, y limita el acceso a la información según el perfil correspondiente.
 
 <div style="page-break-after: always;"></div>
 ### 6.3.3. Evaluaciones según heurísticas.
